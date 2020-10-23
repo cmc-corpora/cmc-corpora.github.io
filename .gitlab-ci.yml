@@ -1,5 +1,6 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 image: klakegg/hugo:ext-debian
+entrypoint : ['']
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
@@ -11,6 +12,9 @@ test:
   - master
 
 pages:
+  before_script:
+  - apt update && apt install -y git
+  - git submodule update --init --recursive
   script:
   - hugo
   artifacts:
