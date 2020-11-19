@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-academic
+module gitlab.com/ckcmc/ckcmc.gitlab.io
 
 go 1.15
 
