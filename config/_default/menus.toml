@@ -4,34 +4,65 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Demo"
-  url = "#hero"
+  name = "Conference Series"
   weight = 10
-
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Series Overview"
+  url = "series"
+  parent = "Conference Series"
+  weight = 10
+[[main]]
+  name = "Committee"
+  url = "series#committee"
+  parent = "Conference Series"
   weight = 20
+[[main]]
+  name = "Conferences"
+  url = "series#conferences"
+  parent = "Conference Series"
+  weight = 30
+[[main]]
+  name = "Organization"
+  url = "series#orga"
+  parent = "Conference Series"
+  weight = 40
+
+
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "CKCMC"
+  weight = 20
+[[main]]
+  name = "CKCMC Overview"
+  url = "ckcmc"
+  parent = "CKCMC"
+  weight = 10
+[[main]]
+  name = "Partners"
+  url = "ckcmc/#partners"
+  parent = "CKCMC"
+  weight = 20
+[[main]]
+  name = "Documentation"
+  url = "ckcmc/docs"
+  parent = "CKCMC"
+  weight = 30
+
+
+[[main]]
+  name = "CMC-TEI"
+  url = "#contact"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "publication"
   weight = 40
-
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
