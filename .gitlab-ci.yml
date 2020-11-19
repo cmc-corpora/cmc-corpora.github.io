@@ -1,25 +1,25 @@
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 image:
   name: klakegg/hugo:ext-debian
-  entrypoint : ['']
+  entrypoint: ['']
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 test:
   script:
-  - hugo
+    - hugo
   except:
-  - master
+    - master
 
 pages:
   before_script:
-  - apt update && apt install -y git
-  - git submodule update --init --recursive
+    - apt update && apt install -y git
+    - git submodule update --init --recursive
   script:
-  - hugo
+    - hugo --baseURL https://ckcmc.gitlab.io/
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
+    - master
