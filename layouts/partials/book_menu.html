@@ -4,10 +4,20 @@
 {{- $current_node := .current_node -}}
 {{- $is_root := .is_root -}}
 {{- $order_by := .order_by -}}
+
+{{- $menu_prefix := "ckcmc/docs/" -}}
+{{- $menu_mindepth := 1 -}}
+
 {{ $icon := "" }}
 
 {{ with .sect }}
-  {{ if .IsSection}}
+  {{ if and (.IsSection) (or (le (.CurrentSection.Dir | strings.Count "/") $menu_mindepth) (hasPrefix .CurrentSection.Dir $menu_prefix) ) }}
+  <!--
+  FirstSection:{{ .FirstSection.Dir }} </br>
+  Parent:{{ .Parent.Dir }} </br>
+  CurrentSection:{{ .CurrentSection.Dir }} </br>
+  -->
+
     {{ if not $is_root }}
       {{- $first = eq $current_node.FirstSection . -}}
     {{ end }}
@@ -76,9 +86,16 @@
     {{end}}
 
   {{- else -}}
+  <!--
+  EFirstSection:{{ .FirstSection.Dir }} </br>
+  EParent:{{ .Parent.Dir }} </br>
+  ECurrentSection:{{ .CurrentSection.Dir }} </br>
+  -->
+  {{- if (hasPrefix .CurrentSection.Dir $menu_prefix) -}}
     {{- if not .Params.Hidden -}}
       <li class="{{ if and .File $current_node.File | and (eq .File.UniqueID $current_node.File.UniqueID) }}active{{ end }}"><a href="{{ .RelPermalink }}">{{ safeHTML $icon }}{{ .LinkTitle | default .Title }}</a></li>
     {{- end -}}
+  {{ end -}}
   {{ end -}}
 {{- end -}}
 
