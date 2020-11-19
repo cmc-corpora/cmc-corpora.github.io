@@ -21,13 +21,7 @@
   {{ end }}
 
   {{ range $page.Params.content.user_groups }}
-  {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
-
-  {{if $query}}
-  <div class="col-md-12">
-    <h2 class="mb-4">{{ . | markdownify }}</h2>
-  </div>
-  {{end}}
+  {{ $query := sort (where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .)) ".Params.committee_period" }}
 
   {{ range $query }}
   {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
@@ -51,6 +45,7 @@
 
     <div class="portrait-title">
       <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+      {{ with .Params.committee_period }}<h3>{{ . | markdownify }}</h3>{{ end }}
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
       {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
