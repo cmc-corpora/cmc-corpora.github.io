@@ -1,0 +1,48 @@
+---
+# Display name
+title: Ciara Wigham
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position/tagline
+role: Researcher and Lecturer in English and Applied Linguistics (Didactics)
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Université Clermont Auvergne, LRL (Laboratoire de recherche sur le langage)
+  url: http://lrl.univ-bpclermont.fr/rubrique145.html
+
+# Short bio (displayed in user profile at end of posts)
+bio: Something about Ciara.
+
+# Interests to show in About widget
+interests:
+- non-standard language processing
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
+
+# Email for Contact widget or Gravatar
+email: "ciara.wigham@uca.fr"
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Remove this if you are not using the People widget.
+user_groups:
+- former steering committee
+
+committee_period: "2015 - 2018"
+
+---
+
+Ciara lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
+egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
+vel metus tempus vulputate.
