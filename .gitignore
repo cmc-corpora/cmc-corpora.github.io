@@ -1,0 +1,9 @@
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+
+# local
+external/
