@@ -51,7 +51,7 @@
 
 [[main]]
   name = "CMC-TEI"
-  url = "#contact"
+  url = "ckcmc/docs/tei/"
   weight = 30
 
 [[main]]
