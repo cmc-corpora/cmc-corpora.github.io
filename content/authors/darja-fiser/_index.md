@@ -44,9 +44,9 @@ highlight_name: false
 user_groups:
 - IJS
 - CKCMC 
-- steering committee
+- former steering committee
 
-committee_period: "since 2018"
+committee_period: "2015 - 2019"
 
 ---
 
