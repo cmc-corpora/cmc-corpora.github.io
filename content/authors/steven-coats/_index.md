@@ -40,7 +40,7 @@ highlight_name: false
 user_groups:
 - steering committee
 
-committee_period: "since 2019"
+committee_period: "since 2018"
 ---
 
 Steven lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
