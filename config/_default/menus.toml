@@ -8,22 +8,22 @@
   weight = 10
 [[main]]
   name = "Series Overview"
-  url = "series"
+  url = "series/#"
   parent = "Conference Series"
   weight = 10
 [[main]]
   name = "Committee"
-  url = "series#committee"
+  url = "series/#committee"
   parent = "Conference Series"
   weight = 20
 [[main]]
   name = "Conferences"
-  url = "series#conferences"
+  url = "series/#conferences"
   parent = "Conference Series"
   weight = 30
 [[main]]
   name = "Organization"
-  url = "series#orga"
+  url = "series/#orga"
   parent = "Conference Series"
   weight = 40
 
@@ -34,7 +34,7 @@
   weight = 20
 [[main]]
   name = "CKCMC Overview"
-  url = "ckcmc"
+  url = "ckcmc/#"
   parent = "CKCMC"
   weight = 10
 [[main]]
@@ -44,7 +44,7 @@
   weight = 20
 [[main]]
   name = "Documentation"
-  url = "ckcmc/docs"
+  url = "ckcmc/docs/"
   parent = "CKCMC"
   weight = 30
 
@@ -56,7 +56,7 @@
 
 [[main]]
   name = "Publications"
-  url = "publication"
+  url = "publication/"
   weight = 40
 
 [[main]]
