@@ -1,20 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Proceedings of the 6th Conference on Computer-Mediated Communication (CMC)
-  and Social Media (CMC-corpora 2018)
+title: 'Special Issue: Computer-mediated communication (CMC) and social media corpora'
 subtitle: ''
 summary: ''
 authors:
 - Reinhild Vandekerckhove
-- Darja Fišer
 - Lisa Hilte
+- Darja Fišer
+- Walter Daelemans
 profile: false
-tags:
-- cmc-corpora conference proceeding
+tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2020-10-30T10:09:28+01:00
+date: '2019-09-01'
+lastmod: 2020-12-02T10:51:18+01:00
 featured: false
 draft: false
 
@@ -32,12 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [cmc-corpora2018]
-publishDate: '2020-10-30T09:09:28.497561Z'
+publishDate: '2020-12-02T09:51:18.586799Z'
 publication_types:
-- '9'
-abstract: Proceedings of the 6th Conference on Computer-Mediated Communication (CMC)
-  and Social Media Corpora (CMC-corpora 2018), 17-18 September 2018, University of
-  Antwerp
-publication: '*Univerity of Antwerp*'
-url_pdf: https://hdl.handle.net/10067/1534160151162165141
+- '5'
+abstract: ''
+publication: '*European Journal of Applied Linguistics*'
+url_publisher: https://www.degruyter.com/view/journals/eujal/7/2/eujal.7.issue-2.xml
 ---
