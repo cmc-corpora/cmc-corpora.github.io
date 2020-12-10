@@ -8,3 +8,14 @@
 #intro.wg-blank h1 {
   text-align: center;
 }
+
+
+p {
+  //  Add browser-based hyphenation support for the site (until (hu)go catches up).
+  //  see https://github.com/gohugoio/hugo/issues/307
+  //
+  //  https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens
+  hyphens: auto;
+  // https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap
+  // word-wrap: break-word;
+}
