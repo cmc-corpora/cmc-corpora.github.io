@@ -1,4 +1,4 @@
-# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+---
 image:
   name: klakegg/hugo:ext-ubuntu
   entrypoint: ['']
@@ -11,17 +11,37 @@ test:
     - hugo
   except:
     - master
+    - dev
+    - tags
 
-pages:
+# FIXME: part I
+# hugo doesn't generate reliably / (with data from content/home) is missing -
+# sometimes!
+#
+# Needs to be renamed 'pages' for gitlab to generate pages.
+pages-master:
   before_script:
     - apt update && apt install -y git
-    - git submodule update --init --recursive
   script:
     - go version
     - hugo version
-    - hugo --baseURL https://ckcmc.gitlab.io/
+    # - hugo --baseURL https://ckcmc.gitlab.io/
   artifacts:
     paths:
       - public
   only:
-    - master
+    - disabled
+
+# FIXME: part II
+# Currently, 'dev' is built offline, i.e. /public (and /public/dev) are taken
+# as-is from the repo.
+#
+# Onle *pages* makes gitlab generate pages!
+pages:
+  script:
+    - hugo version
+  artifacts:
+    paths:
+      - public
+  only:
+    - dev
