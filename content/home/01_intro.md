@@ -32,9 +32,8 @@ design:
             <h1>Conference Series </h1>
 </div>
 <div class="col-12 col-lg-8 section-heading">
-Series of conferences dedicated to the collection, annotation, processing and
-analysis of corpora of computer-mediated communication (CMC) and social media
-for research in the Humanities.
+Series of conferences dedicated to the collection, annotation, processing, and
+analysis of corpora of computer-mediated communication (CMC) and social media.
 
 [More about the Conference Series](/series)
 </div>
