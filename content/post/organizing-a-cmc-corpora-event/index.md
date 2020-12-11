@@ -146,4 +146,4 @@ Further aspects which the local organizers may wish to address in the exposé:
   call may also address people who have not presented a paper at the
   conference.
 
-Get in touch: contact @ cmc-corpora.org (without spaces)
+Get in touch: contact@cmc-corpora.org
