@@ -14,7 +14,7 @@ organizations:
   url: https://www.ijs.su
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Tomaž.
+#bio: Something about Tomaž.
 
 # Interests to show in About widget
 interests:

@@ -16,7 +16,7 @@ organizations:
   url: https://www.ids-mannheim.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Harald.
+#bio: Something about Harald.
 
 # Interests to show in About widget
 interests:

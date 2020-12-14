@@ -2,7 +2,7 @@
 title: Egon W. Stemle
 role: Researcher
 avatar_filename: avatar.jpg
-bio: Something about Egon.
+#bio: Something about Egon.
 interests:
   - Artificial Intelligence
   - Computational Linguistics

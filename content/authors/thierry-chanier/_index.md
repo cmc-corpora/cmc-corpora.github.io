@@ -17,7 +17,7 @@ organizations:
 eMail: thierry.chanier @ univ-bpclermont.fr (without spaces)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Thierry.
+#bio: Something about Thierry.
 
 # Interests to show in About widget
 interests:

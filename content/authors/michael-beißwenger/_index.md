@@ -16,7 +16,7 @@ organizations:
   url: https://www.uni-due.de/germanistik/beisswenger/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Michael.
+#bio: Something about Michael.
 
 # Interests to show in About widget
 interests:

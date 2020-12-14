@@ -16,7 +16,7 @@ organizations:
   url: https://www.cnrs.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Achille.
+#bio: Something about Achille.
 
 # Interests to show in About widget
 interests:

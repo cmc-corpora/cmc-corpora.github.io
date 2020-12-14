@@ -16,7 +16,7 @@ organizations:
   url: http://lrl.univ-bpclermont.fr/rubrique145.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Ciara.
+#bio: Something about Ciara.
 
 # Interests to show in About widget
 interests:
