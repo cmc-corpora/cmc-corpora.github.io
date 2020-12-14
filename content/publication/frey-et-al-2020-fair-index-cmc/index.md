@@ -9,6 +9,7 @@ authors:
 - Achille Falaise
 - Darja Fišer
 - Harald Lüngen
+profile: false
 publication_types:
 - '6'
 abstract: In this article, we examine the current situation of data dissemination
