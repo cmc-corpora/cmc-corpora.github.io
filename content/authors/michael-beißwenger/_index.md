@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: Professor in German Linguistics and Language Didactics
 
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 
 # Organizations/Affiliations to show in About widget
 organizations:
