@@ -78,7 +78,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - label: "Projects"
+      - label: "Conferences"
         name: "projects"
         required: false
         widget: "list"
@@ -99,8 +99,8 @@ collections:
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
   - name: projects
-    label: Projects
-    label_singular: Project
+    label: Conferences
+    label_singular: Conference
     folder: 'content/project'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
