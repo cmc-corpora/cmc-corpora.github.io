@@ -16,7 +16,7 @@ organizations:
   url: http://www.eurac.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Jenny.
+#bio: Something about Jenny.
 
 # Interests to show in About widget
 interests:

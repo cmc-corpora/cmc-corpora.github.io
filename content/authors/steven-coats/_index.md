@@ -16,7 +16,7 @@ organizations:
   url: http://cc.oulu.fi/~scoats/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Steven.
+#bio: Something about Steven.
 
 # Interests to show in About widget
 interests:

@@ -16,7 +16,7 @@ organizations:
   url: https://www.uantwerpen.be/en/research-groups/clips/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Lisa.
+#bio: Something about Lisa.
 
 # Interests to show in About widget
 interests:

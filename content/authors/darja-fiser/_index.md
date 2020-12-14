@@ -18,7 +18,7 @@ organizations:
   url: http://lojze.lugos.si/darja/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Darja.
+#bio: Something about Darja.
 
 # Interests to show in About widget
 interests:
