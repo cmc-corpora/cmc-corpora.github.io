@@ -6,3 +6,5 @@ type: book
 
 url: /ckcmc/docs/
 ---
+
+This is a place for Documentation.

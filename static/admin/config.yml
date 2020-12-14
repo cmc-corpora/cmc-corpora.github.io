@@ -3,7 +3,7 @@ backend:
   repo: ckcmc/ckcmc.gitlab.io
   auth_type: implicit
   app_id: ed1d9ac4ce9d273baea1dbdc7410c6143fa97af11df5a9be6177ef74524eb0b9
-  branch: master
+  branch: dev
 media_folder: 'static/media/'
 public_folder: 'media'
 collections:
