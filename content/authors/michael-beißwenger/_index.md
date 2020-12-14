@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Professor in German Linguistics and Language Didactics
 
+avatar_filename: avatar.jpg
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Duisburg-Essen, Faculty of Humanities

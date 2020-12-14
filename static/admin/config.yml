@@ -36,7 +36,7 @@ collections:
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
-      - {label: "Email", name: "email", widget: "string", required: false}
+      - {label: "Email (currently, for internal use only)", name: "email", widget: "string", required: false}
       - label: "Super user (is this the primary site user?)"
         name: "superuser"
         widget: "boolean"
@@ -45,7 +45,7 @@ collections:
         name: "user_groups"
         required: false
         widget: "list"
-      - {label: "Committee period (if applicable)", name: "committee_period", widget: "string", required: false}
+      - {label: "Committee period (if applicable, like '2014 - 2015' or 'since 2015')", name: "committee_period", widget: "string", required: false}
   - name: posts
     label: Posts
     label_singular: Post

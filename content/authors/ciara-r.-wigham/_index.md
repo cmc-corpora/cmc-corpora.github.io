@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Researcher and Lecturer in English and Applied Linguistics (Didactics)
 
+avatar_filename: avatar.jpg
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Université Clermont Auvergne, LRL (Laboratoire de recherche sur le langage)

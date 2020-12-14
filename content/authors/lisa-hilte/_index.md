@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Post-doc researcher 
 
+avatar_filename: avatar.jpg
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Antwerp, Computational Linguistics, Psycholinguistics and Sociolinguistics research center (CLiPS)
