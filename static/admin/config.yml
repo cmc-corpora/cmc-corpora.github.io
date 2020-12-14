@@ -195,8 +195,8 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Abstract", name: "abstract", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "string"}
+      - {label: "Abstract", name: "abstract", widget: "markdown"}
   - name: pages
     label: "Pages"
     files:
