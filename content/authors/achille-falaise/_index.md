@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Researcher
 
+avatar_filename: avatar.jpg
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: CNRS

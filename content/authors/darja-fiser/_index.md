@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Assistant Professor in Corpus and Computational Linguistics
 
+avatar_filename: avatar.jpg
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Institute "Jožef Stefan"
