@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: Assistant Professor in Corpus and Computational Linguistics
 
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 
 # Organizations/Affiliations to show in About widget
 organizations:

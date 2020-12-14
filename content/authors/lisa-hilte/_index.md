@@ -8,7 +8,7 @@ superuser: false
 # Role/position/tagline
 role: Post-doc researcher 
 
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 
 # Organizations/Affiliations to show in About widget
 organizations:

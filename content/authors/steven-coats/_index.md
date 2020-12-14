@@ -8,6 +8,8 @@ superuser: false
 # Role/position/tagline
 role: Lecturer in English Philology
 
+avatar_filename: avatar.png
+
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Oulu, Faculty of Humanities
