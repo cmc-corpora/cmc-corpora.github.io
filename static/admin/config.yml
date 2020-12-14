@@ -54,7 +54,7 @@ collections:
       - label: "Super user"
         description: "Please, leave this at the default value 'false'"
         name: "superuser"
-        widget: "boolean"
+        widget: "hidden"
         default: false
       - label: "User groups"
         description: "'steering committee', 'former steering committee', 'CKCMC', ..."
