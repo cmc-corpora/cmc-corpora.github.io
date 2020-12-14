@@ -15,8 +15,6 @@ test:
     - tags
 
 # FIXME: part I
-# hugo doesn't generate reliably / (with data from content/home) is missing -
-# sometimes!
 #
 # Needs to be renamed 'pages' for gitlab to generate pages.
 pages-master:
@@ -25,7 +23,7 @@ pages-master:
   script:
     - go version
     - hugo version
-    # - hugo --baseURL https://ckcmc.gitlab.io/
+    - hugo --baseURL https://ckcmc.gitlab.io/
   artifacts:
     paths:
       - public
@@ -33,13 +31,14 @@ pages-master:
     - disabled
 
 # FIXME: part II
-# Currently, 'dev' is built offline, i.e. /public (and /public/dev) are taken
-# as-is from the repo.
+# Recently, 'dev' was built offline, i.e. /public (and /public/dev) were taken
+# as-is from the repo. Now, /public/dev is populated.
 #
 # Onle *pages* makes gitlab generate pages!
 pages:
   script:
     - hugo version
+    - make dev-hugo_generate
   artifacts:
     paths:
       - public
