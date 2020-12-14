@@ -14,57 +14,56 @@ collections:
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
       - {label: "Display name (such as your full name)", name: "title", widget: "string"}
-      - label: "Position or taglinei"
-        description: "'Professor of AI', 'Researcher', ..."
+      - label: "Position or tagline"
         name: "role"
         widget: "string"
+        hint: "'Professor of AI', 'Researcher', ..."
         required: false
       - label: "Picture"
-        description: "An image named `avatar.jpg/png` will automatically be shown on the page"
         name: "avatar_filename"
         widget: "image"
+        hint: "An image named `avatar.jpg/png` will automatically be shown on the page"
         default: "avatar"
         required: false
         media_library:
           config:
             multiple: false
       - label: "Full biography"
-        description: "Shown in About widget"
         name: "body"
         widget: "markdown"
+        hint: "Shown in About widget"
         required: false
       - label: "Interests"
-        description: "Shown in About widget"
         name: "interests"
         required: false
         widget: "list"
+        hint: "Shown in About widget"
       - label: "Organizations you belong to or are affiliated with"
-        description: "Shown in About widget"
         name: "organizations"
         required: false
         widget: list
+        hint: "Shown in About widget"
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
       - label: "Email"
-        description: "Currently, for internal use only"
         name: "email"
         widget: "string"
+        hint: "Currently, for internal use only"
         required: true
       - label: "Super user"
-        description: "Please, leave this at the default value 'false'"
         name: "superuser"
-        widget: "boolean"
+        widget: "hidden"
         default: false
       - label: "User groups"
-        description: "'steering committee', 'former steering committee', 'CKCMC', ..."
         name: "user_groups"
         required: false
         widget: "list"
+        hint: "'steering committee', 'former steering committee', 'CKCMC', ..."
       - label: "Committee period (if applicable)"
-        description: "'2014 - 2015' or 'since 2015'"
         name: "committee_period"
         widget: "string"
+        hint: "'2014 - 2015' or 'since 2015'"
         required: false
   - name: posts
     label: Posts
@@ -196,8 +195,8 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Abstract", name: "abstract", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "string"}
+      - {label: "Abstract", name: "abstract", widget: "markdown"}
   - name: pages
     label: "Pages"
     files:
