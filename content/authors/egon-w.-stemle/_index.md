@@ -1,48 +1,20 @@
 ---
-# Display name
 title: Egon W. Stemle
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position/tagline
 role: Researcher
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Eurac Research
-  url: http://www.eurac.edu/
-
-# Short bio (displayed in user profile at end of posts)
+avatar_filename: avatar.jpg
 bio: Something about Egon.
-
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Cognitive Science
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Email for Contact widget or Gravatar
-email: "egon.stemle@eurac.edu"
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Remove this if you are not using the People widget.
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Cognitive Science
+organizations:
+  - name: Eurac Research
+    url: http://www.eurac.edu/
+email: egon.stemle@eurac.edu
+superuser: false
 user_groups:
-- Eurac Research
-- CKCMC 
+  - Eurac Research
+  - CKCMC
+highlight_name: false
 ---
-
-Egon lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.
+Egon works on the creation, standardisation, and interoperability of tools for editing, processing, and annotating linguistic data. He collects and processes data from the Web, from social media, and language learners and also enjoys working together with other scientists on their data. He develops tools that can apply our everyday understanding of language to texts, be it to help teachers to correct texts, students to write texts or just interested people who search for content in texts that elude a simple Google search. Stemle's curiosity in research is driven by the question of why people can easily find meaning in texts, even at a young age, while automatic processes are often of little use or fail completely.
