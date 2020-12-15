@@ -16,6 +16,7 @@ image:
 authors:
 - Egon W. Stemle
 - Jennifer-Carmen Frey
+- Aivars Glaznieks
 
 
 type: ckcmc_partner
