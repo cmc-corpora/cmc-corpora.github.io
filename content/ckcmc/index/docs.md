@@ -12,18 +12,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 99
 
-title: 
+title: Documentation
 subtitle:
 
 design:
-  columns: "custom"
+  columns: "2"
 ---
-
-<div class="col-12 col-lg-4 section-heading">
-            <h1>Documentation</h1>
-</div>
-<div class="col-12 col-lg-8 section-heading">
 
 For more detailed information, see the 
 [dedicated documentation section]({{< relref "/ckcmc/docs/" >}}).
-</div>
