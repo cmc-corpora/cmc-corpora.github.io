@@ -47,10 +47,6 @@ subtitle = ""
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
 
-[design.spacing]
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding = ["25px", "", "25px", ""]
-
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.

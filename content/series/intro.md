@@ -9,9 +9,6 @@ subtitle: ""
 
 design:
   columns: '1'
-  spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["25px", "", "25px", ""]
 ---
 
 *cmc-corpora* (https://cmc-corpora.org) is a series of conferences established
