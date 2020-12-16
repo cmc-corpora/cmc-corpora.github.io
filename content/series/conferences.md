@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 99  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Conferences"
 subtitle = ""
@@ -46,10 +46,6 @@ subtitle = ""
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
-
-[design.spacing]
-    # Customize the section spacing. Order is top, right, bottom, left.
-    padding = ["25px", "", "25px", ""]
 
 [design.background]
   # Apply a background color, gradient, or image.

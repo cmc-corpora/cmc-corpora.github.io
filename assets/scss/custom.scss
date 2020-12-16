@@ -4,11 +4,10 @@
   width: auto;
 }
 
-// Center conference series blank widget overview heading
-#intro.wg-blank h1 {
-  text-align: center;
+// Reduce padding for sections (on widget pages)
+.home-section {
+  padding: 55px 0 55px 0;
 }
-
 
 p {
   //  Add browser-based hyphenation support for the site (until (hu)go catches up).

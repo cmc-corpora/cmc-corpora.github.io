@@ -22,10 +22,15 @@
   parent = "Conference Series"
   weight = 30
 [[main]]
+  name = "Proceedings"
+  url = "series/#proceedings"
+  parent = "Conference Series"
+  weight = 40
+[[main]]
   name = "Organization"
   url = "series/#orga"
   parent = "Conference Series"
-  weight = 40
+  weight = 50
 
 
 
