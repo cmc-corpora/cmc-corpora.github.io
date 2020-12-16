@@ -12,18 +12,18 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: 
-subtitle:
+title: Upcoming
+subtitle: Conference
 
 design:
-  columns: "1"
+  columns: "2"
   background:
-    image: headers/bubbles-wide.jpg
+    # image: headers/bubbles-wide.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: true
+    # text_color_light: true
 ---
 
 Add something about the next conference.
