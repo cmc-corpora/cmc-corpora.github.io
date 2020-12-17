@@ -5,9 +5,6 @@ title: Ciara Wigham
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
-role: Researcher and Lecturer in English and Applied Linguistics (Didactics)
-
 avatar_filename: avatar.jpg
 
 # Organizations/Affiliations to show in About widget
@@ -16,7 +13,7 @@ organizations:
   url: http://lrl.univ-bpclermont.fr/rubrique145.html
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Something about Ciara.
+bio: Researcher and Lecturer in English and Applied Linguistics (Didactics)
 
 # Interests to show in About widget
 interests:

@@ -5,9 +5,6 @@ title: Darja Fišer
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
-role: Assistant Professor in Corpus and Computational Linguistics
-
 avatar_filename: avatar.png
 
 # Organizations/Affiliations to show in About widget
@@ -18,7 +15,7 @@ organizations:
   url: http://lojze.lugos.si/darja/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Something about Darja.
+bio: Assistant Professor in Corpus and Computational Linguistics
 
 # Interests to show in About widget
 interests:
