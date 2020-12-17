@@ -5,9 +5,6 @@ title: Jennifer-Carmen Frey
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
-role: Researcher
-
 avatar_filename: avatar.jpg
 
 # Organizations/Affiliations to show in About widget
@@ -16,7 +13,7 @@ organizations:
   url: http://www.eurac.edu/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Something about Jenny.
+bio: Something about Jenny.
 
 # Interests to show in About widget
 interests:

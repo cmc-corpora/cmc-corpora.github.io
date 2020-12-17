@@ -1,6 +1,6 @@
 ---
 title: Aivars Glaznieks
-role: Researcher
+bio: Something about Aivars.
 avatar_filename: avatar.jpg
 interests:
   - Writing research

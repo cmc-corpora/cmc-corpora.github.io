@@ -5,9 +5,6 @@ title: Michael Beißwenger
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
-role: Professor in German Linguistics and Language Didactics
-
 avatar_filename: avatar.png
 
 # Organizations/Affiliations to show in About widget
@@ -16,7 +13,7 @@ organizations:
   url: https://www.uni-due.de/germanistik/beisswenger/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Something about Michael.
+bio: Professor in German Linguistics and Language Didactics
 
 # Interests to show in About widget
 interests:

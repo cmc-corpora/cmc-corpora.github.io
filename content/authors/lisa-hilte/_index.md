@@ -5,9 +5,6 @@ title: Lisa Hilte
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
-role: Post-doc researcher 
-
 avatar_filename: avatar.png
 
 # Organizations/Affiliations to show in About widget
@@ -16,7 +13,7 @@ organizations:
   url: https://www.uantwerpen.be/en/research-groups/clips/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Something about Lisa.
+bio: Post-doc researcher
 
 # Interests to show in About widget
 interests:
