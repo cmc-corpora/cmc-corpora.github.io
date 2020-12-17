@@ -42,7 +42,7 @@ collections:
         hint: "Shown on author pages"
         name: "organizations"
         required: false
-        widget: list
+        widget: "list"
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
