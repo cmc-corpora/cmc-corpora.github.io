@@ -14,11 +14,6 @@ collections:
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
       - {label: "Display name (such as your full name)", name: "title", widget: "string"}
-      - label: "Position or tagline"
-        name: "role"
-        widget: "string"
-        hint: "'Professor of AI', 'Researcher', ..."
-        required: false
       - label: "Picture"
         name: "avatar_filename"
         widget: "image"
@@ -28,21 +23,26 @@ collections:
         media_library:
           config:
             multiple: false
+      - label: "Short summary"
+        name: "bio"
+        widget: "string"
+        hint: "Shown in author boxes"
+        required: false
       - label: "Full biography"
         name: "body"
         widget: "markdown"
-        hint: "Shown in About widget"
+        hint: "Shown on author pages"
         required: false
       - label: "Interests"
         name: "interests"
         required: false
         widget: "list"
-        hint: "Shown in About widget"
+        hint: "Shown on author pages"
       - label: "Organizations you belong to or are affiliated with"
         name: "organizations"
         required: false
         widget: list
-        hint: "Shown in About widget"
+        hint: "Shown on author pages"
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
