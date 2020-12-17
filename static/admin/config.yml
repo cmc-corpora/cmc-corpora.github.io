@@ -214,15 +214,6 @@ collections:
         name: "authors"
         required: true
         widget: "list"
-      - label: "Picture"
-        hint: "Image will automatically be shown on the author's page"
-        name: "avatar_filename"
-        widget: "image"
-        default: "avatar"
-        required: false
-        media_library:
-          config:
-            multiple: false
   - name: pages
     label: "Pages"
     files:
