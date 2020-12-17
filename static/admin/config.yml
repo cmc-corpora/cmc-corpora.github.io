@@ -15,7 +15,7 @@ collections:
     fields:  # The fields each document in this collection have
       - {label: "Display name (such as your full name)", name: "title", widget: "string"}
       - label: "Picture"
-        hint: "An image named `avatar.jpg/png` will automatically be shown on the page"
+        hint: "Image will automatically be shown on the author's page"
         name: "avatar_filename"
         widget: "image"
         default: "avatar"
