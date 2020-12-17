@@ -5,14 +5,6 @@ summary: Something short about Eurac.
 
 share: false
 
-# Optional external URL for project (replaces project detail page).
-# external_link: http://www.eurac.edu
-
-image:
-  # caption: ""
-  # preview_only: true
-  focal_point: Smart
-
 authors:
 - Egon W. Stemle
 - Jennifer-Carmen Frey

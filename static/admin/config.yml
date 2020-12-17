@@ -4,8 +4,8 @@ backend:
   auth_type: implicit
   app_id: ed1d9ac4ce9d273baea1dbdc7410c6143fa97af11df5a9be6177ef74524eb0b9
 publish_mode: 'editorial_workflow'
-media_folder: 'static/media/'
-public_folder: 'media'
+media_folder: 'static/media/uploads'
+public_folder: '/media/uploads'
 collections:
   - name: authors
     label: People
@@ -197,6 +197,32 @@ collections:
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "string"}
       - {label: "Abstract", name: "abstract", widget: "markdown"}
+  - name: partners
+    label: Partners
+    label_singular: Partner
+    folder: 'content/ckcmc/partner'
+    path: '{{slug}}/index'
+    create: true  # Allow users to create new documents in this collection
+    fields:  # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - {label: "Share", name: "share", widget: "hidden", default: false}
+      - {label: "Type", name: "type", widget: "hidden", default: "ckcmc_partner"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Authors"
+        name: "authors"
+        required: true
+        widget: "list"
+      - label: "Picture"
+        hint: "Image will automatically be shown on the author's page"
+        name: "avatar_filename"
+        widget: "image"
+        default: "avatar"
+        required: false
+        media_library:
+          config:
+            multiple: false
   - name: pages
     label: "Pages"
     files:
