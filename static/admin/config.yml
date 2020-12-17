@@ -38,6 +38,7 @@ collections:
         name: "interests"
         required: false
         widget: "list"
+        pattern: ['[a-zA-Z -_]', "Characters, spaces, hyphens, and underscores"]
       - label: "Organizations you belong to or are affiliated with"
         hint: "Shown on author pages"
         name: "organizations"
