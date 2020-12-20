@@ -11,15 +11,16 @@ role: Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Institute "Jožef Stefan"
-  url: https://www.ijs.su
+  url: https://www.ijs.si
 
 # Short bio (displayed in user profile at end of posts)
 #bio: Something about Tomaž.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
 - Computational Linguistics
+- Digital Humanities
+- Standards for language encoding
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
