@@ -10,15 +10,19 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institute "Jožef Stefan"
-  url: https://www.ijs.su
+- name: CLARIN.SI
+  url: https://www.clarin.si/
+- name: Jožef Stefan Institute
+  url: https://www.ijs.si
 
 # Short bio (displayed in user profile at end of posts)
 #bio: Something about Tomaž.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Language resources
+- Standards for language encoding
+- Digital Humanities
 - Computational Linguistics
 
 # Link to a PDF of your resume/CV.
@@ -40,8 +44,12 @@ user_groups:
 - IJS
 - CKCMC 
 ---
-
-Tomaž lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.
+Tomaž Erjavec works at the Dept. of Knowledge Technologies at the Jožef Stefan Institute and at the
+Institute of the Slovenian language "Fran Ramovš" at the Scientific Research Centre of the Slovenian Academy of Sciences and Art. 
+He works in the field of language technologies, with a focus on South Slavic languages, in particular Slovenian and on
+methods and standards for the compilation, and
+annotation of language resources.
+He was the founding president of the Slovenian Language Technologies Society, is 
+a member of the Slovenian standards organisation in ISO TC
+37 SC4 “Language resource management” and the national coordinator of
+the CLARIN.SI research infrastructure.
