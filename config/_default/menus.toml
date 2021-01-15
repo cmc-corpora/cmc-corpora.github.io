@@ -35,22 +35,22 @@
 
 
 [[main]]
-  name = "CKCMC"
+  name = "CLARIN K-Centre for CMC"
   weight = 20
 [[main]]
   name = "CKCMC Overview"
   url = "ckcmc/#"
-  parent = "CKCMC"
+  parent = "CLARIN K-Centre for CMC"
   weight = 10
 [[main]]
   name = "Partners"
   url = "ckcmc/#partners"
-  parent = "CKCMC"
+  parent = "CLARIN K-Centre for CMC"
   weight = 20
 [[main]]
   name = "Documentation"
   url = "ckcmc/docs/"
-  parent = "CKCMC"
+  parent = "CLARIN K-Centre for CMC"
   weight = 30
 
 
