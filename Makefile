@@ -26,11 +26,15 @@ public:
 	@echo "\033[0;31mNOTE:\033[0m Putting redirection in place - check index.html"
 	mv public/index-redirect.html public/index.html
 
-
-.PHONY: dev-git_merge dev
+.PHONY: dev-git_merge
 dev-git_merge:
 	git checkout dev
 	git merge $(LAST_TAG_IN_MASTER)
+.PHONY: dev-hugo_generate  # needed for CI
+dev-hugo_generate:
+	hugo --cleanDestinationDir --minify --baseURL /dev --destination public/dev
+	-rm public/dev/index-redirect.html
+.PHONY: dev
 dev: dev-git_merge
 	# git checkout master
 	# git tag 2020122401
