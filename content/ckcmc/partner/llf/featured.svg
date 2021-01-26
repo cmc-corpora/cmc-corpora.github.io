@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="752" height="306" viewBox="0 0 752 306" xmlns="http://www.w3.org/2000/svg">
+	<defs xmlns="http://www.w3.org/2000/svg">
+		<style type="text/css">
+			<![CDATA[
+			@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+			.txt-logo {
+				font-family: 'Roboto Condensed';
+				font-size: 54px;
+				font-stretched: condensed;
+			}
+			]]>
+		</style>
+	</defs>
+	<g fill="rgb(17,43,76)">
+		<path d="M0,0 v250 h250 v-123 h-127 v-127 Z" />
+		<path d="M251,0 v250 h250 v-123 h-127 v-127 Z" />
+	</g>
+	<path d="M502,0 v250 h123 v-127 h127 v-123 Z" fill="rgb(214,135,56)" />
+	<text x="-4" y="295" class="txt-logo">Laboratoire de linguistique formelle</text>
+</svg>
