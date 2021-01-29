@@ -28,6 +28,10 @@ In its four research departments (Grammar, Lexis, Pragmatics, and Digital Lingui
 
 Its library, archives, documentations, digital corpora and language repositories are available to external researchers as well. With its lecture events, conferences and colloquia, the IDS is also a place of academic encounter and communication for researchers in German studies from Germany and abroad and all those interested in language.
 
+IDS is a member of [CLARIN-D](https://www.clarin-d.de/en/), the German branch of CLARIN.
+
 =Academic Status and History=
 
 The IDS was founded in 1964. As a member of the Leibniz Association, the Institute is financed jointly by the Federal Government and the state of Baden-Württemberg. Various additional funding is provided by research-promotion organizations such as the Deutsche Forschungsgemeinschaft (German Community for the Promotion of Research) and the Volkswagen-Stiftung (Volkswagen Foundation). Support is also provided by the city of Mannheim and the Verein der Freunde des Instituts für Deutsche Sprache e.V. (Association of the Friends of the Institute for the German Language - registered association). At present, the IDS has 227 employees including 105 researchers.
+
+
