@@ -41,6 +41,11 @@ highlight_name: false
 #   link: media/resume.pdf
 
 ---
-Nikola's interest lie primarily in the field of machine learning of language structure.
-He developed several methods for word-normalisation, also applied to CMC corpora.
+
+Nikola's research interests cover a broad spectrum of NLP problems
+including web corpus construction, terminology extraction, bilingual
+lexicon extraction and machine translation. He is an expert in machine
+learning approaches, and has developed several methods for
+word-normalisation, also applied to CMC corpora.
+
 He is the leader of the CLARIN K-Centre CLASSLA, for Computational Processing of South Slavic languages.
