@@ -1,5 +1,22 @@
-
+# A few common helper tasks
+#
+# make server
+#   Start a local web server and keep rebuilding the site (during development)
+#
+# make public
+#		Generate the site in ./public
+#
+# make dev
+#		Merge the latest tag from the master branch into the dev branch
+#
+# make pubs
+#   (Re-)create the publications from static/*.bib files
+#
 LAST_TAG_IN_MASTER := $(shell git describe master --tags)
+
+.PHONY: server
+server:
+	hugo server --minify --disableFastRender --i18n-warnings --port 8081
 
 
 .PHONY: public
@@ -9,34 +26,21 @@ public:
 	@echo "\033[0;31mNOTE:\033[0m Putting redirection in place - check index.html"
 	mv public/index-redirect.html public/index.html
 
-
-.PHONY: dev-git_merge dev-hugo_generate dev-git_add dev-git_commit dev
+.PHONY: dev-git_merge
 dev-git_merge:
 	git checkout dev
 	git merge $(LAST_TAG_IN_MASTER)
+.PHONY: dev-hugo_generate  # needed for CI
 dev-hugo_generate:
 	hugo --cleanDestinationDir --minify --baseURL /dev --destination public/dev
 	-rm public/dev/index-redirect.html
-dev-git_add:
-	git add -f public/dev
-dev-git_commit:
-	git commit -m "Sync public/dev"
-dev: dev-git_merge dev-hugo_generate dev-git_add
+.PHONY: dev
+dev: dev-git_merge
 	# git checkout master
 	# git tag 2020122401
-	# make dev
-	# make dev-git_commit
 	@echo
-	@echo '...to commit /public(/dev) run'
-	@echo 'make dev-git_commit'
-	@echo
-	@echo '...and then'
-	@echo 'git checkout master'
-
-
-.PHONY: server
-server:
-	hugo server --minify --disableFastRender --i18n-warnings --port 8081
+	@echo '`git push` to build the site with the latest changes.'
+	@echo '`git checkout master`'
 
 
 ###

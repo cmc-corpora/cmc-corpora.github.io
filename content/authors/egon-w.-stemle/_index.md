@@ -2,6 +2,10 @@
 title: Egon W. Stemle
 avatar_filename: avatar.jpg
 bio: Something about Egon.
+social:
+  - icon: globe-europe
+    icon_pack: fas
+    link: https://iiegn.eu
 interests:
   - Artificial Intelligence
   - Computational Linguistics
