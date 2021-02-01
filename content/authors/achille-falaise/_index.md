@@ -7,8 +7,8 @@ superuser: false
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CNRS
-  url: https://www.cnrs.fr/
+- name: Formal Linguistics Laboratory
+  url: http://www.llf.cnrs.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Something about Achille.
@@ -33,7 +33,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- CNRS
+- LLF
 - CKCMC 
 ---
 
