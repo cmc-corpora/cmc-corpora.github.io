@@ -1,7 +1,7 @@
 ---
 title: Leibniz-Institut für Deutsche Sprache (IDS), Mannheim, DE
-subtitle: ""
-summary: Something short about IDS.
+subtitle: "Department of Digital Linguistics"
+summary: IDS is the central non-university institution for the study and documentation of the contemporary usage and recent history of the German language.
 
 share: false
 
@@ -15,7 +15,7 @@ image:
 
 authors:
 - Harald Lüngen
-
+- Andreas Witt
 
 type: ckcmc_partner
 ---
