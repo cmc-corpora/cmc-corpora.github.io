@@ -13,11 +13,18 @@ organizations:
   url: https://www.ids-mannheim.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Andreas.
+bio: Andreas is head of the Digital Linguistics Department at Leibniz-Institute for the German Language in Mannheim, Germany
+
+social:
+- link: https://www.ids-mannheim.de/digspra/personal/witt/
 
 # Interests to show in About widget
 interests:
-- Computational Linguistics
+- Text technology
+- Digital Humanities
+- Information Modelling
+- Corpus Linguistics
+- Markup Languages
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
