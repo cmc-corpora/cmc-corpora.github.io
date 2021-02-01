@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Tomaž Erjavec
-avatar_filename: avatar.jpg
 # Proxy for Home Page
 social:
 - icon: globe-europe

@@ -5,8 +5,6 @@ title:  Harald Lüngen
 # Is this the primary user of the site?
 superuser: false
 
-avatar_filename: avatar.jpg
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: IDS
