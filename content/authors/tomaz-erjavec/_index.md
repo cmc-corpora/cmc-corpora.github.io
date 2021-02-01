@@ -46,7 +46,7 @@ Jožef Stefan Institute and at the Institute of the Slovenian language
 "Fran Ramovš" at the Scientific Research Centre of the Slovenian
 Academy of Sciences and Arts.
 
-His resarch interests lie in the field of language technologies, with
+His research interests lie in the field of language technologies, with
 a focus on South Slavic languages, in particular Slovenian, and on
 methods and standards for the compilation and annotation of language
 resources.
