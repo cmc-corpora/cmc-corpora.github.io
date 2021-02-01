@@ -5,8 +5,6 @@ title: Michael Beißwenger
 # Is this the primary user of the site?
 superuser: false
 
-avatar_filename: avatar.png
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Duisburg-Essen, Faculty of Humanities

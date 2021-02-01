@@ -1,7 +1,6 @@
 ---
 title: Aivars Glaznieks
 bio: Something about Aivars.
-avatar_filename: avatar.jpg
 interests:
   - Writing research
   - Language acquisition

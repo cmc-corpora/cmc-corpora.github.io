@@ -5,8 +5,6 @@ title: Andreas Witt
 # Is this the primary user of the site?
 superuser: false
 
-avatar_filename: witt_andreas.jpeg
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: IDS

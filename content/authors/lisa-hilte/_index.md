@@ -5,8 +5,6 @@ title: Lisa Hilte
 # Is this the primary user of the site?
 superuser: false
 
-avatar_filename: avatar.png
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Antwerp, Computational Linguistics, Psycholinguistics and Sociolinguistics research center (CLiPS)

@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Nikola Ljubešić
-avatar_filename: avatar.jpg
 # Proxy for Home Page
 social:
 - icon: globe-europe

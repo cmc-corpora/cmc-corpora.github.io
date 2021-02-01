@@ -10,8 +10,6 @@ social:
 # Is this the primary user of the site?
 superuser: false
 
-avatar_filename: avatar.png
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Ljubljana, Faculty of Arts, Department of Translation
