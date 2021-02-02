@@ -33,24 +33,20 @@ developed *CMC-core*, a TEI customisation that represents a reduction
 of the previous schemas to those features which form basic setup that
 one needs to encode CMC corpora, but which is not in the TEI yet.
 
-**Status:** CMC-core has been submitted to the TEI Council as an
-  official Feature Request in 2020. It is currently under review by
-  the TEI Council.
+## Status
+CMC-core has been submitted to the TEI Council as an official Feature Request
+in 2020. It is currently under review by the TEI Council.
 
-**Schemas and documentation:** The formal customisation of CMC-core
-(ODD), along with a derived RNG schema, and documentation is available
-from the [TEI Wiki of the TEI SIG
-CMC](https://wiki.tei-c.org/index.php?title=SIG:CMC/CMC-core_schema_for_representing_CMC_in_TEI_(2019)). In
-addition to these, encoding examples for the genres chat, wiki talk,
-second life, and twitter, based on existing corpora, are offered.
+## Schemas and documentation
+The formal customisation of CMC-core (ODD), along with a derived RNG schema,
+and documentation is available from the [TEI Wiki of the TEI SIG
+CMC](https://wiki.tei-c.org/index.php?title=SIG:CMC/CMC-core_schema_for_representing_CMC_in_TEI_(2019)).
+In addition to these, encoding examples for the genres chat, wiki talk, second
+life, and twitter, based on existing corpora, are offered.
 
-**Reference:** A rationale for the models included in the schema is
-  given in the ODD and as a long version in the article [Beißwenger &
-  Lüngen (2020)](https://doi.org/10.4000/corpus.4553).
-
-Below is a short overview of the four types of customizations our ODD
-for CMC-core introduces, using the technical vocabulary of the TEI
-infrastructure. 
+## Overview of customizations
+Below is a short overview of the four types of customizations our ODD for
+CMC-core introduces, using the technical vocabulary of the TEI infrastructure.
 
   1. A new **module** named 'cmc' is introduced. It is referenced by
   the new model classe *model.divPart.cmc*, by the new attribute class
@@ -64,3 +60,10 @@ infrastructure.
   defines the new attribute `@creation` to be available for all
   elements. The existing attribute class *att.global* has been
   modified to additionally be a member of *att.global.cmc*
+
+## Reference
+A rationale for the models included in the schema is given in the ODD and as a
+long version in the following article:
+
+{{< cite page="/publication/beiswenger-cmc-core-2020" view="4" >}}
+
