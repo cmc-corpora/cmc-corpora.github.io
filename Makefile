@@ -36,11 +36,9 @@ dev-hugo_generate:
 	-rm public/dev/index-redirect.html
 .PHONY: dev
 dev: dev-git_merge
-	# git checkout master
-	# git tag 2020122401
-	@echo
-	@echo '`git push` to build the site with the latest changes.'
-	@echo '`git checkout master`'
+	git push --all
+	git push --tags
+	git checkout master
 
 
 ###
