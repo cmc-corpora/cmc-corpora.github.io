@@ -24,3 +24,8 @@ p {
   // https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap
   // word-wrap: break-word;
 }
+
+// Remove dead link
+a[href="/ckcmc/_-_/"] {
+  display: none;
+}
