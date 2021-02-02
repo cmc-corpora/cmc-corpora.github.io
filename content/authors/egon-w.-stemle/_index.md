@@ -1,6 +1,6 @@
 ---
 title: Egon W. Stemle
-bio: Something about Egon.
+bio: NLP/HLT/AI Researcher
 social:
   - icon: globe-europe
     icon_pack: fas
@@ -10,6 +10,8 @@ interests:
   - Computational Linguistics
   - Cognitive Science
 organizations:
+  - name: Institute for Applied Linguistics
+    url: http://www.eurac.edu/linguistics
   - name: Eurac Research
     url: http://www.eurac.edu/
 email: egon.stemle@eurac.edu
