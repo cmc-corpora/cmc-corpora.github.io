@@ -29,7 +29,7 @@ public:
 .PHONY: dev-git_merge
 dev-git_merge:
 	git checkout dev
-	git merge $(LAST_TAG_IN_MASTER)
+	git merge --no-ff $(LAST_TAG_IN_MASTER)
 .PHONY: dev-hugo_generate  # needed for CI
 dev-hugo_generate:
 	hugo --cleanDestinationDir --minify --baseURL /dev --destination public/dev
