@@ -12,40 +12,58 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## About this schema
+CKCMC co-operates closely with the [TEI SIG
+CMC](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication)
+on the development of a TEI standard for the representation of the
+structural and linguistic peculiarities of CMC.
 
-This ODD describes an encoding schema for genres of computer-mediated
-communication (CMC) / social media. It is meant to define a basic setup that
+The current version of the TEI encoding framework and guidelines
+(TEI P5) does not offer any specific models for CMC. Including
+features and instructions for encoding CMC in the official TEI is a
+desideratum both in the fields of digital humanities and computer
+science.
+
+In the past, members of the TEI SIG CMC have developed
+project-specific TEI customisations for the representation of CMC
+corpora such the [Dortmund Chat
+Corpus](http://hdl.handle.net/10932/00-03B0-14FA-A8D0-0F01-F) or the
+French [CoMeRe family of
+corpora](https://hdl.handle.net/11403/comere). In late 2019, the SIG
+developed *CMC-core*, a TEI customisation that represents a reduction
+of the previous schemas to those features which form basic setup that
 one needs to encode CMC corpora, but which is not in the TEI yet.
 
-**Authors:** Michael Beißwenger, Harald Lüngen, Laura Herzberg, and Ciara R. Wigham.
+## Status
+CMC-core has been submitted to the TEI Council as an official Feature Request
+in 2020. It is currently under review by the TEI Council.
 
-The schema is based on version P5 (3.3.0) of the TEI Guidelines for Electronic
-Text Encoding and Interchange (henceforth: ‘TEI-P5’) and uses customizations to
-adapt the models defined in TEI-P5 for the modeling of structural and
-linguistic peculiarities of CMC genres. The schema takes into consideration
-previous schema drafts that have been developed by members of the SIG (the
-'DeRiK schema' described in Beißwenger et al. 2012, the 'CoMeRe schema'
-described in Chanier et al. 2014, and the 'CLARIN-D schema' described in Lüngen
-et al. (2016)) as well as discussions on a core schema at the SIG meeting in
-Vienna at the TEI conference on 30 September 2016] and a meeting of the SIG
-core group in Essen on 21 June 2017.
+## Schemas and documentation
+The formal customisation of CMC-core (ODD), along with a derived RNG schema,
+and documentation is available from the [TEI Wiki of the TEI SIG
+CMC](https://wiki.tei-c.org/index.php?title=SIG:CMC/CMC-core_schema_for_representing_CMC_in_TEI_(2019)).
+In addition to these, encoding examples for the genres chat, wiki talk, second
+life, and twitter, based on existing corpora, are offered.
 
-## Status of the schema
+## Overview of customizations
+Below is a short overview of the four types of customizations our ODD for
+CMC-core introduces, using the technical vocabulary of the TEI infrastructure.
 
-This schema and examples shall accompany a TEI feature request to be submitted
-to the TEI Council by the end of 2019. A rationale for the models included in
-the schema is given in the ODD and in the articles under #References.
+  1. A new **module** named 'cmc' is introduced. It is referenced by
+  the new model classe *model.divPart.cmc*, by the new attribute class
+  *att.global.cmc*, and by the new element `<post>`.
+  
+  2. The new **model class** *model.divPart.cmc* is introduced. It is defined to be a member of the existing class *model.divPart* and serves as a container for the new element `<post>`
+  
+  3. The new element `<post>` is introduced along with several attributes
 
-## Characteristics of the schema: TEI customizations
+  4. The new attribute class *att.global.cmc* is introduced. It
+  defines the new attribute `@creation` to be available for all
+  elements. The existing attribute class *att.global* has been
+  modified to additionally be a member of *att.global.cmc*
 
-The ODD introduces four types of customizations :
+## Reference
+A rationale for the models included in the schema is given in the ODD and as a
+long version in the following article:
 
-  1. A new module named 'cmc' is introduced. It is referenced by the new model classe model.divPart.cmc, by the new attribute class att.global.cmc, and by the new element <post>.
-  2. The new element <post> is introduced.
-  3. The new attribute class att.global.cmc is introduced. It defines the new global attribute creation. The existing attribute class att.global has been modified to additionally be a member of att.global.cmc .
-  4. The class model.divPart.cmc is defined. model.divPart.cmc is a member of model.divPart and serves as a container of the new, CMC-specific element <post>.
+{{< cite page="/publication/beiswenger-cmc-core-2020" view="4" >}}
 
-In addition to these customizations, we have prepared encoding examples for the genres chat, wiki talk, second life, and twitter, based on existing corpora.
-
-## References

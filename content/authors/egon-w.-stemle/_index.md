@@ -1,7 +1,6 @@
 ---
 title: Egon W. Stemle
-avatar_filename: avatar.jpg
-bio: Something about Egon.
+bio: NLP/HLT/AI Researcher
 social:
   - icon: globe-europe
     icon_pack: fas
@@ -11,6 +10,8 @@ interests:
   - Computational Linguistics
   - Cognitive Science
 organizations:
+  - name: Institute for Applied Linguistics
+    url: http://www.eurac.edu/linguistics
   - name: Eurac Research
     url: http://www.eurac.edu/
 email: egon.stemle@eurac.edu
@@ -30,3 +31,5 @@ who search for content in texts that elude a simple Google search. His
 curiosity in research is driven by the question of why people can easily find
 meaning in texts, even at a young age, while automatic processes are often of
 little use or fail completely.
+
+He is the leader of this CLARIN K-Centre for CMC.

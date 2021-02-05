@@ -1,27 +1,36 @@
 ---
 # Display name
 title: Nikola Ljubešić
-
-# Is this the primary user of the site?
+# Proxy for Home Page
+social:
+- icon: globe-europe
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=zto4fTQAAAAJ&hl=en
+# Interests to show in About widget
+interests:
+- Computational Linguistics
+- Machine learning methods
+- Processing of South Slavic languages
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: Jožef Stefan Institute
+  url: http://kt.ijs.si/
+- name: Faculty of Computer Science, Ljubljana University
+  url: https://www.fri.uni-lj.si/en/laboratory/lkm
+- name: CLASSLA K-Centre
+  url: https://www.clarin.si/info/k-centre/
+# Email for Contact widget or Gravatar
+email: "nikola.ljubesic@ijs.si"
 superuser: false
+user_groups:
+- IJS
+- CKCMC 
 
 # Role/position/tagline
 role: Researcher
 
-avatar_filename: avatar.jpg
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Institute "Jožef Stefan"
-  url: https://www.ijs.su
-
-# Short bio (displayed in user profile at end of posts)
-#bio: Something about Nikola.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -30,20 +39,12 @@ interests:
 #   icon_pack: ai
 #   link: media/resume.pdf
 
-# Email for Contact widget or Gravatar
-email: "nljubesi@gmail.com"
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Remove this if you are not using the People widget.
-user_groups:
-- IJS
-- CKCMC 
 ---
 
-Nikola lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.
+Nikola's research interests cover a broad spectrum of NLP problems
+including web corpus construction, terminology extraction, bilingual
+lexicon extraction and machine translation. He is an expert in machine
+learning approaches, and has developed several methods for
+word-normalisation, also applied to CMC corpora.
+
+He is the leader of the CLARIN K-Centre CLASSLA, for Computational Processing of South Slavic languages.

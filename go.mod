@@ -3,6 +3,6 @@ module gitlab.com/ckcmc/ckcmc.gitlab.io
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20201023171018-b2f2eb3c27b4 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201211023654-f6090cd7e55d // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210120025205-e0ae7c979cda // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210120025205-e0ae7c979cda // indirect
 )

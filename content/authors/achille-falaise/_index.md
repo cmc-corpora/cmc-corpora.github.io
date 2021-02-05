@@ -5,18 +5,10 @@ title: Achille Falaise
 # Is this the primary user of the site?
 superuser: false
 
-avatar_filename: avatar.jpg
-
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LLF
-  url: https://www.lff.cnrs.fr
-- name: CNRS
-  url: http://cnrs.fr
-- name: Université de Paris
-  url: http://u-paris.fr
-- name: CORLI
-  url: https://corli.huma-num.fr
+- name: Formal Linguistics Laboratory
+  url: http://www.llf.cnrs.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Linguistic data engineer at Laboratoire de Linguistique Formelle (CNRS/Université de Paris), Paris, France.
@@ -43,9 +35,6 @@ highlight_name: false
 #   Remove this if you are not using the People widget.
 user_groups:
 - LLF
-- CNRS
-- Université de Paris
-- CORLI
 - CKCMC 
 ---
 
