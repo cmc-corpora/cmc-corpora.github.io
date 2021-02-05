@@ -19,7 +19,7 @@ organizations:
   url: https://corli.huma-num.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Linguistic data engineer.
+bio: Linguistic data engineer at Laboratoire de Linguistique Formelle (CNRS/Université de Paris), Paris, France.
 
 # Interests to show in About widget
 interests:
