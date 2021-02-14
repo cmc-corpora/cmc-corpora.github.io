@@ -29,3 +29,8 @@ p {
 a[href="/ckcmc/_-_/"] {
   display: none;
 }
+
+// Style CKCMC bg image
+.ckcmc div.bg-image {
+  filter:blur(6px) brightness(0.95) opacity(0.25);
+}

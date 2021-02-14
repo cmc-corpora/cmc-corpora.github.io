@@ -11,11 +11,12 @@ organizations:
   url: http://www.llf.cnrs.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Something about Achille.
+bio: Linguistic data engineer at Laboratoire de Linguistique Formelle (CNRS/Université de Paris), Paris, France.
 
 # Interests to show in About widget
 interests:
-- Computational Linguistics
+- Computational Linguistics for humans
+- Corpus Linguistics
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -37,7 +38,4 @@ user_groups:
 - CKCMC 
 ---
 
-Achille lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.
+Achille is a linguistic data engineer, mainly invested in corpora. He collects, formats, parses and annotates linguistic corpora; but he is also eager to provide tools that let all kind of language professionals access and use them easily, whether they are linguists, teachers or translators. He has a liking for corpora of spontaneous and "natural" writing, such as online chats, popular writing in general, but also classical texts older than normative grammars, which allow for the study the natural flow of language evolution across time.
