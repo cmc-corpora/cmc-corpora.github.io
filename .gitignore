@@ -7,3 +7,5 @@ public/
 
 # local
 external/
+
+.*.swp
