@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 10
 
-title: Conference update
+title: Latest publication
 subtitle:
 
 design:
@@ -27,7 +27,7 @@ design:
   view: 2
 
 content:
-  page_type: project
+  page_type: publication
   count: 2
   order: desc
   filter:

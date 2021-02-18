@@ -25,8 +25,8 @@ p {
   // word-wrap: break-word;
 }
 
-// Remove dead link
-a[href="/ckcmc/_-_/"] {
+// Remove dead link in book's menu
+#docs-nav > .nav.docs-sidenav {
   display: none;
 }
 

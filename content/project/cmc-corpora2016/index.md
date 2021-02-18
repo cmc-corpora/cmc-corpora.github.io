@@ -11,8 +11,7 @@ external_link: ""
 
 image:
   caption:
-  focal_point: Smart
-  preview_only: true
+  preview_only: false
 
 links:
 - icon: globe-europe
@@ -24,6 +23,8 @@ url_slides: ""
 url_video: ""
 
 share: false
+
+section_pager: true
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

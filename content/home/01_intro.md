@@ -18,9 +18,9 @@ subtitle:
 design:
   columns: "custom"
   background:
-    image: headers/bubbles-wide.jpg
-    image_darken: 0.6
-    image_parallax: true
+    image: headers/DSC_0727.NEF.jpg
+    image_darken: 0.8
+    image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
