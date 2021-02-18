@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
+widget: featured
 
 # Activate this widget? true/false
 active: true
@@ -12,18 +12,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: Upcoming
-subtitle: Conference
+title: Conference update
+subtitle:
 
 design:
   columns: "2"
-  background:
-    # image: headers/bubbles-wide.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    # text_color_light: true
----
+  # background:
+  #   # image: headers/bubbles-wide.jpg
+  #   image_darken: 0.6
+  #   image_parallax: true
+  #   image_position: center
+  #   image_size: cover
+  #   # text_color_light: true
+  view: 2
 
-Add something about the next conference.
+content:
+  page_type: project
+  count: 2
+  order: desc
+  filter:
+    tag: ''
+    category: ''
+---
