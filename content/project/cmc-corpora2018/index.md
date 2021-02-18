@@ -6,12 +6,12 @@ tags: []
 date: "2018-09-19"
 
 # Optional external URL for project (replaces project detail page).
+#
 external_link: ""
 
 image:
   caption:
-  focal_point: Smart
-  preview_only: true
+  preview_only: false
 
 links:
 #- icon: globe-europe
@@ -26,6 +26,8 @@ url_slides: ""
 url_video: ""
 
 share: false
+
+section_pager: true
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
