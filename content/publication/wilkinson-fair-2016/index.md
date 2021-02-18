@@ -65,14 +65,7 @@ date: '2016-03-01'
 lastmod: 2020-11-18T21:35:06+01:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+share: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -83,22 +76,18 @@ projects: []
 publishDate: '2020-11-18T20:35:05.936374Z'
 publication_types:
 - '2'
-abstract: 'The highest accuracy object detectors to date are based on a two-stage
-  approach popularized by R-CNN, where a classifier is applied to a sparse set of
-  candidate object locations. In contrast, one-stage detectors that are applied over
-  a regular, dense sampling of possible object locations have the potential to be
-  faster and simpler, but have trailed the accuracy of two-stage detectors thus far.
-  In this paper, we investigate why this is the case. We discover that the extreme
-  foreground-background class imbalance encountered during training of dense detectors
-  is the central cause. We propose to address this class imbalance by reshaping the
-  standard cross entropy loss such that it down-weights the loss assigned to well-classified
-  examples. Our novel Focal Loss focuses training on a sparse set of hard examples
-  and prevents the vast number of easy negatives from overwhelming the detector during
-  training. To evaluate the effectiveness of our loss, we design and train a simple
-  dense detector we call RetinaNet. Our results show that when trained with the focal
-  loss, RetinaNet is able to match the speed of previous one-stage detectors while
-  surpassing the accuracy of all existing state-of-the-art two-stage detectors. Code
-  is at: https://github.com/facebookresearch/Detectron.'
+abstract: 'There is an urgent need to improve the infrastructure supporting the
+  reuse of scholarly data. A diverse set of stakeholders—representing academia,
+  industry, funding agencies, and scholarly publishers—have come together to
+  design and jointly endorse a concise and measureable set of principles that we
+  refer to as the FAIR Data Principles. The intent is that these may act as a
+  guideline for those wishing to enhance the reusability of their data holdings.
+  Distinct from peer initiatives that focus on the human scholar, the FAIR
+  Principles put specific emphasis on enhancing the ability of machines to
+  automatically find and use the data, in addition to supporting its reuse by
+  individuals. This Comment is the first formal publication of the FAIR
+  Principles, and includes the rationale behind them, and some exemplar
+  implementations in the community.'
 publication: '*Scientific Data*'
 url_pdf: http://www.nature.com/articles/sdata201618
 doi: 10.1038/sdata.2016.18
