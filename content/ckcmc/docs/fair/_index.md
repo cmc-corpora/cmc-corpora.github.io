@@ -37,7 +37,7 @@ prevent or at least hamper the dissemination and accessibility of CMC corpora.
 ## FAIR Guiding Principles
 
 The FAIR Guiding Principles for Data Management and Stewardship, published by
-[Wilkinson et al. (2016)](/publication/wilkinson-fair-2016), provide a
+[Wilkinson et al. (2016)]({{< relref "/publication/wilkinson-fair-2016" >}}), provide a
 universal framework for data management based on the principles of Findability,
 Accessibility,Interoperability and Reusability.  They have received
 international support and have been incorporated into relevant funding schemes
