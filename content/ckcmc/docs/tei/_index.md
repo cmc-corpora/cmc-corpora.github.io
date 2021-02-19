@@ -12,7 +12,7 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-CKCMC co-operates closely with the [TEI SIG
+Our CLARIN K-Centre co-operates closely with the [TEI SIG
 CMC](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication)
 on the development of a TEI standard for the representation of the
 structural and linguistic peculiarities of CMC.
@@ -61,7 +61,7 @@ CMC-core introduces, using the technical vocabulary of the TEI infrastructure.
   elements. The existing attribute class *att.global* has been
   modified to additionally be a member of *att.global.cmc*
 
-## Reference
+## References
 A rationale for the models included in the schema is given in the ODD and as a
 long version in the following article:
 
