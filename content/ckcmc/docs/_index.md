@@ -19,7 +19,8 @@ we have collected enough input, we will be adding a FAQ section with your most
 pressing questions.  We are also interested in your thoughts on missing or
 wrong information.
 
-In the meantime, we have already started to summarise important information for the two central topics of our K-Centre:
-* [FAIR](/ckcmc/docs/fair/) best practices when creating a new CMC corpus
-* [CMC-TEI](/ckcmc/docs/tei/) about a TEI standard for the representation of
+In the meantime, we have already started to summarise important information for
+the two central topics of our K-Centre:
+* [FAIR]({{< relref "/ckcmc/docs/fair/" >}}) best practices when creating a new CMC corpus
+* [CMC-TEI]({{< relref "/ckcmc/docs/tei/" >}}) about a TEI standard for the representation of
   the structural and linguistic peculiarities of CMC
