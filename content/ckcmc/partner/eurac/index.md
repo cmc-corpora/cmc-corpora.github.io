@@ -3,6 +3,7 @@ title: Eurac Research, Bolzano/Bozen, IT
 subtitle: Institute for Applied Linguistics
 
 share: false
+section_pager: true
 
 authors:
 - Egon W. Stemle

@@ -4,6 +4,7 @@ subtitle: "Department of Digital Linguistics"
 summary: IDS is the central non-university institution for the study and documentation of the contemporary usage and recent history of the German language.
 
 share: false
+section_pager: true
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://www.ids-mannheim.de/

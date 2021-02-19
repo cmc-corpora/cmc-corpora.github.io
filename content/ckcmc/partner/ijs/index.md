@@ -4,6 +4,7 @@ subtitle: "Department of Knowledge Technologies"
 summary: IJS is the leading Slovenian research institute for natural sciences with is KT Dept.performing research in advanced information technologies.
 
 share: false
+section_pager: true
 
 authors:
 - Tomaž Erjavec
