@@ -3,6 +3,8 @@ title: CLARIN K(nowledge)-Centre for CMC Documentation
 linktitle: CKCMC Docs
 summary: The page for the CLARIN K(noledge)-Centre for CMC Documentation
 type: book
+
+toc: false
 ---
 
 We offer expertise on language resources and technologies for Computer-Mediated
