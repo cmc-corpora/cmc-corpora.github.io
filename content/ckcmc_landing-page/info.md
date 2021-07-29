@@ -49,3 +49,5 @@ Computer-Mediated Communication and Social Media. Its basic activities are to
 2. Support interested parties in producing, modifying or publishing relevant
    resources and technologies and
 3. Organize training activities.
+
+{{< figure src="SMS_composition_on_feature_phone.png" caption="SMS Caption" >}}
