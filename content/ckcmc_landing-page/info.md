@@ -50,4 +50,4 @@ Computer-Mediated Communication and Social Media. Its basic activities are to
    resources and technologies and
 3. Organize training activities.
 
-{{< figure src="SMS_composition_on_feature_phone.png" caption="SMS Caption" >}}
+![It is gr8 2 c u 2nite.TY 4 ur treats.](SMS_composition_on_feature_phone.png)
