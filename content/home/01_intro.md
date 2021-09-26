@@ -44,5 +44,5 @@ analysis of corpora of computer-mediated communication (CMC) and social media.
 The CLARIN K(nowledge)-Centre for CMC (CKCMC) is dedicated to questions about
 representation, standardisation and distribution of CMC Corpora.
 
-[More about the CKCMC]({{< relref "/ckcmc/index" >}})
+[More about the CKCMC]({{< relref "/ckcmc_landing" >}})
 </div>
