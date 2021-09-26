@@ -1,5 +1,5 @@
 ---
-title: Publications from CMC-Conferences&-Workshops, CKCMC, and CMC-TEI
+title: Publications from Conferences & Workshops, CKCMC, and CMC-TEI
 
 # View.
 #   1 = List
