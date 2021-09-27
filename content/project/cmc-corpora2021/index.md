@@ -1,6 +1,6 @@
 ---
-title: 'CMC2021: 8th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora'
-subtitle: 28-29 Oct 2021 in Nijmegen (Netherlands)
+title: "CMC2021: 8th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora"
+subtitle: "28-29 Oct 2021 @ Radboud University, Nijmegen (Netherlands)"
 
 event: cmc2021
 event_url: https://applejack.science.ru.nl/cmc2021/ 

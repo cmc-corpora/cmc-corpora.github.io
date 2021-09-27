@@ -1,6 +1,6 @@
 ---
 title: "CMC-Corpora 2015: 3rd Conference on CMC and Social Media Corpora for the Humanities"
-subtitle: 23-24 Oct 2015 @ University of Rennes (France)
+subtitle: "23-24 Oct 2015 @ University of Rennes (France)"
 summary: ""
 tags: []
 date: "2015-10-25"

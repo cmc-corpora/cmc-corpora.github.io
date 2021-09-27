@@ -1,6 +1,6 @@
 ---
 title: "2013: Building Corpora of Computer-Mediated Communication: Issues, Challenges, and Perspectives"
-subtitle: 13-15 Feb 2013 in Dortmund (Germany)
+subtitle: "13-15 Feb 2013 @ TU Dortmund University (Germany)"
 summary: ""
 tags: []
 date: "2013-02-15"

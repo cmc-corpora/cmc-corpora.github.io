@@ -1,6 +1,6 @@
 ---
 title: "CMC-Corpora 2018: 6th conference on CMC and Social Media Corpora"
-subtitle: 17-18 Sep 2018 in Antwerp (Belgium)
+subtitle: "17-18 Sep 2018 @ University of Antwerp (Belgium)"
 summary: ""
 tags: []
 date: "2018-09-19"
