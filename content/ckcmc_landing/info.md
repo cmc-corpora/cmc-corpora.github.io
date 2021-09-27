@@ -50,4 +50,16 @@ Computer-Mediated Communication and Social Media. Its basic activities are to
    resources and technologies and
 3. Organize training activities.
 
-![It is gr8 2 c u 2nite.TY 4 ur treats.](SMS_composition_on_feature_phone.png)
+
+## Computer-Mediated Communication (CMC)
+User-generated CMC and social media content offers a wide range of research
+opportunities for a growing multidisciplinary research community to examine
+themes that often relate to—but are not limited to—the interaction between
+language, CMC, and society like, for example, language variation, pragmatics,
+media and communication studies. The data is also very important for the
+development of robust NLP tools that can deal with non-standard spelling,
+vocabulary and grammar. 
+Compilation and dissemination of such corpora are hindered by the unclear legal
+status of CMC data when distributed as resource to the scientific community,
+which is further exacerbated by the rapidly changing terms of service by
+content providers.
