@@ -5,15 +5,17 @@ active: true  # Activate this widget? true/false
 weight: 10  # Order that this section will appear.
 
 title: "Conference series"
-subtitle: ""
+subtitle: "International Conference Series on CMC and Social Media Corpora"
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-*cmc-corpora* (https://cmc-corpora.org) is a series of conferences established
-in 2013 and dedicated to the collection, annotation, processing, and analysis
-of corpora of computer-mediated communication (CMC) and social media.
+The International Conference Series on CMC and Social Media Corpora
+([*cmc-corpora*](/)) is a series of conferences
+[established in 2013](/conference/cmc-corpora2013/) and dedicated to the
+collection, annotation, processing, and analysis of corpora of
+computer-mediated communication (CMC) and social media.
 
 The conferences bring together language-centered research on CMC and social
 media in linguistics, philologies, communication sciences, media, and social
