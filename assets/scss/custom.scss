@@ -1,3 +1,9 @@
+// Increase navbar font-size
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: #{$sta-font-size-small * 1.1}px;
+}
+
 // Reduce ckcmc partner logo on overview page
 #partners.home-section img {
   max-height: 150px;

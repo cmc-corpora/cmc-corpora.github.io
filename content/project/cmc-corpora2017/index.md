@@ -1,6 +1,6 @@
 ---
 title: "CMC-Corpora 2017: 5th Conference on CMC and Social Media Corpora for the Humanities"
-subtitle: 3-4 Oct 2017 in Bolzano (Italy)
+subtitle: "3-4 Oct 2017 @ Eurac Research, Bolzano (Italy)"
 summary: ""
 tags: []
 date: "2017-10-05"

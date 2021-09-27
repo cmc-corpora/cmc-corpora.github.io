@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Proceedings
-subtitle:
+subtitle: Conference Proceedings
 
 
 content:
@@ -48,5 +48,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)  
-  view: 1
+  view: 4
 ---

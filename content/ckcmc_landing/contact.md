@@ -28,7 +28,7 @@ subtitle = ""
   
 +++
 
-Our helpdesk can be contacted via [email to
-`helpdesk@cmc-corpora.org`](mailto:helpdesk@cmc-corpora.org). The helpdesk
-offers additional clarifications regarding the documentation and support in
-using, modifying, producing, or publishing CMC resources and technologies.
+Our helpdesk can be contacted via [email to `helpdesk @ THIS
+DOMAIN`](mailto:{{< param helpdesk_email >}}). The helpdesk offers additional
+clarifications regarding the documentation and support in using, modifying,
+producing, or publishing CMC resources and technologies.

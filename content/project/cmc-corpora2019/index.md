@@ -1,6 +1,6 @@
 ---
 title: "CMC-Corpora 2019: 7th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora"
-subtitle: 9-10 Sep 2019 in Cergy-Pontoise (France)
+subtitle: "9-10 Sep 2019 @ Paris Seine University, Cergy-Pontoise (France)"
 summary: ""
 tags: []
 date: "2019-09-11"

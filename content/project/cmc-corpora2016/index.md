@@ -1,6 +1,6 @@
 ---
 title: "CMC-Corpora 2016: 4th Conference on CMC and Social Media Corpora for the Humanities"
-subtitle: 27-28 Sep 2016 in Ljubljana (Slovenia)
+subtitle: "27-28 Sep 2016 @ Faculty of Arts, University of Ljubljana (Slovenia)"
 summary: ""
 tags: []
 date: "2016-09-29"

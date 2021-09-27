@@ -1,6 +1,7 @@
 ---
-# See index/index.md
-#
-headless: true
-url: "/ckcmc/_-_"
+cms_exclude: true
+
+_build:
+  render: never
+  list: never
 ---

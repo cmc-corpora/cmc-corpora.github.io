@@ -20,4 +20,4 @@ design:
 ---
 
 For more detailed information, see the 
-[dedicated documentation section]({{< relref "/ckcmc/docs/" >}}).
+[dedicated documentation section].

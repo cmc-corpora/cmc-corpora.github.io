@@ -39,13 +39,29 @@ subtitle = ""
   css_class="ckcmc"
 +++
 
-## CLARIN K(nowledge)-Centre for Computer-Mediated Communication and Social Media
+## CLARIN K(nowledge)-Centre for Computer-Mediated Communication and Social Media Corpora
 
 The CLARIN Knowledge Centre for Computer-Mediated Communication and Social
-Media offers expertise on language resources and technologies for
-Computer-Mediated Communication and Social Media. Its basic activities are to
+Media Corpora (CKCMC) offers expertise on language resources and technologies
+for Computer-Mediated Communication and Social Media. Its basic activities are
+to
 1. Give researchers, students, and other interested parties information about
    the available resources, technologies, and community activities,
 2. Support interested parties in producing, modifying or publishing relevant
    resources and technologies and
 3. Organize training activities.
+
+
+## Computer-Mediated Communication (CMC)
+
+User-generated CMC and social media content offers a wide range of research
+opportunities for a growing multidisciplinary research community to examine
+themes that often relate to—but are not limited to—the interaction between
+language, CMC, and society like, for example, language variation, pragmatics,
+media and communication studies. The data is also very important for the
+development of robust NLP tools that can deal with non-standard spelling,
+vocabulary and grammar. 
+Compilation and dissemination of such corpora are hindered by the unclear legal
+status of CMC data when distributed as resource to the scientific community,
+which is further exacerbated by the rapidly changing terms of service by
+content providers.

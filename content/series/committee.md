@@ -22,6 +22,8 @@ subtitle = ""
   # Show user's interests? (true/false)
   show_interests = false
 
+  columns = "2"
+
 [design.spacing]
     # Customize the section spacing. Order is top, right, bottom, left.
     padding = ["25px", "", "25px", ""]
@@ -53,5 +55,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
 ## Current members
