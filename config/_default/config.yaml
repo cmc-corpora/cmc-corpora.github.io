@@ -92,8 +92,6 @@ related:
       weight: 100
     - name: categories
       weight: 70
-    - name: categories
-      weight: 70
     - name: title
       weight: 60
     - name: summary
