@@ -35,6 +35,10 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
+    {{ with $item.Params.subtitle }}
+      <p class="section-subsubheading article-subtitle">{{ . | markdownify | emojify }}</p>
+    {{end}}
+
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
