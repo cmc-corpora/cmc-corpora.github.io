@@ -36,17 +36,15 @@ author: []
 ---
 
 The international research days (IRDs) on Social Media and CMC Corpora for the
-eHumanities will be held in Rennes, France on 23-24th October 2015 and will
-focus on communication and interactions stemming from networks such as the
-Internet or telecommunications, as well as mono and multimodal, synchronous and
-asynchronous communications. The focus of the IRD will encompass different CMC
-genres. These include, but are not limited to, discussion forums, email, SMS,
+eHumanities were held in Rennes, France on 23-24th October 2015 and focused on
+communication and interactions stemming from networks such as the Internet or
+telecommunications, as well as mono and multimodal, synchronous and
+asynchronous communications. The focus of the IRD encompassed different CMC
+genres. These included, but were not limited to, discussion forums, email, SMS,
 text chat, wiki discussions, discussions in multimodal and/or 3D environments.
 
-The aim of the IRDs is to bring together researchers who have collected CMC
-data and who wish to organize and share them for research purposes. The IRDs
-will focus on the process of buidling CMC corpora including annotation and
+The aim of the IRDs was to bring together researchers who had collected CMC
+data and who wished to organize and share them for research purposes. The IRDs
+focused on the process of building CMC corpora including annotation and
 analysis processes as well as the  questions of ethics and rights raised by
-publishing CMC corpora as open data.  We invite researchers who are concerned
-with the analysis of various types on CMC data and corpora for linguistic or
-applied linguistic purposes to submit paper presentations.
+publishing CMC corpora as open data.  
