@@ -1,8 +1,6 @@
 ---
-title: ""
 type: widget_page
-summary: ""
 
-design:
-  columns: 2
+# Homepage is headless, other widget pages are not.
+# headless: true
 ---
