@@ -42,7 +42,7 @@ subtitle = ""
 ## CLARIN K(nowledge)-Centre for Computer-Mediated Communication and Social Media
 
 The CLARIN Knowledge Centre for Computer-Mediated Communication and Social
-Media offers expertise on language resources and technologies for
+Media (CKCMC) offers expertise on language resources and technologies for
 Computer-Mediated Communication and Social Media. Its basic activities are to
 1. Give researchers, students, and other interested parties information about
    the available resources, technologies, and community activities,
