@@ -2,7 +2,10 @@
 title: Conferences
 cms_exclude: true
 
-url: /conferences/
+url: /conferences
 
-view: 3
+aliases:
+- /project/
+
+view: 2
 ---
