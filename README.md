@@ -13,9 +13,5 @@ All changes (and misconfigurations) can be made on the source...
 
 Changes should be made in the `master` branch. Once all necessary changes have been made 
 - `git tag` the last commit with a short reverse date-version, like `2021011401` (2021-01-14v01),
-- `git checkout dev`
-- `git merge 2021011401`
 - `git push`
-- `git checkout master`
-
-This workflow will change somewhat once we're going live and away from the `/dev`-URL.
+- `git push --tags`

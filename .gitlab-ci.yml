@@ -30,17 +30,13 @@ pages-master:
   only:
     - disabled
 
-# FIXME: part II
-# Recently, 'dev' was built offline, i.e. /public (and /public/dev) were taken
-# as-is from the repo. Now, /public/dev is populated.
-#
 # Onle *pages* makes gitlab generate pages!
 pages:
   script:
     - hugo version
-    - make dev-hugo_generate
+    - make generate
   artifacts:
     paths:
       - public
   only:
-    - dev
+    - master
