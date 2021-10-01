@@ -1,6 +1,6 @@
 ---
 title: Egon W. Stemle
-bio: NLP/HLT/AI Researcher
+bio: Researcher in Applied Linguistics
 social:
   - icon: globe-europe
     icon_pack: fas

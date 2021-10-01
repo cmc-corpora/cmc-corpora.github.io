@@ -11,10 +11,13 @@ organizations:
   url: https://www.ids-mannheim.de
 
 # Short bio (displayed in user profile at end of posts)
-bio: Andreas is head of the Digital Linguistics Department at Leibniz-Institute for the German Language in Mannheim, Germany
+bio: Head of the Digital Linguistics Department
 
 social:
 - link: https://www.ids-mannheim.de/digspra/personal/witt/
+  icon: globe-europe
+  icon_pack: fas
+
 
 # Interests to show in About widget
 interests:

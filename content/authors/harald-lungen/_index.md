@@ -10,8 +10,7 @@ organizations:
 - name: IDS
   url: https://www.ids-mannheim.de
 
-# Short bio (displayed in user profile at end of posts)
-bio: Harald is a researcher in the corpus linguistics programme area at Leibniz-Institute for the German Language in Mannheim, Germany
+bio: Researcher in the corpus linguistics programme area
 social:
 - link: https://www.ids-mannheim.de/digspra/personal/luengen/
 

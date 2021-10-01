@@ -5,7 +5,7 @@ title: Nikola Ljubešić
 social:
 - icon: globe-europe
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=zto4fTQAAAAJ&hl=en
+  link: https://nljubesi.github.io/
 # Interests to show in About widget
 interests:
 - Computational Linguistics
@@ -26,11 +26,10 @@ user_groups:
 - IJS
 - CKCMC 
 
-# Role/position/tagline
-role: Researcher
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+bio: Senior researcher
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -5,9 +5,6 @@ title: Thierry Chanier
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position/tagline
-role: Professor in Applied Linguistics
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Université Blaise Pascal, Laboratoire de recherche sur le langage (LRL)

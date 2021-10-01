@@ -10,9 +10,6 @@ organizations:
 - name: University of Duisburg-Essen, Faculty of Humanities
   url: https://www.uni-due.de/germanistik/beisswenger/
 
-# Short bio (displayed in user profile at end of posts)
-bio: Professor in German Linguistics and Language Didactics
-
 # Interests to show in About widget
 interests:
 - Linguistics

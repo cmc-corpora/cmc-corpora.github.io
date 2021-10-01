@@ -10,9 +10,6 @@ organizations:
 - name: Université Clermont Auvergne, LRL (Laboratoire de recherche sur le langage)
   url: http://lrl.univ-bpclermont.fr/rubrique145.html
 
-# Short bio (displayed in user profile at end of posts)
-bio: Researcher and Lecturer in English and Applied Linguistics (Didactics)
-
 # Interests to show in About widget
 interests:
 - non-standard language processing
@@ -39,7 +36,4 @@ committee_period: "2015 - 2018"
 
 ---
 
-Ciara lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.
+Ciara is Researcher and Lecturer in English and Applied Linguistics (Didactics).

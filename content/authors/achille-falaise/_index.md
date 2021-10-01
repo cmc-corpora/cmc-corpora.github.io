@@ -11,7 +11,7 @@ organizations:
   url: http://www.llf.cnrs.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Linguistic data engineer at Laboratoire de Linguistique Formelle (CNRS/Université de Paris), Paris, France.
+bio: Linguistic data engineer
 
 # Interests to show in About widget
 interests:

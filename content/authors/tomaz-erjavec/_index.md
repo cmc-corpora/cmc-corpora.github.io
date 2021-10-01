@@ -26,11 +26,10 @@ user_groups:
 - IJS
 - CKCMC 
 
-# Role/position/tagline
-role: Researcher
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+bio: Senior researcher
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
