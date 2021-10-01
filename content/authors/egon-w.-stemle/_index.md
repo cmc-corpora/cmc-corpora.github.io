@@ -1,5 +1,4 @@
 ---
-title: Egon W. Stemle
 bio: Researcher in Applied Linguistics
 social:
   - icon: globe-europe
@@ -14,12 +13,13 @@ organizations:
     url: http://www.eurac.edu/linguistics
   - name: Eurac Research
     url: http://www.eurac.edu/
-email: egon.stemle@eurac.edu
 superuser: false
 user_groups:
   - Eurac Research
   - CKCMC
 highlight_name: false
+title: Egon W. Stemle
+email: egon.stemle@eurac.edu
 ---
 Egon works on the creation, standardisation, and interoperability of tools for
 editing, processing, and annotating linguistic data. He collects and processes
@@ -32,4 +32,5 @@ curiosity in research is driven by the question of why people can easily find
 meaning in texts, even at a young age, while automatic processes are often of
 little use or fail completely.
 
-He is the leader of this CLARIN K-Centre for CMC.
+He is an advocate of open science to make research and data available for others
+to consult or reuse in new research, and he is the leader of this CLARIN K-Centre for CMC.
