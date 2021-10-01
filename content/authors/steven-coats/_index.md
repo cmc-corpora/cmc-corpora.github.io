@@ -1,43 +1,18 @@
 ---
-# Display name
-title: Steven Coats
-
-# Is this the primary user of the site?
-superuser: false
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: University of Oulu, Faculty of Humanities
-  url: http://cc.oulu.fi/~scoats/
-
-# Interests to show in About widget
+bio: ""
 interests:
-- language variation
-- online language and social media
-- computational approaches to language analysis
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Email for Contact widget or Gravatar
-email: "steven.coats@oulu.fi"
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Remove this if you are not using the People widget.
+  - language variation
+  - online language and social media
+  - computational approaches to language analysis
+organizations:
+  - name: University of Oulu, Faculty of Humanities
+    url: http://cc.oulu.fi/~scoats/
+superuser: false
 user_groups:
-- steering committee
-
-committee_period: "since 2018"
+  - steering committee
+committee_period: since 2018
+highlight_name: false
+title: Steven Coats
+email: steven.coats@oulu.fi
 ---
-
-Steven lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.
+Steven Coats is a lecturer in English at the University of Oulu, Finland, interested in corpus approaches to computer-mediated communication, sociolinguistics, and dialectology. He has published articles on topics such as Twitter discourse, skin tone emoji, verbal Anglicisms in German, and corpus creation from YouTube videos, and created the 1.25-billion-word *Corpus of North American Spoken English*, a publicly-available resource for research into language variation.
