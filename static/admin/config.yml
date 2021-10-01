@@ -29,6 +29,20 @@ collections:
         name: "bio"
         widget: "string"
         required: false
+      - label: "Homepage"
+        name: "social"
+        required: false
+        widget: "list"
+        fields:
+          - {label: Link, name: link, widget: string}
+          - label: "Icon pack"
+            name: "icon_pack"
+            widget: "hidden"
+            default: "fas"
+          - label: "Icon"
+            name: "icon"
+            widget: "hidden"
+            default: "globe-europe"
       - label: "Full biography"
         hint: "Shown on author pages"
         name: "body"
