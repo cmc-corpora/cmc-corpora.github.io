@@ -21,6 +21,11 @@ nav#navbar-main li.nav-item {
   padding: 55px 0 55px 0;
 }
 
+// Reduce bottom margin to (better) vertically center content
+.author-card .card-title {
+  margin-bottom: 0px;
+}
+
 p {
   //  Add browser-based hyphenation support for the site (until (hu)go catches up).
   //  see https://github.com/gohugoio/hugo/issues/307
