@@ -3,7 +3,6 @@ backend:
   repo: ckcmc/ckcmc.gitlab.io
   auth_type: pkce  # Required for pkce
   app_id: 8dd436cfce75e580e58c729ecf9ed338fcf31f5e8ba422d3ec86b1c8713d4f56  # Application ID from your GitLab settings
-publish_mode: 'editorial_workflow'
 media_folder: 'assets/media'
 public_folder: '/media/uploads'
 collections:
