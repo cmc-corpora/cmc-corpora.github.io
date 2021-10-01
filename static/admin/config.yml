@@ -1,20 +1,21 @@
 backend:
   name: gitlab
   repo: ckcmc/ckcmc.gitlab.io
-  auth_type: implicit
-  app_id: ed1d9ac4ce9d273baea1dbdc7410c6143fa97af11df5a9be6177ef74524eb0b9
+  auth_type: pkce  # Required for pkce
+  app_id: 8dd436cfce75e580e58c729ecf9ed338fcf31f5e8ba422d3ec86b1c8713d4f56  # Application ID from your GitLab settings
 publish_mode: 'editorial_workflow'
-media_folder: 'static/media/uploads'
+media_folder: 'assets/media'
 public_folder: '/media/uploads'
 collections:
   - name: authors
     label: People
     folder: 'content/authors'
     path: '{{slug}}/_index'
+    filter: {field: "cms_exclude"}
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
       - {label: "Display name (such as your full name)", name: "title", widget: "string"}
-      - label: "Picture"
+      - label: "Avatar (upload an image named `avatar.jpg/png`)"
         hint: "Image will automatically be shown on the author's page"
         name: "avatar_filename"
         widget: "image"
