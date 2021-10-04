@@ -28,19 +28,21 @@ image:
 projects: []
 ---
 
-If you'd like to organize a conference in the cmc-corpora series, please get in
-touch with the steering committee. Send a short exposé which covers the
-scientific part of the event, as well as details of the local organization –
-see hereafter – and a provisional budget.
+If you'd like to organize a conference in the [cmc-corpora series]({{< relref
+"/series" >}}), please get in touch with the [steering committee]({{< relref
+"/series#committee" >}}). Send a short **exposé** which covers the scientific
+part of the event, as well as details of the local organization – see hereafter
+– and a provisional budget.
 
-Each conference is organized by local organizers in cooperation with the
+Each conference is organized by **local organizers** in cooperation with the
 steering committee. cmc-corpora conferences are announced via the cmc-corpora
 mailing list, the cmc-corpora Facebook page and other mailing lists & networks
-with a call for papers at least six (better: eight) months in advance. Papers
+with a **call for papers** at least six (better: eight) months in advance. Papers
 are submitted for the conference via an online submission system (e.g.,
-EasyChair, ConfTool) which is administered by the local organizers.
+[EasyChair](https://easychair.org/), [ConfTool](https://www.conftool.net/))
+which is administered by the local organizers.
 
-The scientific committee has a chair which is composed equally of
+The scientific committee has a **chair** which is composed equally of
 representatives of the steering committee and representatives of the local
 organizers (1:1 or 2:2).
 
@@ -49,54 +51,54 @@ scientific chairs. It should comprise 10 people at minimum and – for
 continuity's sake – include people from the scientific comitee of previous
 conferences of the series.
 
-The conference language is English. All submissions are peer-reviewed
-independently by two members of the scientific committee. Reviews are assigned
-to reviewers by the scientific chairs.
+The **conference language is English**. All **submissions are peer-reviewed**
+independently by two members of the **scientific committee**. Reviews are
+assigned to reviewers by the scientific chairs.
 
 The scientific chairs make sure that submissions accepted for the conference as
 result of the review process represent projects from different countries and on
 CMC and social media discourse in different languages.
 
-Each conference has a volume of proceedings which is made available online
+Each conference has a volume of **proceedings** which is made available online
 together with the conference and which includes all submissions which have been
 accepted for the conference. The proceedings are openly accessible. The local
 organizers make sure that the proceedings remain accessible persistently.
 
 It is expected that the organizing institution is able to finance travel and
-accomodation for one international keynote speaker. A cmccorpora conference
+accomodation for one international **keynote speaker**. A cmccorpora conference
 typically has two keynote talks given by one local keynote speaker (= from the
 country where the conference takes place) and one international speaker.
 
-Besides the scientific comitee there is an organization committee with members
-nominated by the local organizers.
+Besides the scientific comitee there is an **organization committee** with
+members nominated by the local organizers.
 
-Roadmap for organizing the conference:
+## Roadmap for organizing the conference
 
-* The local organizers report to the steering committee early in advance about
-  their plans for local organization (venue, program structure, accommodation)
-  in the format of a concise exposé (An example for an exposé of a previous
-  conference is attached). Open issues will be discussed with the steering
-  committee via skype or email. The exposé should include suggestions for a
-  conference date (or dates) which fit for the local organizers and their
-  institution.
+1. The local organizers report to the steering committee early in advance about
+   their plans for local organization (venue, program structure, accommodation)
+   in the format of a concise exposé (An example for an exposé of a previous
+   conference is attached). Open issues will be discussed with the steering
+   committee via skype or email. The exposé should include suggestions for a
+   conference date (or dates) which fit for the local organizers and their
+   institution.
 
-* After (1) is finished, the steering committee and the local organizers
-  cooperatively nominate the scientific chairs for the conference and define
-  dates and formats for submission, reviewing, notifications, and for the
-  publication of the online proceedings.
+1. After (1) is finished, the steering committee and the local organizers
+   cooperatively nominate the scientific chairs for the conference and define
+   dates and formats for submission, reviewing, notifications, and for the
+   publication of the online proceedings.
 
-* The scientific chairs create a call for papers for the conference.
+1. The scientific chairs create a call for papers for the conference.
 
-* The local organizers set up a conference website with the call for papers,
-  important dates, the list of committee members and at least preliminary local
-  information (venue, travel, etc.) which may later be expanded.
+1. The local organizers set up a conference website with the call for papers,
+   important dates, the list of committee members and at least preliminary local
+   information (venue, travel, etc.) which may later be expanded.
 
 The steering committee is involved as a partner in general aspects of planning
 the conference while the main responsibility for the overall organization of
 the event is with the local organizers and the responsibility for the
 scientific organization is with the scientific chairs.
 
-Further aspects which the local organizers may wish to address in the exposé:
+## Further aspects which the local organizers may wish to address in the exposé
 
 * The program & schedule of the conference is made available on the conference
   website as early in advance as possible.
@@ -146,4 +148,4 @@ Further aspects which the local organizers may wish to address in the exposé:
   call may also address people who have not presented a paper at the
   conference.
 
-Get in touch: contact@cmc-corpora.org
+## Get in touch: [contact @ cmc-corpora.org](mailto:contact@cmc-corpora.org)
