@@ -1,7 +1,7 @@
 ---
-title: ""
+cms_exclude: true
+
 type: widget_page
-summary: ""
 
 design:
   columns: 2
