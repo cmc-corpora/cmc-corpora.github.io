@@ -2,6 +2,11 @@
 title: Posts
 cms_exclude: true
 
+url: /posts
+
+aliases:
+- /post/
+
 # View.
 #   1 = List
 #   2 = Compact

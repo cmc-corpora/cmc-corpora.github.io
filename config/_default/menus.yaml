@@ -61,7 +61,7 @@ main:
 
 
   - name: 'News'
-    url: 'post/'
+    url: 'posts/'
     weight: 50
 
 

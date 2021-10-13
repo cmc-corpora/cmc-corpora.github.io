@@ -1,5 +1,11 @@
 ---
 title: Publications from Conferences & Workshops, CKCMC, and CMC-TEI
+cms_exclude: true
+
+url: /publications
+
+aliases:
+- /publication/
 
 # View.
 #   1 = List

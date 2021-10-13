@@ -5,7 +5,7 @@ cms_exclude: true
 url: /conferences
 
 aliases:
-- /project/
+- /projects/
 
 view: 2
 ---
