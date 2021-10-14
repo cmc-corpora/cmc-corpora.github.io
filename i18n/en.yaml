@@ -2,3 +2,12 @@
 
 - id: pub_proceedings
   translation: Proceedings
+
+- id: btn_project
+  translation: Conference
+
+- id: open_project_site
+  translation: Go to Conference Site
+
+- id: projects
+  translation: Conferences
