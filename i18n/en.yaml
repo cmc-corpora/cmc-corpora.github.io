@@ -11,3 +11,6 @@
 
 - id: projects
   translation: Conferences
+
+- id: published_with
+  translation: Made with {wowchemy}, the {repo_link}open source website builder{/repo_link}. Website source for <a href="https://gitlab.com/ckcmc/ckcmc.gitlab.io">cmc-corpora.org</a>.</p>
