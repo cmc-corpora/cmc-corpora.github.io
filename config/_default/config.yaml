@@ -100,3 +100,5 @@ related:
       weight: 50
     - name: authors
       weight: 20
+    - name: publication_types
+      weight: 50
