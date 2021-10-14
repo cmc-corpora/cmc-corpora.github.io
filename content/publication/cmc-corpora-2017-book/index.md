@@ -50,5 +50,7 @@ abstract: Communication between humans via networked devices has become an every
   Corpora Conference held in Bolzano, Italy where the community met to discuss themes
   that related to the interaction between language, CMC, and society.
 publication: '*Presses Universitaires Blaise Pascal*'
-url_publisher: http://pubp.giantchair.com/livre/?GCOI=28451100141150&language=en
+links:
+- name: Publisher
+  url: http://pubp.giantchair.com/livre/?GCOI=28451100141150&language=en
 ---

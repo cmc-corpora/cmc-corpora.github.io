@@ -36,5 +36,7 @@ publication_types:
 - '5'
 abstract: 'This issue brings together language-centered studies on computer-mediated communication (CMC) and social media corpora. Except for Hilte et al., the papers in this thematic issue represent a selection of the papers presented at the 6th Conference on Computer-Mediated Communication and Social Media Corpora, 17th-18th September 2018, University of Antwerp (Belgium). The annual conference series is dedicated to the collection, annotation, processing and exploitation of corpora of computer-mediated communication (CMC) and social media for research in the humanities.'
 publication: '*European Journal of Applied Linguistics*'
-url_publisher: https://www.degruyter.com/view/journals/eujal/7/2/eujal.7.issue-2.xml
+links:
+- name: Publisher
+  url: https://www.degruyter.com/view/journals/eujal/7/2/eujal.7.issue-2.xml
 ---

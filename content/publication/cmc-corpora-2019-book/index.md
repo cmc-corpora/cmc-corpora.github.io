@@ -43,5 +43,7 @@ abstract: This volume contains a selection of the papers presented at the 7th ed
   formal and computational models, and specific analysis and more general conclusions
   for humanities.
 publication: "*l'Harmattan*"
-url_publisher: https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=65876
+links:
+- name: Publisher
+  url: https://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=65876
 ---
