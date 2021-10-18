@@ -6,7 +6,6 @@ authors: []
 tags: []
 categories: []
 date: "2015-01-01T00:00:00"
-lastmod: "2020-11-19T00:00:00"
 featured: false
 draft: false
 
@@ -34,6 +33,9 @@ If you'd like to organize a conference in the [cmc-corpora series]({{< relref
 part of the event, as well as details of the local organization – see hereafter
 – and a provisional budget.
 
+{{< toc >}}
+
+## Overview
 Each conference is organized by **local organizers** in cooperation with the
 steering committee. cmc-corpora conferences are announced via the cmc-corpora
 mailing list, the cmc-corpora Facebook page and other mailing lists & networks
@@ -148,4 +150,5 @@ scientific organization is with the scientific chairs.
   call may also address people who have not presented a paper at the
   conference.
 
-## Get in touch: [contact @ cmc-corpora.org](mailto:contact@cmc-corpora.org)
+## Get in touch 
+[contact @ cmc-corpora.org](mailto:contact@cmc-corpora.org)
