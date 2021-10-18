@@ -26,6 +26,22 @@ nav#navbar-main li.nav-item {
   margin-bottom: 0px;
 }
 
+// Reduce image size for publications on overview page and
+// set gray border
+div#container-publications div.media.stream-item img {
+  // max-height: 150px
+  max-width: 115px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+// Set gray border for publication image on article overview page
+div.article-container div.media.stream-item img {
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+
 // Reduce space in footer
 p.powered-by {
   margin-bottom: 5px;
