@@ -37,7 +37,7 @@ hero_media = "logo.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/posts/organizing-a-cmc-corpora-event/"
+  url = "/pages/organizing-a-cmc-corpora-event/"
   label = "Get Started"
   icon_pack = "fas"
   icon = "pizza-slice"
