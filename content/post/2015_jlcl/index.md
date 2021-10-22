@@ -8,7 +8,8 @@ authors:
 - Michael Beißwenger
 profile: false
 tags: []
-categories: []
+categories:
+- publication
 date: 2015-12-05T11:48:00
 featured: false
 draft: false

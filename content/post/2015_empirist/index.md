@@ -1,14 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "EmpiriST2015: Shared Task on annotating German CMC"
-subtitle: ""
+subtitle: "Upcoming Shared Task"
 summary: ""
 authors:
 - Michael Beißwenger
 profile: false
 tags: []
-categories: []
+categories:
+- shared task
 date: 2015-12-05T14:19:00
 lastmod: 2015-12-18T09:59:00
 featured: false
@@ -23,7 +22,7 @@ image:
   preview_only: false
 
 links:
-- name: Project website
+- name: Shared task website
   url: https://sites.google.com/site/empirist2015/
 
 # Projects (optional).

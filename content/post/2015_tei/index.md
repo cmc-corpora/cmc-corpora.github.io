@@ -1,12 +1,13 @@
 ---
 title: "Annotation schemas for CMC and social media genres: resources from the TEI special interest group on CMC"
-subtitle: ""
+subtitle: "Update"
 summary: ""
 authors:
 - Michael Beißwenger
 profile: false
 tags: []
-categories: []
+categories:
+- cmc-tei
 date: 2015-12-05T14:20:00
 featured: false
 draft: false
@@ -38,5 +39,5 @@ Encoding Initiative (TEI) provides schemas for the annotation of cmc and social
 media genres which are conformant with the TEI standards for text encoding and
 which have been tested in corpus projects on French and German CMC.
 
-The schemas have been presented and discussed as part of the 2015 cmc-corpora
-conference in Rennes/FR.
+The schemas have been presented and discussed as part of the [2015 cmc-corpora
+conference in Rennes, France]({{< relref "cmc-corpora2015" >}}).
