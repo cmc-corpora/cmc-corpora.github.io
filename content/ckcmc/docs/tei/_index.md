@@ -10,6 +10,9 @@ weight: 2
 title: CMC-TEI
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
+
+categories:
+- cmc-tei
 ---
 
 Our CLARIN K-Centre co-operates closely with the [TEI SIG
