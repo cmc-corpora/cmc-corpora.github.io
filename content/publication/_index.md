@@ -6,6 +6,10 @@ url: /publications
 
 aliases:
 - /publication/
+# - /categories/publication/
+# this probably should work... but doesn't. 
+# hence, `/static/categoires/publication/index.html` exists and 
+# redirects to `/publications/`
 
 # View.
 #   1 = List
