@@ -33,7 +33,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: true # Get last modified date for content from Git?
+enableGitInfo: true  # Get last modified date for content from Git?
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -48,7 +48,7 @@ permalinks:
   authors: '/people/:slug/'
   project: '/conferences/:filename/'  # needed for 'project' links to point to '/conferences'
   publication: '/publications/:filename/'
-  post: '/posts/:slug/'
+  post: '/posts/:year-:month-:slug/'
   event: "/events/:year/:slug/"
 
 # Disable aliases when `redirects` is added to the `outputs` below. (netlify specific)
