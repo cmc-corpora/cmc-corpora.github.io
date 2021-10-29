@@ -35,7 +35,7 @@ module:
 
 enableGitInfo: true  # Get last modified date for content from Git?
 summaryLength: 30
-paginate: 10
+paginate: 7
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
