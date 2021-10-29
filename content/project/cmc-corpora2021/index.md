@@ -55,15 +55,14 @@ author: []
 ---
 
 The 8th edition of the Conference on Computer-Mediated Communication (CMC) and
-Social Media Corpora will take place in Nijmegen, the Netherlands on Thursday
+Social Media Corpora took place in Nijmegen, the Netherlands on Thursday
 28 - Friday 29 October 2021.
 
-CMC2021 is the 8th edition of an annual conference series dedicated to the
+CMC2021 was the 8th edition of an annual conference series dedicated to the
 development, analysis, and processing of corpora of computer-mediated
 communication (CMC) and social media for research in the humanities. The
-conference brings together language-centred research on CMC and social media in
+conference brought together language-centred research on CMC and social media in
 linguistics, communication sciences, media studies, and social sciences with
 research questions from the fields of corpus and computational linguistics,
 language and text technology, and machine learning. Because of the global
-COVID-19 pandemic, the conference will take place in hybrid form: you can
-choose to attend online or in person. 
+COVID-19 pandemic, the conference took place in hybrid form.
