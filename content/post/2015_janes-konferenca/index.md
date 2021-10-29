@@ -34,7 +34,7 @@ links:
 ---
 
 The members of the [JANES project](https://nl.ijs.si/janes) have been
-organizing a conference on corpus-linguistc and NLP aspects of CMC discourse
+organizing a conference on corpus-linguistic and NLP aspects of CMC discourse
 ([Slovenščina na spletu in v novih
 medijih](https://nl.ijs.si/janes/dogodki/konferenca-2015/), University of
 Ljubljana, 25.–27. November 2015).
