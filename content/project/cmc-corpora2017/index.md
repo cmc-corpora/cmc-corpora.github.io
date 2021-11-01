@@ -3,7 +3,7 @@ title: "CMC-Corpora 2017: 5th Conference on CMC and Social Media Corpora for the
 subtitle: "3-4 Oct 2017 @ Eurac Research, Bolzano (Italy)"
 summary: ""
 tags: []
-date: "2017-10-05"
+date: "2017-10-03"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://cmc-corpora2017.eurac.edu/"

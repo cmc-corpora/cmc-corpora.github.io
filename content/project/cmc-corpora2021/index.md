@@ -1,28 +1,15 @@
 ---
 title: "CMC2021: 8th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora"
-subtitle: "28-29 Oct 2021 @ Radboud University, Nijmegen (Netherlands)"
-
-event: cmc2021
-event_url: https://applejack.science.ru.nl/cmc2021/ 
-
-location: Radboud University
-address:
-  city: Nijmegen 
-  country: The Netherlands
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-28"
-date_end: "2021-10-29"
-all_day: true
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
+subtitle: "28-29 Oct 2021 @ Radboud University, Nijmegen (Netherlands) and Online"
 summary: ""
 tags: []
-featured: true
+date: "2021-10-28"
 
+# Schedule page publish date (NOT talk date).
+#publishDate: "2017-01-01T00:00:00Z"
+#featured: true
+
+external_link: ""
 
 image:
   caption:

@@ -3,7 +3,7 @@ title: "CMC-Corpora 2019: 7th Conference on Computer-Mediated Communication (CMC
 subtitle: "9-10 Sep 2019 @ Paris Seine University, Cergy-Pontoise (France)"
 summary: ""
 tags: []
-date: "2019-09-11"
+date: "2019-09-09"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://cmccorpora19.sciencesconf.org/"
