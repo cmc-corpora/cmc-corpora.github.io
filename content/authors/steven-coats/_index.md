@@ -1,5 +1,10 @@
 ---
+title: Steven Coats
 bio: ""
+social:
+  - icon_pack: fas
+    icon: globe-europe
+    link: https://cc.oulu.fi/~scoats/
 interests:
   - language variation
   - online language and social media
@@ -7,12 +12,11 @@ interests:
 organizations:
   - name: University of Oulu, Faculty of Humanities
     url: http://cc.oulu.fi/~scoats/
+email: steven.coats@oulu.fi
 superuser: false
 user_groups:
   - steering committee
 committee_period: since 2018
 highlight_name: false
-title: Steven Coats
-email: steven.coats@oulu.fi
 ---
 Steven Coats is a lecturer in English at the University of Oulu, Finland, interested in corpus approaches to computer-mediated communication, sociolinguistics, and dialectology. He has published articles on topics such as Twitter discourse, skin tone emoji, verbal Anglicisms in German, and corpus creation from YouTube videos, and created the 1.25-billion-word *Corpus of North American Spoken English*, a publicly-available resource for research into language variation.
