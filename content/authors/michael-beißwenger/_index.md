@@ -30,9 +30,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- steering committee
+- former steering committee
 
-committee_period: "since 2015"
+committee_period: "2015 - 2021"
 ---
 
 Michael lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
