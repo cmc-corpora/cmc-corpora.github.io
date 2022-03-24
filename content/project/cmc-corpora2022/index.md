@@ -26,7 +26,7 @@ links:
     url: https://www.usc.es/en/congresos/cmc2022
   - icon: twitter
     icon_pack: fab
-    url: https://twitter.com/search?q=cmc-corpora
+    url: https://twitter.com/cmc_corpora
 event: cmc2022
 image:
   caption: null
