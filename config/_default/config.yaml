@@ -63,6 +63,12 @@ imaging:
   quality: 75
   anchor: smart
 
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+
 timeout: 600000
 
 taxonomies:
