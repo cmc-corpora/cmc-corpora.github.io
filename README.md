@@ -1,12 +1,12 @@
 # Web Site Sources
 
-This is the source for [the cmc-corpora.org website](https://cmc-corpora.org). The actual content is currently in https://cmc-corpora.org/dev/.
+This is the source for [the cmc-corpora.org website](https://cmc-corpora.org). The actual content is currently in https://cmc-corpora.org/.
 
 ## Contributing
 
 ### GUI
 Some changes to the content can be made with [netlifycms](https://www.netlifycms.org/):
-* https://cmc-corpora.org/dev/admin/#/ 
+* https://cmc-corpora.org/admin/#/ 
 
 ### git
 All changes (and misconfigurations) can be made on the source... 
