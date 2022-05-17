@@ -10,17 +10,19 @@ author: []
 url_video: ""
 title: "CMC2022: 9th Conference on Computer-Mediated Communication (CMC) and
   Social Media Corpora"
-subtitle: Santiago de Compostela, 28-29 September 2022
+subtitle: "28-29 Sep 2022 in Santiago de Compostela (Spain)"
 date: 2022-09-28
 featured: true
 tags: []
-external_link: https://www.usc.es/en/congresos/cmc2022
 url_slides: ""
 address:
   city: Santiago de Compostela
   country: Spain
 location: University of Santiago de Compostela
 links:
+  - icon: book
+    icon_pack: fas
+    url: https://www.usc.es/en/congresos/cmc2022/CFP.html
   - icon: globe-europe
     icon_pack: fas
     url: https://www.usc.es/en/congresos/cmc2022
@@ -28,10 +30,6 @@ links:
     icon_pack: fab
     url: https://twitter.com/cmc_corpora
 event: cmc2022
-image:
-  caption: null
-  preview_only: false
-  filename: facultade.jpg
 publishDate: 2017-01-01T00:00:00Z
 url_code: ""
 all_day: true
