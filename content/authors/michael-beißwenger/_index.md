@@ -32,7 +32,7 @@ highlight_name: false
 user_groups:
 - former steering committee
 
-committee_period: "2015 - 2021"
+committee_period: "2013 - 2021"
 ---
 
 Michael lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
