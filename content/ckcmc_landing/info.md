@@ -6,7 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Welcome"
-subtitle = ""
+subtitle = '<a href="http://hdl.handle.net/11372/DOC-162"><img src="clarin-k.jpg" alt="CLARIN K-Centre Logo" style="height:5em;margin-left:0px;" /></a><ul class="cta-group"> <li> <a href="#contact" class="btn btn-primary text-light px-5 py-2">Contact</a> </li> </ul>'
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -26,7 +27,7 @@ subtitle = ""
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "clarin-k.jpg"  # Name of image in `static/media/`.
+  # image = "clarin-k.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.99  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "left"  # Options include `left`, `center` (default), or `right`.
@@ -41,10 +42,10 @@ subtitle = ""
 
 ## CLARIN K(nowledge)-Centre for Computer-Mediated Communication and Social Media Corpora
 
-The CLARIN Knowledge Centre for Computer-Mediated Communication and Social
-Media Corpora (CKCMC) offers expertise on language resources and technologies
-for Computer-Mediated Communication and Social Media. Its basic activities are
-to
+The [CLARIN Knowledge Centre](https://www.clarin.eu/content/knowledge-centres)
+for Computer-Mediated Communication and Social Media Corpora (CKCMC) offers
+expertise on language resources and technologies for Computer-Mediated
+Communication and Social Media. Its basic activities are to
 1. Give researchers, students, and other interested parties information about
    the available resources, technologies, and community activities,
 2. Support interested parties in producing, modifying or publishing relevant
