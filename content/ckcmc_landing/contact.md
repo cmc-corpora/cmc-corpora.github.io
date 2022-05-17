@@ -32,3 +32,14 @@ Our helpdesk can be contacted via [email to `helpdesk @ THIS
 DOMAIN`](mailto:{{< param helpdesk_email >}}). The helpdesk offers additional
 clarifications regarding the documentation and support in using, modifying,
 producing, or publishing CMC resources and technologies.
+
+<ul class="cta-group">
+  <li>
+    <a href="mailto:{{< param helpdesk_email >}}" class="btn btn-primary px-3 py-3">Get in touch!</a>
+  </li>
+  <li>
+    <a href="https://gitlab.com/ckcmc/service_desk/-/issues/?sort=created_date&state=all" >
+      Check out previous inquiries...<i class="fas fa-angle-right"></i>
+    </a>
+  </li>
+</ul>
