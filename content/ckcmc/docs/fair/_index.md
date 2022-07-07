@@ -73,7 +73,7 @@ research data repository but are indeed specific to the community. First,
 research data must be stored in open and well documented formats. Here, the CMC
 community is responsible for developing and documenting common standard formats
 for CMC data. One important step has already been taken with the [CMC core
-extension to the TEI P5 Guidelines](/publication/beiswenger-cmc-core-2020/),
+extension to the TEI P5 Guidelines](/publications/beiswenger-cmc-core-2020/),
 which was recently submitted to the TEI consortium as a feature request
 and will hopefully be adopted by more corpora in the future. Secondly, research
 data must have extensive metadata. In the case of CMC data, we consider it
