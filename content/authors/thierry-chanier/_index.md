@@ -8,8 +8,6 @@ superuser: false
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Université Blaise Pascal, Laboratoire de recherche sur le langage (LRL)
-  url: https://lrl.uca.fr/
-
 
 eMail: thierry.chanier @ univ-bpclermont.fr (without spaces)
 
@@ -17,8 +15,7 @@ eMail: thierry.chanier @ univ-bpclermont.fr (without spaces)
 #bio: Something about Thierry.
 
 # Interests to show in About widget
-interests:
-- Computational Linguistics
+interests: []
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -40,8 +37,3 @@ user_groups:
 
 committee_period: "2013 - 2015"
 ---
-
-Thierry lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.

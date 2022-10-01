@@ -1,6 +1,10 @@
 ---
 title: Aivars Glaznieks
 bio: Senior Researcher
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/aivarsglaznieks
 interests:
   - Writing research
   - Language acquisition

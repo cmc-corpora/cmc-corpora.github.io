@@ -2,17 +2,20 @@
 # Display name
 title: Ciara Wigham
 
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/loopy63
+
 # Is this the primary user of the site?
 superuser: false
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Université Clermont Auvergne, LRL (Laboratoire de recherche sur le langage)
-  url: http://lrl.univ-bpclermont.fr/rubrique145.html
 
 # Interests to show in About widget
-interests:
-- non-standard language processing
+interests: []
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -35,5 +38,3 @@ user_groups:
 committee_period: "2015 - 2018"
 
 ---
-
-Ciara is Researcher and Lecturer in English and Applied Linguistics (Didactics).

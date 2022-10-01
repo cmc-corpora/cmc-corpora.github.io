@@ -6,6 +6,9 @@ social:
 - icon: globe-europe
   icon_pack: fas
   link: https://nljubesi.github.io/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/nljubesic
 # Interests to show in About widget
 interests:
 - Computational Linguistics

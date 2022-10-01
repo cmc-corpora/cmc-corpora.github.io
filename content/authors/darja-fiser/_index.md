@@ -6,6 +6,9 @@ social:
 - icon: globe-europe
   icon_pack: fas
   link: http://lojze.lugos.si/darja/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/dfiser3
 
 # Is this the primary user of the site?
 superuser: false

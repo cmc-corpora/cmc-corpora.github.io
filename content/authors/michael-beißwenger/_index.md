@@ -2,6 +2,11 @@
 # Display name
 title: Michael Beißwenger
 
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Tweetfreed
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -11,8 +16,7 @@ organizations:
   url: https://www.uni-due.de/germanistik/beisswenger/
 
 # Interests to show in About widget
-interests:
-- Linguistics
+interests: []
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -34,8 +38,3 @@ user_groups:
 
 committee_period: "2013 - 2021"
 ---
-
-Michael lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
-egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
-vel metus tempus vulputate.
