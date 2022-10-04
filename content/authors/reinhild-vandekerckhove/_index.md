@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lisa Hilte
+title: Reinhild Vandekerckhove
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,12 +11,12 @@ organizations:
   url: https://www.uantwerpen.be/en/research-groups/clips/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doc researcher
+bio: Professor Dutch Linguistics & Sociolinguistics
 
 # Interests to show in About widget
 interests:
-- Sociolinguistics with a quantitative / computational focus
-- Computational Linguistics
+- Sociolinguistics
+- Dutch Linguistics
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -26,7 +26,7 @@ interests:
 #   link: media/resume.pdf
 
 # Email for Contact widget or Gravatar
-email: "lisa.hilte@uantwerpen.be"
+email: "reinhild.vandekerckhove@uantwerpen.be"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -34,13 +34,13 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- former steering committee
+- steering committee
 
-committee_period: "2019 - 2022"
+committee_period: "since 2022"
 
 ---
 
-Lisa lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
 neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget
 egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam
 vel metus tempus vulputate.
