@@ -33,7 +33,7 @@ event: cmc2022
 publishDate: 2017-01-01T00:00:00Z
 url_code: ""
 all_day: true
-share: true
+share: false
 ---
 
 The 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora will be held in Santiago de Compostela, Spain, from Wednesday 28 to Thursday 29 September 2022. It will be hosted by the Faculty of Philology of the University of Santiago de Compostela. In the event that the pandemic situation makes travel difficult or impossible, the conference will take place in a hybrid or remote format.

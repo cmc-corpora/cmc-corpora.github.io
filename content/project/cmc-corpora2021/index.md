@@ -26,8 +26,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-share: true
+all_day: true
+share: false
 
 section_pager: true
 
