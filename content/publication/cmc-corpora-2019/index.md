@@ -20,7 +20,7 @@ abstract: "This volume presents the proceedings of the 7th edition of the annual
   of CMC corpora, others on the pragmatics of CMC, others on geographic
   linguistic variation, or applied linguistics, with discursive, semantic, or
   computational point of views."
-url_pdf: https://cmccorpora19.sciencesconf.org/data/pages/proceedings.pdf
+url_pdf: https://cmccorpora19.sciencesconf.org/data/pages/proceedingsCMC_Corpora_2020.pdf
 publication_types:
   - "9"
 summary: ""
