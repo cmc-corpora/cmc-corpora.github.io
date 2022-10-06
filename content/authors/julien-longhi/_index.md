@@ -3,9 +3,6 @@ title: Julien Longhi
 bio: Professor of Linguistics
 avatar_filename: avatar
 social:
-  - icon: globe-europe
-    icon_pack: fas
-    link: https://www.cyu.fr/m-julien-longhi
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jlonghi1
@@ -16,7 +13,7 @@ superuser: false
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Université de Cergy-Pontoise
-  url: https://www.cyu.fr
+  url: https://www.cyu.fr/m-julien-longhi
 
 
 user_groups:

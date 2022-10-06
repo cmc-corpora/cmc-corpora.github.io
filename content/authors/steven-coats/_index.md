@@ -1,10 +1,6 @@
 ---
 title: Steven Coats
 bio: ""
-social:
-  - icon_pack: fas
-    icon: globe-europe
-    link: https://cc.oulu.fi/~scoats/
 interests:
   - language variation
   - online language and social media
