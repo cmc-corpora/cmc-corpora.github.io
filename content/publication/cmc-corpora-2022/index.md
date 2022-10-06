@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [cmc-corpora2022]
 publishDate: '2022-10-06T12:54:08.661288Z'
 publication_types:
 - '9'
