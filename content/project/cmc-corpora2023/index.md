@@ -8,7 +8,7 @@ date_end: 2023-09-15
 event_url: coming soon
 author: []
 url_video: ""
-title: "CMC2023: 9th Conference on Computer-Mediated Communication (CMC) and
+title: "CMC2023: 10th Conference on Computer-Mediated Communication (CMC) and
   Social Media Corpora"
 subtitle: "14-15 September 2023 in Mannheim, Germany"
 date: 2023-09-14
@@ -20,12 +20,6 @@ address:
   country: Germany
 location: tbd
 links:
-  - icon: book
-    icon_pack: fas
-    url: coming soon
-  - icon: globe-europe
-    icon_pack: fas
-    url: coming soon
   - icon: twitter
     icon_pack: fab
     url: https://twitter.com/cmc_corpora
