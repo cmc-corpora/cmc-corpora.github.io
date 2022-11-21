@@ -5,7 +5,7 @@ url_pdf: ""
 summary: ""
 section_pager: true
 date_end: 2023-09-15
-event_url: https://www.usc.es/en/congresos/cmc2022
+event_url: coming soon
 author: []
 url_video: ""
 title: "CMC2023: 9th Conference on Computer-Mediated Communication (CMC) and
