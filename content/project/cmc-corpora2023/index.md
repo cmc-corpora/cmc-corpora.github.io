@@ -20,6 +20,9 @@ address:
   country: Germany
 location: tbd
 links:
+  - icon: globe-europe
+    icon_pack: fas
+    url: https://www.uni-mannheim.de/cmc-corpora2023/
   - icon: twitter
     icon_pack: fab
     url: https://twitter.com/cmc_corpora
