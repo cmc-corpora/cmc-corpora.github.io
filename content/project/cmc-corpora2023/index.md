@@ -20,6 +20,9 @@ address:
   country: Germany
 location: tbd
 links:
+  - icon: book
+    icon_pack: fas
+    url: https://www.uni-mannheim.de/cmc-corpora2023/call-for-papers-cfp/
   - icon: globe-europe
     icon_pack: fas
     url: https://www.uni-mannheim.de/cmc-corpora2023/
@@ -33,7 +36,7 @@ all_day: true
 share: false
 ---
 
-The 10th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora will be held in Mannheim, Germany, from Thursday 14 to Friday 15 September 2023. More detailed information and a CfP will be published within the coming months.
+The 10th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora will be held in Mannheim, Germany, from Thursday 14 to Friday 15 September 2023..
 
 ‘CMC-corpora 2023’ is the 10th edition of an annual conference series dedicated to the development, analysis, and processing of corpora of computer-mediated communication and social media for research in the humanities. The conference brings together language-centred research on CMC and social media in linguistics, communication sciences, media studies, and social sciences with research questions from the fields of corpus and computational linguistics, language and text technology, and machine learning. 
 
