@@ -8,7 +8,6 @@ section_pager: true
 
 authors:
 - Tomaž Erjavec
-- Darja Fišer
 - Nikola Ljubešić
 
 type: ckcmc_partner
