@@ -28,7 +28,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Medientechnik Universität Mannheim**]'
+  caption: 'Image credit: **Medientechnik Universität Mannheim**'
   focal_point: Right
 
 url_code: ""
