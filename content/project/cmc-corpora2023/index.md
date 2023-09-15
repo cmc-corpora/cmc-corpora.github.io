@@ -10,7 +10,7 @@ url_video: ""
 title: "CMC2023: 10th Conference on Computer-Mediated Communication (CMC) and
   Social Media Corpora"
 subtitle: "14-15 September 2023 in Mannheim (Germany)"
-date: 2023-09-14
+date: 2022-11-21
 featured: true
 tags: []
 url_slides: ""
