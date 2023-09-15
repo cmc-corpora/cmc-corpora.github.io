@@ -6,8 +6,8 @@ event_url: https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora
 
 location: CLARIN virtual Zoom meeting
 
-summary: The virtual workshop is held in conjunction with the CMC corpora 2021 conference.
-abstract: "The workshop will detail important aspects of data management as it applies to CMC corpora, for example, how data should be collected, which metadata to record, which data formats are advisable, and which legal concerns need to be considered when CMC corpora are supposed to be Findable, Accessible, Interoperable and Reusable at the end of a project. The workshop is aimed at early career researchers or researchers that are about to start a new project in the field of CMC corpora."
+summary: The virtual workshop was held in conjunction with the CMC corpora 2021 conference.
+abstract: "The workshop detailled important aspects of data management as it applies to CMC corpora, for example, how data should be collected, which metadata to record, which data formats are advisable, and which legal concerns need to be considered when CMC corpora are supposed to be Findable, Accessible, Interoperable and Reusable at the end of a project. The workshop was aimed at early career researchers or researchers that were about to start a new project in the field of CMC corpora."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
