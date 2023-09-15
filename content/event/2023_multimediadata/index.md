@@ -4,7 +4,7 @@ title: Working with multimedia data
 event: CMC-Corpora and CKCMC Workshop
 # event_url: https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora
 
-location:
+location: Aula O102, Schloss, University of Mannheim (Germany)
 
 summary: The workshop is held in conjunction with the CMC corpora 2023 conference.
 abstract: "The workshop gives a basic introduction to methodological and technological aspects of working with multimedia data as part of CMC corpora. We will give an overview of the most important tools for manual transcription of audio or video, discuss the role of automatic methods (ASR, Automatic Speech Recognition) and look at standardisation in the TEI framework, including integration with solutions for written CMC data. Researchers of all stages are welcome, no special equipment is required to follow the workshop."
@@ -28,7 +28,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Eurac Reserach**](https://www.eurac.edu/en/meeting-management)'
+  caption: 'Image credit: [**Medientechnik Universität Mannheim**]'
   focal_point: Right
 
 url_code: ""
