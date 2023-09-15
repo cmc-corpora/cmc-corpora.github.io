@@ -1,7 +1,7 @@
 ---
-title: Working with multimedia data
+title: Working with Multimedia Data
 
-event: CMC-Corpora and CKCMC Workshop
+# event: CMC-Corpora and CKCMC Workshop
 # event_url: https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora
 
 location: Aula O102, Schloss, University of Mannheim (Germany)
