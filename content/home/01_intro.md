@@ -31,7 +31,8 @@ design:
 </div>
 <div class="col-12 col-lg-8 section-heading">
 Series of conferences dedicated to the collection, annotation, processing, and
-analysis of corpora of computer-mediated communication (CMC) and social media.
+analysis of corpora of computer-mediated communication (CMC) and social media
+corpora.
 
 [More about the Conference Series]({{< relref "/series" >}})
 </div>
