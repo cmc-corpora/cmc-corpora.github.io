@@ -40,7 +40,7 @@ author: []
 ---
 
 The 5th conference on CMC and Social Media Corpora for the Humanities was
-held in Bolzano/Bozen, Italy on 3-4 October 2017 and focused on the
+held in Bolzano/Bozen, Italy, 3-4 October 2017 and focused on the
 collection, analysis and processing of mono and multimodal, synchronous and
 asynchronous communications. The focus encompassed different CMC genres.
 These included, but were not limited to, discussion forums, blogs, newsgroups,
