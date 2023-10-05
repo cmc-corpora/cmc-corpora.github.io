@@ -35,6 +35,11 @@ div#container-publications div.media.stream-item img {
   border-color: gray;
   border-width: 1px;
 }
+// Add some space between entries
+div#container-publications > div {
+  margin-bottom: 25px;
+}
+
 // Set gray border for publication image on article overview page
 div.article-container div.media.stream-item img {
   border-style: solid;
