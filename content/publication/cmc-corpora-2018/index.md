@@ -10,9 +10,9 @@ authors:
 - Darja Fišer
 - Lisa Hilte
 profile: false
-tags:
+tags: []
+categories:
 - cmc-corpora conference proceeding
-categories: []
 date: '2018-01-01'
 lastmod: 2020-10-30T10:09:28+01:00
 featured: false
@@ -39,5 +39,8 @@ abstract: Proceedings of the 6th Conference on Computer-Mediated Communication (
   and Social Media Corpora (CMC-corpora 2018), 17-18 September 2018, University of
   Antwerp
 publication: '*Univerity of Antwerp*'
-url_pdf: https://hdl.handle.net/10067/1534160151162165141
+url_pdf: https://repository.uantwerpen.be/docman/irua/de0576/153416.pdf
+links:
+  - name: PID (HDL.NET)
+    url: https://hdl.handle.net/10067/1534160151162165141
 ---

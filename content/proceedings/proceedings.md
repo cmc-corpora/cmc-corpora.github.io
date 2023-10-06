@@ -27,8 +27,8 @@ content:
   order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
-    tag: 'cmc-corpora conference proceeding'
-    category: ''
+    tag: ''
+    category: 'cmc-corpora conference proceeding'
     publication_type: '9'
     exclude_featured: false
     exclude_past: false

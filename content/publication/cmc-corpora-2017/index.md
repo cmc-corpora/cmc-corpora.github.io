@@ -8,9 +8,9 @@ authors:
 - Egon W. Stemle
 - Ciara R. Wigham
 profile: false
-tags:
+tags: []
+categories:
 - cmc-corpora conference proceeding
-categories: []
 date: '2017-10-01'
 lastmod: 2020-10-30T10:09:28+01:00
 featured: false

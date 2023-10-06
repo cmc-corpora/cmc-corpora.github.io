@@ -35,14 +35,14 @@ title: Proceedings of the 7th Conference on CMC and Social Media Corpora for the
   Humanities (CMC-Corpora2019)
 subtitle: " "
 date: 2019-09-01
-tags:
-  - cmc-corpora conference proceeding
+tags: []
 projects:
   - cmc-corpora2019
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-categories: []
+categories:
+  - cmc-corpora conference proceeding
 publishDate: 2020-10-30T09:09:28.349041Z
 ---

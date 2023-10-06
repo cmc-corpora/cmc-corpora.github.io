@@ -9,9 +9,9 @@ authors:
 - Iris Hendrickx
 - Lieke Verheijen
 - Lidwien van de Wijngaert
-tags:
+tags: []
+categories:
 - cmc-corpora conference proceeding
-categories: []
 date: '2021-10-01'
 lastmod: 2021-11-01T01:01:33+01:00
 featured: false

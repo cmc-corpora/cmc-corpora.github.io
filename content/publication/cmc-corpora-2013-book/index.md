@@ -43,8 +43,8 @@ abstract: 'This special issue of the JLCL gathers five contributions of
   Charldorp), and the research on language variation in Dutch Twitter data (van
   Halteren & Oostdijk).'
 publication: '*Gesellschaft für Sprachtechnologie und Computerlinguistik (GSCL)*'
-url_pdf: https://jlcl.org/content/2-allissues/7-Heft2-2014/Heft2-2014.pdf 
+url_pdf: https://jlcl.org/issue/view/24/23
 links:
 - name: Publisher
-  url: https://jlcl.org/allissues
+  url: https://jlcl.org/issue/view/24
 ---

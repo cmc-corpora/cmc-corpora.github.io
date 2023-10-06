@@ -24,8 +24,8 @@ title = "Conference Proceedings"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "cmc-corpora conference proceeding"
-    category = ""
+    tag = ""
+    category = "cmc-corpora conference proceeding"
     publication_type = ""
     author = ""
     exclude_featured = false

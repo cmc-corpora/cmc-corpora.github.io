@@ -10,9 +10,9 @@ authors:
 - Harald Lüngen
 - Ines Pisetta
 profile: false
-tags:
+tags: []
+categories:
 - cmc-corpora conference proceeding
-categories: []
 date: '2023-09-07'
 featured: true
 draft: false
@@ -42,5 +42,6 @@ abstract: 'Following the successes of the ninth conference in 2022 held in the w
   
   As part of the conference, we were delighted to include two invited talks: an international keynote speech by Unn Røyneland from the University of Oslo, Norway, on the practices and perceptions of researching dialect writing in social media, and a national keynote speech by Tatjana Scheffler from the Ruhr-University of Bochum on analysing individual linguistic variability in social media and constructing corpora from this data. Additionally, participants could take part in a workshop on processing audio data for corpus linguistic analysis. This volume contains abstracts of the invited talks, short papers of oral presentations, and abstracts of posters presented at the conference.'
 publication: '*Leibniz-Institut für Deutsche Sprache (IDS)*'
+url_pdf: https://ids-pub.bsz-bw.de/files/12095/CMC2023.proceedings.v1.1.pdf
 doi: 10.14618/1z5k-pb25
 ---

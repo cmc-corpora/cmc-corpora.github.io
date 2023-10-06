@@ -6,10 +6,10 @@ title: Book of Abstracts of the 9th Conference on Computer-Mediated Communicatio
 subtitle: ''
 summary: ''
 authors: []
-tags:
+tags: []
+categories:
 - cmc-corpora conference proceeding
-categories: []
-date: '2022-01-01'
+date: '2022-10-06'
 lastmod: 2022-10-06T14:54:17+02:00
 featured: false
 draft: false
