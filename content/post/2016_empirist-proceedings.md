@@ -1,13 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Proceedings: EmpiriST"
-summary: ""
+title: "Proceedings of the 10th Web as Corpus Workshop (WAC-X) and the EmpiriST Shared Task"
+subtitle: "New Publication"
 authors:
 - Michael Beißwenger
 profile: false
 tags: []
-categories: []
+categories:
+- publication
+- shared task
 date: 2016-01-30T10:00:00
 featured: false
 draft: false

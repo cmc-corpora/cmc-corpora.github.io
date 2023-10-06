@@ -2,13 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Corpus-linguistic and NLP aspects of Internet-based Slovene"
-subtitle: "Related Conference"
+subtitle: "Related Conference Announcement"
 authors:
 - Michael Beißwenger
 profile: false
 tags: []
 categories:
-- related conference
+- conference
 date: 2015-12-05T14:21:00
 featured: false
 draft: false

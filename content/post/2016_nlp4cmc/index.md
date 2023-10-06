@@ -1,13 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CfP: NLP4CMC2016: 3rd Workshop on Natural Language Processing for Computer-Mediated Communication / Social Media"
+title: "NLP4CMC2016: 3rd Workshop on Natural Language Processing for Computer-Mediated Communication / Social Media"
+subtitle: "Call for Papers"
 summary: ""
 authors:
 - Michael Beißwenger
 profile: false
 tags: []
-categories: []
+categories:
+- call for papers
 date: 2016-04-27T09:03:00
 featured: false
 draft: false

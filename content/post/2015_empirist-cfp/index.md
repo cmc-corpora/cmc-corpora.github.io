@@ -1,6 +1,6 @@
 ---
 title: "Shared Task on Processing German CMC/Social Media & Web Data"
-subtitle: "Call for Participation"
+subtitle: "Shared Task: Call for Participation"
 authors:
 - Michael Beißwenger
 profile: false

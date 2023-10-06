@@ -1,6 +1,6 @@
 ---
 title: Data Management for FAIR CMC corpora
-subtitle: "Call for Participation"
+subtitle: "Workshop: Call for Participation"
 summary: ""
 authors:
 profile: false
@@ -8,6 +8,7 @@ tags: []
 categories:
 - ckcmc
 - call for participation
+- workshop
 date: 2021-10-02
 featured: true
 draft: false
@@ -25,7 +26,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [cmc-corpora2021]
 ---
 
 {{< cite page="/event/2021_fairification" view="2" >}}

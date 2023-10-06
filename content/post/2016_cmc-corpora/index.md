@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "CMC Corpora 2016 in Ljubljana, Slovenia"
-summary: "Call for Papers"
+subtitle: "Call for Papers"
 authors:
 - Michael Beißwenger
 profile: false

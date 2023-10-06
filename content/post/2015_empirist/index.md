@@ -1,6 +1,6 @@
 ---
 title: "EmpiriST2015: Shared Task on annotating German CMC"
-subtitle: "Upcoming Shared Task"
+subtitle: "Shared Task Announcement"
 summary: ""
 authors:
 - Michael Beißwenger

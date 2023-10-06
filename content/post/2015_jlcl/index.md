@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "JLCL special issue on building & annotating CMC corpora"
-subtitle: ""
+subtitle: "New Publication"
 summary: ""
 authors:
 - Michael Beißwenger
@@ -29,5 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
 {{< cite page="/publication/cmc-corpora-2013-book" view="2" >}}
