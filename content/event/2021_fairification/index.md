@@ -1,5 +1,5 @@
 ---
-title: Data Management for FAIR CMC corpora
+title: "Workshop: Data Management for FAIR CMC corpora"
 
 event: CLARIN UI Workshop
 event_url: https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora
@@ -40,9 +40,13 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-#links:
-#- name: Related conference
-#  url: conferences/cmc-corpora2021
+links:
+- name: Recording
+  url: https://www.youtube.com/playlist?list=PLlKmS5dTMgw0BgpZRPYtFy-t99c0j6iM3
+- name: Slides
+  url: https://www.clarin.eu/event/2021/workshop-data-management-fair-cmc-corpora#programme
+- name: Blog post
+  url: https://www.clarin.eu/blog/recap-workshop-data-management-fair-cmc-corpora
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,4 +64,5 @@ projects: [cmc-corpora2021]
 
 categories:
 - ckcmc
+- workshop
 ---

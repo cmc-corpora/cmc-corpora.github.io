@@ -1,5 +1,5 @@
 ---
-title: Working with Multimedia Data
+title: "Workshop: Working with Multimedia Data"
 
 # event: CMC-Corpora and CKCMC Workshop
 # event_url: https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora
@@ -33,7 +33,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "CMC_Workshop_Thomas_Schmidt.pdf"
 url_video: ""
 #links:
 #- name: Related conference
@@ -55,4 +55,5 @@ projects: [cmc-corpora2023]
 
 categories:
 - ckcmc
+- workshop
 ---
