@@ -30,23 +30,23 @@ main:
     weight: 50
 
 
-  - name: 'CLARIN K-Centre for CMC'
+  - name: 'CLARIN K-centre for CMC'
     weight: 20
   - name: 'CKCMC Overview'
     url: 'ckcmc/#'
-    parent: 'CLARIN K-Centre for CMC'
+    parent: 'CLARIN K-centre for CMC'
     weight: 10
   - name: 'Partners'
     url: 'ckcmc/#partners'
-    parent: 'CLARIN K-Centre for CMC'
+    parent: 'CLARIN K-centre for CMC'
     weight: 20
   - name: 'Contact the CKCMC'
     url: 'ckcmc/#contact'
-    parent: 'CLARIN K-Centre for CMC'
+    parent: 'CLARIN K-centre for CMC'
     weight: 30
   - name: 'Documentation'
     url: 'ckcmc/docs/'
-    parent: 'CLARIN K-Centre for CMC'
+    parent: 'CLARIN K-centre for CMC'
     weight: 40
 
 

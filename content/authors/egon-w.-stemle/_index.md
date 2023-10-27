@@ -37,4 +37,4 @@ little use or fail completely.
 
 He is an advocate of open science to make research and data available for
 others to consult or reuse in new research, and he is the leader of this CLARIN
-K-Centre for CMC.
+K-centre for CMC.

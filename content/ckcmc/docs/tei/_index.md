@@ -15,7 +15,7 @@ categories:
 - cmc-tei
 ---
 
-Our CLARIN K-Centre co-operates closely with the [TEI SIG
+Our CLARIN K-centre co-operates closely with the [TEI SIG
 CMC](https://wiki.tei-c.org/index.php/SIG:Computer-Mediated_Communication)
 on the development of a TEI standard for the representation of the
 structural and linguistic peculiarities of CMC.

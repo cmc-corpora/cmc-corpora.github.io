@@ -20,7 +20,7 @@ organizations:
   url: http://kt.ijs.si/
 - name: Faculty of Computer Science, Ljubljana University
   url: https://www.fri.uni-lj.si/en/laboratory/lkm
-- name: CLASSLA K-Centre
+- name: CLASSLA K-centre
   url: https://www.clarin.si/info/k-centre/
 # Email for Contact widget or Gravatar
 email: "nikola.ljubesic@ijs.si"
@@ -49,4 +49,4 @@ lexicon extraction and machine translation. He is an expert in machine
 learning approaches, and has developed several methods for
 word-normalisation, also applied to CMC corpora.
 
-He is the leader of the CLARIN K-Centre CLASSLA, for Computational Processing of South Slavic languages.
+He is the leader of the CLARIN K-centre CLASSLA, for Computational Processing of South Slavic languages.

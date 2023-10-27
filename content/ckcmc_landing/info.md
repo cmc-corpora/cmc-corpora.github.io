@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Welcome"
-subtitle = '<a href="http://hdl.handle.net/11372/DOC-162"><img src="clarin-k.jpg" alt="CLARIN K-Centre Logo" style="height:5em;margin-left:0px;" /></a><ul class="cta-group"> <li> <a href="#contact" class="btn btn-primary text-light px-5 py-2">Contact</a> </li> </ul>'
+subtitle = '<a href="http://hdl.handle.net/11372/DOC-162"><img src="CLARIN-Logo-K-centre-2023.jpg" alt="CLARIN K-centre Logo" style="height:4em;margin-left:0px;" /></a><ul class="cta-group"> <li> <a href="#contact" class="btn btn-primary text-light px-5 py-2">Contact</a> </li> </ul>'
 
 
 [design]
@@ -40,7 +40,7 @@ subtitle = '<a href="http://hdl.handle.net/11372/DOC-162"><img src="clarin-k.jpg
   css_class="ckcmc"
 +++
 
-## CLARIN K(nowledge)-Centre for Computer-Mediated Communication and Social Media Corpora
+## CLARIN K(nowledge)-centre for Computer-Mediated Communication and Social Media Corpora
 
 The [CLARIN Knowledge Centre](https://www.clarin.eu/content/knowledge-centres)
 for Computer-Mediated Communication and Social Media Corpora (CKCMC) offers
