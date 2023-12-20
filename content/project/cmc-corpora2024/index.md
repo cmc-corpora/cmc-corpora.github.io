@@ -31,6 +31,6 @@ all_day: true
 share: false
 ---
 
-The 11th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora will be held on Thursday, the 5th and Friday, the 6th of September 2024 at the Université Côte d'Azur (Nice, France).
+The 11th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora will be held on Thursday, the 5th and Friday, the 6th of September 2024 at the Université Côte d'Azur (Nice, France). 
 
 The conference brings together language-centered research on CMC and social media in linguistics, philologies, communication sciences, media, foreign language teaching and learning, and social sciences with research questions from the fields of corpus and computational linguistics, language technology, text technology, and machine learning. It features research in which computational methods and tools are used for language-centered empirical analysis of CMC and social media phenomena as well as research on building, processing, annotating, representing, and exploiting CMC and social media corpora, including their integration in digital research infrastructures. We adhere to a wide definition of CMC and Social Media, covering various media of digital communication, including email, newsgroups, forums, chat and messenger applications (e.g. WhatsApp), social networks (Facebook, Instagram), gaming platforms, as well as interactions in the communication areas of video portals (YouTube), learning platforms, gaming apps, online games and virtual worlds.
