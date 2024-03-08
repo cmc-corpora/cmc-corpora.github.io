@@ -18,9 +18,6 @@ address:
   city: Mannheim
   country: Germany
 links:
-  - icon: globe-europe
-    icon_pack: fas
-    url: https://www.uni-mannheim.de/cmc-corpora2023/
   - icon: twitter
     icon_pack: fab
     url: https://twitter.com/cmc_corpora
@@ -34,6 +31,8 @@ share: false
 The 10th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora was held in Mannheim, Germany, 14-15 September 2023. It was hosted at the University of Mannheim, Germany in collaboration with the Leibniz Institute for the German Language (IDS).
 
 ‘CMC-corpora 2023’ was the 10th edition of an annual conference series dedicated to the development, analysis, and processing of corpora of computer-mediated communication and social media for research in the humanities. The conference brought together language-centred research on CMC and social media in linguistics, communication sciences, media studies, and social sciences with research questions from the fields of corpus and computational linguistics, language and text technology, and machine learning.
+
+## [Program & Abstracts](https://easychair.org/smart-program/CMC2023/)
 
 ## Scientific Committee
 
