@@ -5,10 +5,12 @@ url_pdf: ""
 summary: ""
 section_pager: true
 date_end: 2022-09-29
-author: []
+authors:
+- Steven Coats
+- Egon W. Stemle
+profile: false
 url_video: ""
-title: "CMC2022: 9th Conference on Computer-Mediated Communication (CMC) and
-  Social Media Corpora"
+title: "CMC2022: 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora"
 subtitle: "28-29 Sep 2022 in Santiago de Compostela (Spain)"
 date: 2022-09-28
 featured: true
