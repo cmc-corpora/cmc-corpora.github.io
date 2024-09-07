@@ -9,7 +9,7 @@ authors:
 - Egon W. Stemle
 - Jennifer-Carmen Frey
 - Aivars Glaznieks
-
+- Lionel Nicolas
 
 type: ckcmc_partner
 ---
