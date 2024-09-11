@@ -26,7 +26,11 @@ publishDate: 2022-11-21T00:00:00Z
 url_code: ""
 all_day: true
 share: false
+image:
+  preview_only: true
 ---
+![Group Photo](featured.jpg "Group Photo")
+
 
 The 10th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora was held in Mannheim, Germany, 14-15 September 2023. It was hosted at the University of Mannheim, Germany in collaboration with the Leibniz Institute for the German Language (IDS).
 

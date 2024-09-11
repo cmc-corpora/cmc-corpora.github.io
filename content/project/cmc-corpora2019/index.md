@@ -9,10 +9,6 @@ date: "2019-09-09"
 # external_link: "https://cmccorpora19.sciencesconf.org/"
 external_link: ""
 
-image:
-  caption:
-  preview_only: false
-
 links:
 - icon: globe-europe
   icon_pack: fas
@@ -37,7 +33,10 @@ section_pager: true
 slides: ""
 
 author: []
+image:
+  preview_only: true
 ---
+![Group Photo](featured.jpg "Group Photo")
 
 'CMC-Corpora 2019' was the 7th edition of an annual conference series dedicated
 to the collection, annotation, processing and exploitation of corpora of

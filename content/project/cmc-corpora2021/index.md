@@ -11,10 +11,6 @@ date: "2021-10-28"
 
 external_link: ""
 
-image:
-  caption:
-  preview_only: false
-
 links:
 - icon: globe-europe
   icon_pack: fas
@@ -39,7 +35,10 @@ section_pager: true
 slides: ""
 
 author: []
+image:
+  preview_only: true
 ---
+![Group Photo](featured.jpg "Group Photo")
 
 The 8th edition of the Conference on Computer-Mediated Communication (CMC) and
 Social Media Corpora took place in Nijmegen, the Netherlands on Thursday

@@ -9,10 +9,6 @@ date: "2018-09-19"
 #
 external_link: ""
 
-image:
-  caption:
-  preview_only: false
-
 links:
 #- icon: globe-europe
 #  icon_pack: fas
@@ -37,7 +33,10 @@ section_pager: true
 slides: ""
 
 author: []
+image:
+  preview_only: true
 ---
+![Group Photo](featured.jpg "Group Photo")
 
 'CMC-corpora 2018' was the 6th edition of an annual conference series dedicated
 to the collection, annotation, processing and exploitation of corpora of

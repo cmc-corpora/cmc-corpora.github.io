@@ -9,10 +9,6 @@ date: "2016-09-29"
 # external_link: "https://cmc-corpora2017.eurac.edu/"
 external_link: ""
 
-image:
-  caption:
-  preview_only: false
-
 links:
 - icon: globe-europe
   icon_pack: fas
@@ -34,7 +30,10 @@ section_pager: true
 slides: ""
 
 author: []
+image:
+  preview_only: true
 ---
+![Group Photo](featured.jpg "Group Photo")
 
 CMC and Social Media Corpora for the Humanities was the 4th edition of an annual
 conference series dedicated to the collection, annotation, processing and

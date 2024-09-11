@@ -29,7 +29,10 @@ publishDate: 2023-12-18T00:00:00Z
 url_code: ""
 all_day: true
 share: false
+image:
+  preview_only: true
 ---
+![Group Photo](featured.jpg "Group Photo")
 
 The 11th Conference on Computer-Mediated Communication (CMC) and Social Media
 Corpora was held on Thursday, the 5th and Friday, the 6th of September 2024 at

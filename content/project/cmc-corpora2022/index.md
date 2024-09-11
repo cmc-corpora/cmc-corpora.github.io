@@ -31,7 +31,10 @@ publishDate: 2017-01-01T00:00:00Z
 url_code: ""
 all_day: true
 share: false
+image:
+  preview_only: true
 ---
+![Group Photo](featured.jpg "Group Photo")
 
 The 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora was held in Santiago de Compostela, Spain, 28-29 September 2022. It was be hosted by the Faculty of Philology of the University of Santiago de Compostela.
 
