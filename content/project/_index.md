@@ -7,5 +7,5 @@ url: /conferences
 aliases:
 - /projects/
 
-view: 3
+view: 2
 ---
