@@ -1,13 +1,9 @@
 ---
 title: "Workshop: Data Management for FAIR CMC corpora"
 
-event: CLARIN UI Workshop
-event_url: https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora
-
 location: CLARIN virtual Zoom meeting
 
 summary: The virtual workshop was held in conjunction with the CMC corpora 2021 conference.
-abstract: "The workshop detailled important aspects of data management as it applies to CMC corpora, for example, how data should be collected, which metadata to record, which data formats are advisable, and which legal concerns need to be considered when CMC corpora are supposed to be Findable, Accessible, Interoperable and Reusable at the end of a project. The workshop was aimed at early career researchers or researchers that were about to start a new project in the field of CMC corpora."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -45,7 +41,9 @@ links:
   url: https://www.youtube.com/playlist?list=PLlKmS5dTMgw0BgpZRPYtFy-t99c0j6iM3
 - name: Slides
   url: https://www.clarin.eu/event/2021/workshop-data-management-fair-cmc-corpora#programme
-- name: Blog post
+- name: CLARIN-ERIC event page
+  url: https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora
+- name: CLARIN-ERIC blog post
   url: https://www.clarin.eu/blog/recap-workshop-data-management-fair-cmc-corpora
 
 # Markdown Slides (optional).
@@ -66,3 +64,22 @@ categories:
 - ckcmc
 - workshop
 ---
+
+## About
+
+The workshop detailled important aspects of data management as it applies to
+CMC corpora, for example, how data should be collected, which metadata to
+record, which data formats are advisable, and which legal concerns need to be
+considered when CMC corpora are supposed to be Findable, Accessible,
+Interoperable and Reusable at the end of a project. The workshop was aimed at
+early career researchers or researchers that were about to start a new project
+in the field of CMC corpora.
+
+The virtual workshop was organised with support from [CLARIN-ERIC](https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora).
+
+
+## Organizing Committee
+
+* {{% mention "jennifer-carmen frey" %}}
+* {{% mention "alexander könig" %}}
+* {{% mention "egon w. stemle" %}}
