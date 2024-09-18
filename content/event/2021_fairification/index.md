@@ -1,9 +1,11 @@
 ---
 title: "Workshop: Data Management for FAIR CMC corpora"
-
-location: CLARIN virtual Zoom meeting
-
+subtitle:
 summary: The virtual workshop was held in conjunction with the CMC corpora 2021 conference.
+
+# event:
+# event_url:
+location: CLARIN virtual Zoom meeting
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -75,7 +77,8 @@ Interoperable and Reusable at the end of a project. The workshop was aimed at
 early career researchers or researchers that were about to start a new project
 in the field of CMC corpora.
 
-The virtual workshop was organised with support from [CLARIN-ERIC](https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora).
+The virtual workshop was organised with support from
+[CLARIN-ERIC](https://www.clarin.eu/event/2021/data-management-fair-cmc-corpora).
 
 
 ## Organizing Committee
