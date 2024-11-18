@@ -3,6 +3,7 @@ title: Data Management for FAIR CMC corpora
 subtitle: "Workshop: Call for Participation"
 summary: ""
 authors:
+- Egon W. Stemle
 profile: false
 tags: []
 categories:
