@@ -8,7 +8,6 @@ featured: false
 address:
   city: Bayreuth
   country: Germany
-external_link: https://www.cmc2025.uni-bayreuth.de/en/
 image:
   filename: featured
   focal_point: Smart
