@@ -1,23 +1,41 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
-# Choose a theme.
-theme: ocean
-# Enable users to switch between day and night mode?
-day_night: false
-# Override the theme's font set (optional).
-#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in font sets in `themes/academic/data/fonts/`
-#   Browse user installed font sets in `data/fonts/`
-font: 'ckcmc'
-# Choose a font size.
-# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size: M
+appearance:
+  # Choose a theme.
+  theme_day: ocean
+  # Enable users to switch between day and night mode?
+  day_night: false
+  # Override the theme's font set (optional).
+  #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
+  #   Browse built-in font sets in `themes/academic/data/fonts/`
+  #   Browse user installed font sets in `data/fonts/`
+  font: 'ckcmc'
+  # Choose a font size.
+  # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+  font_size: M
 
+# SEO
+
+marketing:
+  seo:
+    site_type: 'Project'
+    local_business_type: ''
+    org_name: ''
+    description: 'CMC Corpora Web Site'
+    twitter: 'cmc_corpora'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Contact (edit or remove options as required)
 
@@ -57,28 +75,72 @@ contact_links:
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: false
-  show_search: true
-  highlight_active_link: false
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  copyright:
+    notice: 'This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: false
+      allow_commercial: true
 
 # Localization
 
-date_format: '02 Jan 2006'
-time_format: '15:04'
-address_format: en-gb
+locale:
+  date_format: '02 Jan 2006'
+  time_format: '15:04'
+  address_format: en-gb
 
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-  - latex
-math: false
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+
 diagram: false
 privacy_pack: true
 show_related:
@@ -92,12 +154,6 @@ reading_time: false
 section_pager: true
 docs_section_pager: true
 sharing: true
-copyright_license:
-  enable: true
-  allow_derivatives: true
-  share_alike: false
-  allow_commercial: true
-  notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -118,6 +174,7 @@ projects:
 breadcrumb:
   page_types:
     book: true
+
 comments:
   provider: ''
   commentable:
@@ -131,6 +188,7 @@ comments:
     show_count: true
   commento:
     url: ''
+
 search:
   provider: wowchemy
   algolia:
@@ -138,34 +196,26 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
+
 map:
   provider: ''
   api_key: ''
   zoom: 15
 
-# SEO
-marketing:
-  seo:
-    site_type: 'Project'
-    local_business_type: ''
-    org_name: ''
-    description: 'CMC Corpora Web Site'
-    twitter: 'cmc_corpora'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
-
-cms:
-  branch: master
-  local_backend: false
 icon:
   pack:
     ai: false
 
+extensions:
+  academicons:
+    enable: true
+
 # authors:
 #   RelPermalink: false
+
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

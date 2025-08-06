@@ -46,5 +46,5 @@ The CLARIN K(nowledge)-Centre for Computer-Mediated Communication and Social
 Media Corpora (CKCMC) is dedicated to questions about representation,
 standardisation and distribution of CMC Corpora.
 
-[More about the CKCMC]({{< relref "/ckcmc_landing" >}})
+[More about the CKCMC]({< relref "/ckcmc_landing" >})
 </div>
