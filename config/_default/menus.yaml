@@ -69,7 +69,7 @@ main:
     weight: 50
 
   - name: 'Forum'
-    url: 'https://discourse.cmc-corpora.org'
+    url: 'https://forum.clarin.eu/c/ckcmc/'
     weight: 60
 
   - name: 'Contact'
