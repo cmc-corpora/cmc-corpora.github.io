@@ -54,6 +54,10 @@ permalinks:
 # Disable aliases when `redirects` is added to the `outputs` below. (netlify specific)
 disableAliases: false
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
