@@ -48,10 +48,14 @@ main:
     url: 'events/'
     parent: 'CLARIN K-centre for CMC'
     weight: 40
+  - name: 'Forum'
+    url: 'https://forum.clarin.eu/c/ckcmc/'
+    parent: 'CLARIN K-centre for CMC'
+    weight: 50
   - name: 'Documentation'
     url: 'ckcmc/docs/'
     parent: 'CLARIN K-centre for CMC'
-    weight: 50
+    weight: 60
 
 
   - name: 'CMC-TEI'
@@ -68,13 +72,9 @@ main:
     url: 'posts/'
     weight: 50
 
-  - name: 'Forum'
-    url: 'https://forum.clarin.eu/c/ckcmc/'
-    weight: 60
-
   - name: 'Contact'
     url: '#contact'
-    weight: 70
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
