@@ -9,7 +9,7 @@ toc: false
 
 We offer expertise on language resources and technologies for Computer-Mediated
 Communication and Social Media Corpora.  We can be contacted via [email to
-`helpdesk @ THIS DOMAIN`](mailto:{{< param helpdesk_email >}}).  There, we
+`contact-ckcmc @ CLARIN DOT EU`](mailto:{{< param helpdesk_email >}}).  There, we
 offer additional clarifications regarding this documentation and support in
 using, modifying, producing, or publishing CMC resources and technologies.  For
 more general questions, also consider joining the [European group of
