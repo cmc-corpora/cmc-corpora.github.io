@@ -26,7 +26,8 @@ removePathAccents: true
 
 enableGitInfo: true  # Get last modified date for content from Git?
 summaryLength: 30
-paginate: 7
+pagination:
+  pagerSize: 7
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
