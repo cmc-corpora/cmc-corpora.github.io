@@ -1,10 +1,31 @@
+engine: "sveltia"
+site_url: "https://cmc-corpora.org"
 backend:
-  name: gitlab
-  repo: ckcmc/ckcmc.gitlab.io
+  name: "github"
+  repo: "cmc-corpora/cmc-corpora.github.io"
   auth_type: pkce  # Required for pkce
   app_id: 8dd436cfce75e580e58c729ecf9ed338fcf31f5e8ba422d3ec86b1c8713d4f56  # Application ID from your GitLab settings
 media_folder: 'assets/media'
 public_folder: '/media/uploads'
+
+# # Blocks
+# blocks:
+#   enable:
+#     - alert
+#     - cta
+#     - editorial
+#     - faq
+#     - figure
+#     - form
+#     - information
+#     - images
+#     - latest
+#     - paragraph
+#     - quote
+#     - selected
+#     - title
+
+# Collections
 collections:
   - name: authors
     label: People

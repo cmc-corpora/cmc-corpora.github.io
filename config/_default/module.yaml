@@ -1,0 +1,13 @@
+############################
+## MODULES
+############################
+
+hugoVersion:
+  extended: true
+imports:
+  - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    disable: false
+  - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    disable: false
+  - path: github.com/privatemaker/headless-cms
+    disable: true
