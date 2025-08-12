@@ -12,7 +12,7 @@
 # make pubs
 #   (Re-)create the publications from static/*.bib files
 #
-LAST_TAG_IN_MASTER := $(shell git describe master --tags)
+LAST_TAG_IN_MAIN := $(shell git describe main --tags)
 
 .PHONY: server
 server:
