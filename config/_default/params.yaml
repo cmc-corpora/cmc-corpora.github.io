@@ -18,13 +18,6 @@ font: 'ckcmc'
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size: M
 
-# SEO
-
-site_type: 'Project'
-local_business_type: ''
-org_name: ''
-description: 'CMC Corpora Web Site'
-twitter: 'cmc_corpora'
 
 # Contact (edit or remove options as required)
 
@@ -149,12 +142,24 @@ map:
   provider: ''
   api_key: ''
   zoom: 15
+
+# SEO
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  seo:
+    site_type: 'Project'
+    local_business_type: ''
+    org_name: ''
+    description: 'CMC Corpora Web Site'
+    twitter: 'cmc_corpora'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+
 cms:
   branch: master
   local_backend: false
