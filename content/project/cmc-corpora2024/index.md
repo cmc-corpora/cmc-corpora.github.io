@@ -11,7 +11,7 @@ title: "CMC2024: 11th Conference on Computer-Mediated Communication (CMC) and
   Social Media Corpora"
 subtitle: "5-6 September 2024 in Nice (France)"
 date: 2023-12-18
-featured: true
+featured: false
 tags: []
 url_slides: ""
 address:
