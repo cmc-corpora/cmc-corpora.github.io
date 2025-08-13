@@ -31,11 +31,7 @@ publishDate: 2017-01-01T00:00:00Z
 url_code: ""
 all_day: true
 share: false
-image:
-  preview_only: true
 ---
-![Group Photo](featured.jpg "Group Photo")
-
 The 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora was held in Santiago de Compostela, Spain, 28-29 September 2022. It was be hosted by the Faculty of Philology of the University of Santiago de Compostela.
 
 ‘CMC-corpora 2022’ was the 9th edition of an annual conference series dedicated to the development, analysis, and processing of corpora of computer-mediated communication and social media for research in the humanities. The conference brought together language-centred research on CMC and social media in linguistics, communication sciences, media studies, and social sciences with research questions from the fields of corpus and computational linguistics, language and text technology, and machine learning.

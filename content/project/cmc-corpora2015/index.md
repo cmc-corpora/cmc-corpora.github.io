@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   caption:
-  preview_only: false
+  preview_only: true
 
 links:
 - icon: globe-europe
