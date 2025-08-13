@@ -3,6 +3,7 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+
 # Appearance
 
 appearance:
@@ -18,6 +19,7 @@ appearance:
   # Choose a font size.
   # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
   font_size: M
+
 
 # SEO
 
@@ -36,6 +38,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
+
 
 # Contact (edit or remove options as required)
 
@@ -56,22 +59,23 @@ email: contact@cmc-corpora.org
 # office_hours:
 #   - ''
 # appointment_url: ''
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: twitter
-    link: 'https://twitter.com/cmc_corpora'
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: facebook
-    icon_pack: fab
-    name: facebook
-    link: 'https://www.facebook.com/cmccorpora'
-  - icon: google
-    icon_pack: fab
-    name: google Group
-    link: 'https://groups.google.com/forum/?hl=de#!forum/cmc-corpora'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: twitter
+#     link: 'https://twitter.com/cmc_corpora'
+#     label: Follow me on Twitter
+#     display:
+#       header: true
+#   - icon: facebook
+#     icon_pack: fab
+#     name: facebook
+#     link: 'https://www.facebook.com/cmccorpora'
+#   - icon: google
+#     icon_pack: fab
+#     name: google Group
+#     link: 'https://groups.google.com/forum/?hl=de#!forum/cmc-corpora'
+
 
 # Site header
 
@@ -83,7 +87,8 @@ header:
     show_language: false
     show_day_night: false
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
+
 
 # Site footer
 
@@ -96,6 +101,7 @@ footer:
       share_alike: false
       allow_commercial: true
 
+
 # Localization
 
 locale:
@@ -103,16 +109,28 @@ locale:
   time_format: '15:04'
   address_format: en-gb
 
+
 # Site features
 
 features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
+
   math:
     enable: false
+
   privacy_pack:
     enable: false
+
+  repository:
+    url: 'https://github.com/cmc-corpora/cmc-corpora.github.io'
+    content_dir: content
+    branch: main
+
+  avatar:
+    gravatar: true
+    shape: circle
 
   comment:
     provider: ''
@@ -141,77 +159,18 @@ features:
     zoom: 15
 
 
-diagram: false
-privacy_pack: true
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: false
-section_pager: true
-docs_section_pager: true
-sharing: true
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: 'January 2006'
-  citation_style: apa
-projects:
-  # Views for associated content.
-  #   1: List
-  #   2: Compact
-  #   3: Card
-  #   4: Citation (publications only)
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-
-icon:
-  pack:
-    ai: false
+# Extensions
 
 extensions:
   academicons:
     enable: true
 
-# authors:
-#   RelPermalink: false
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
 
 
 # Security
