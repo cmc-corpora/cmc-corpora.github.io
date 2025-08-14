@@ -129,7 +129,7 @@ features:
     branch: main
 
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
 
   comment:
