@@ -12,7 +12,7 @@ email: lisa.hilte@uantwerpen.be
 superuser: false
 user_groups:
   - former steering committee
-committee_period: 2019 - 2022
 highlight_name: false
+role: 2019 - 2022
 ---
 

@@ -54,7 +54,8 @@ user_groups:
 - IJS
 - CKCMC 
 - former steering committee
-committee_period: "2015 - 2019"
+
+role: "2015 - 2019"
 
 ---
 Darja is Associate Professor at the Faculty of Arts, University of

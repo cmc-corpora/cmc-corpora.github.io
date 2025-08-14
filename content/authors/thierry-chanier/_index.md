@@ -35,5 +35,5 @@ highlight_name: false
 user_groups:
 - former steering committee
 
-committee_period: "2013 - 2015"
+role: "2013 - 2015"
 ---
