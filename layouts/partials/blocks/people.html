@@ -18,12 +18,6 @@
     </div>
   {{ end }}
 
-  {{ with $block.content.text }}
-    <div class="col-md-12">
-      {{ . | emojify | $page.RenderString }}
-    </div>
-  {{ end }}
-
   {{ range $block.content.user_groups }}
     {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
 
@@ -70,4 +64,11 @@
       </div>
     {{ end }}
   {{ end }}
+
+  {{ with $block.content.text }}
+    <div class="col-md-12">
+      {{ . | emojify | $page.RenderString }}
+    </div>
+  {{ end }}
+
 </div>
