@@ -7,3 +7,8 @@ p {
   // https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap
   // word-wrap: break-word;
 }
+
+// Reduce padding for sections (on widget pages)
+.home-section {
+  padding: 33px 0 33px 0;
+}
