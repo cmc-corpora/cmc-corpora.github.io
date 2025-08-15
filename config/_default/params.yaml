@@ -39,44 +39,6 @@ marketing:
     google: ''
     baidu: ''
 
-
-# Contact (edit or remove options as required)
-
-helpdesk_email: contact-ckcmc@clarin.eu
-email: contact@cmc-corpora.org
-# phone: ''
-# address:
-#   street: ''
-#   city: ''
-#   region: ''
-#   postcode: ''
-#   country: ''
-#   country_code: ''
-# coordinates:
-#   latitude: ''
-#   longitude: ''
-# directions: ''
-# office_hours:
-#   - ''
-# appointment_url: ''
-# contact_links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: twitter
-#     link: 'https://twitter.com/cmc_corpora'
-#     label: Follow me on Twitter
-#     display:
-#       header: true
-#   - icon: facebook
-#     icon_pack: fab
-#     name: facebook
-#     link: 'https://www.facebook.com/cmccorpora'
-#   - icon: google
-#     icon_pack: fab
-#     name: google Group
-#     link: 'https://groups.google.com/forum/?hl=de#!forum/cmc-corpora'
-
-
 # Site header
 
 header:

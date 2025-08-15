@@ -59,17 +59,40 @@ sections:
       columns: '2'
 
 
+  - block: collection
+    id: News
+    content:
+      title: CKCMC News
+      subtitle: ''
+      text: ''
+      count: 5
+      filters:
+        category: ckcmc
+    design:
+      columns: '2'
+      view: list
+
+  - block: markdown
+    id: documentation
+    content:
+      title: Documentation
+      subtitle: ''
+      text: |
+        [SEE the dedicated documentation section >](docs) for detailed information.
+    design:
+      columns: '2'
+
   - block: contact
     id: helpdesk
     content:
       title: Helpdesk
       subtitle: ''
       text: |
-        Our helpdesk can be contacted via [email to `helpdesk @ THIS
-        DOMAIN`](mailto:{< param helpdesk_email >}). The helpdesk offers additional
-        clarifications regarding the documentation and support in using, modifying,
-        producing, or publishing CMC resources and technologies.
-      email: test@example.org
+        Our helpdesk can be contacted via email to `contact-ckcmc @ CLARIN DOT
+        EU`. The helpdesk offers additional clarifications regarding the
+        documentation and support in using, modifying, producing, or publishing
+        CMC resources and technologies.
+      # email: contact-ckcmc@clarin.eu
       autolink: true
     design:
       columns: '2'

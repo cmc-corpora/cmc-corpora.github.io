@@ -40,10 +40,6 @@ main:
     url: 'ckcmc/#partners'
     parent: 'CLARIN K-centre for CMC'
     weight: 20
-  - name: 'Helpdesk'
-    url: 'ckcmc/#helpdesk'
-    parent: 'CLARIN K-centre for CMC'
-    weight: 30
   - name: 'Events'
     url: 'events/'
     parent: 'CLARIN K-centre for CMC'
@@ -56,6 +52,10 @@ main:
     url: 'ckcmc/docs/'
     parent: 'CLARIN K-centre for CMC'
     weight: 60
+  - name: 'Helpdesk'
+    url: 'ckcmc/#helpdesk'
+    parent: 'CLARIN K-centre for CMC'
+    weight: 70
 
 
   - name: 'CMC-TEI'
