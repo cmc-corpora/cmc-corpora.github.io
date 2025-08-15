@@ -11,7 +11,7 @@ sections:
     id: info
     content:
       title: Welcome
-      subtitle: '<a href="http://hdl.handle.net/11372/DOC-162"><img src="CLARIN-Logo-K-centre-2023.jpg" alt="CLARIN K-centre Logo" style="height:4em;margin-left:0px;" /></a><ul class="cta-group"> <li> <a href="#contact" class="btn btn-primary text-light px-5 py-2">Contact us</a> </li> </ul>'
+      subtitle: '<a href="http://hdl.handle.net/11372/DOC-162"><img src="CLARIN-Logo-K-centre-2023.jpg" alt="CLARIN K-centre Logo" style="height:4em;margin-left:0px;" /></a><ul class="cta-group"> <li> <a href="#helpdesk" class="btn btn-primary text-light px-5 py-2">Contact our Helpdesk</a> </li> </ul>'
       text: |
         ## CLARIN K(nowledge)-centre for Computer-Mediated Communication and Social Media Corpora
 
@@ -44,7 +44,7 @@ sections:
       columns: '2'
 
   - block: collection
-    id: ckcmc_partner
+    id: partners
     content:
       title: Partners
       subtitle: ''
@@ -60,20 +60,17 @@ sections:
 
 
   - block: contact
-    id: contact
+    id: helpdesk
     content:
-      title: Contact
+      title: Helpdesk
       subtitle: ''
       text: |
-        Foo Bar.
         Our helpdesk can be contacted via [email to `helpdesk @ THIS
         DOMAIN`](mailto:{< param helpdesk_email >}). The helpdesk offers additional
         clarifications regarding the documentation and support in using, modifying,
         producing, or publishing CMC resources and technologies.
       email: test@example.org
-      autolink: false
-      form:
-        provider: netlify
+      autolink: true
     design:
       columns: '2'
 ---

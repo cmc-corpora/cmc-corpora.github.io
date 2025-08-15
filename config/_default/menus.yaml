@@ -40,8 +40,8 @@ main:
     url: 'ckcmc/#partners'
     parent: 'CLARIN K-centre for CMC'
     weight: 20
-  - name: 'Contact the CKCMC'
-    url: 'ckcmc/#contact'
+  - name: 'Helpdesk'
+    url: 'ckcmc/#helpdesk'
     parent: 'CLARIN K-centre for CMC'
     weight: 30
   - name: 'Events'

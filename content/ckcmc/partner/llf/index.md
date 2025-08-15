@@ -1,7 +1,8 @@
 ---
 title: Laboratoire de Linguistique Formelle (LLF), FR
 subtitle: Formal Linguistics Laboratory
-summary: The Laboratoire de Linguistique Formelle is a French research unit co-sponsored by the [CNRS](http://cnrs.fr) and the [Université of Paris](http://u-paris.fr).
+summary: |
+  A French research unit co-sponsored by the CNRS and the Université of Paris.
 
 share: false
 section_pager: true
