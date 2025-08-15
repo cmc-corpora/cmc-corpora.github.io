@@ -7,8 +7,8 @@ sections:
   - block: markdown
     id: intro
     content:
-      title: "Conference series"
-      subtitle: "International Conference Series on CMC and Social Media Corpora"
+      title: Conference Series
+      subtitle: International Conference Series on CMC and Social Media Corpora
       text: |
         The International Conference Series on CMC and Social Media Corpora
         ([*cmc-corpora*](/)) is a series of conferences
@@ -31,12 +31,12 @@ sections:
   - block: people
     id: committee
     content:
-      title: "Steering committee"
-      subtitle: "Current members"
+      title: Steering Committee
+      subtitle: ''
       user_groups:
         - steering committee
       text: |
-        #### Link to [former steering committee members](committee_old/).
+        #### [SEE former steering committee members >](committee_old/)
     design:
       # columns: '2'
       show_social: false
@@ -66,12 +66,12 @@ sections:
   - block: hero
     id: orga
     content:
-      title: Organizing a cmc-corpora event
+      title: Organising a cmc-corpora Event
       image:
         filename: logo.png
       cta:
         label: Get Started
-        url: './series/organizing-a-cmc-corpora-event/'
+        url: './series/organising-a-cmc-corpora-event/'
         icon_pack: 'fas'
         # icon: 'flag-checkered'
         icon: 'person-running'

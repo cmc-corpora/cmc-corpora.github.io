@@ -12,7 +12,7 @@ main:
     url: 'series/#'
     parent: 'Conference Series'
     weight: 10
-  - name: 'Committee'
+  - name: 'Steering Committee'
     url: 'series/#committee'
     parent: 'Conference Series'
     weight: 20
@@ -24,7 +24,7 @@ main:
     url: 'series/#proceedings'
     parent: 'Conference Series'
     weight: 40
-  - name: 'Organization'
+  - name: 'Organising an Event'
     url: 'series/#orga'
     parent: 'Conference Series'
     weight: 50
