@@ -30,11 +30,7 @@ section_pager: true
 slides: ""
 
 author: []
-image:
-  preview_only: true
 ---
-![Group Photo](featured.jpg "Group Photo")
-
 CMC and Social Media Corpora for the Humanities was the 4th edition of an annual
 conference series dedicated to the collection, annotation, processing and
 exploitation of corpora of computer-mediated communication (CMC) and social

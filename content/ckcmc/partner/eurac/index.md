@@ -1,6 +1,10 @@
 ---
 title: Eurac Research, Bolzano/Bozen, IT
 subtitle: Institute for Applied Linguistics
+summary: |
+  Seeks answers in the interaction between many different disciplines with the
+  Institute for Applied Linguistics aiming to answer current linguistic issues
+  involving both educational and economic subjects as well as social questions.
 
 share: false
 section_pager: true

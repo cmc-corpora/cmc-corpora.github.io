@@ -4,7 +4,7 @@ title: "CMC2025: 12th Conference on Computer-Mediated Communication (CMC) and
 subtitle: 4-5 September 2025 in Bayreuth, Germany
 date: 2024-12-17T16:59:56.225Z
 draft: false
-featured: false
+featured: true
 address:
   city: Bayreuth
   country: Germany

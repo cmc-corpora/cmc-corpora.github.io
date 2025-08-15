@@ -33,7 +33,7 @@ The content of this privacy policy may be amended or updated to conform to
 legal and regulatory obligations with respect to data protection, to allow for
 technological advances on the webpage that could impact the modalities of
 processing and to reflect organisational modifications that affect the privacy
-structure. This privacy policy was last updated on {{< lastmod >}}.
+structure. This privacy policy was last updated on {{ .Lastmod | time.Format ":date_medium" }}.
 
 ## Relevant legal provisions
 * [EU Data Protection Regulation 2016/679 (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679)

@@ -12,6 +12,22 @@ baseurl: '/'
 copyright: ''
 
 ############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # page options
+  - _target:
+      path: /project/**
+      kind: page
+    pager: true
+    share: true
+    feedback: false
+    image:
+      placement: 1
+
+
+############################
 ## LANGUAGE
 ############################
 
@@ -43,17 +59,14 @@ permalinks:
   post: '/posts/:year-:month-:slug/'
   event: "/events/:year/:slug/"
 
-# Disable aliases when `redirects` is added to the `outputs` below. (netlify specific)
-disableAliases: false
-
 caches:
   images:
     dir: :cacheDir/images
 
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest]
   # Sveltia
-  # home: [HTML, RSS, JSON, WebAppManifest, headers, redirects, HeadlessCMSConfig]
+  # home: [HTML, RSS, JSON, WebAppManifest, HeadlessCMSConfig]
   section: [HTML, RSS]
 
 imaging:

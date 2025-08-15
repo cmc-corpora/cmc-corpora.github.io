@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   caption:
-  preview_only: false
+  preview_only: true
 
 url_code: ""
 url_pdf: ""

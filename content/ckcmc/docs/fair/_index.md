@@ -1,7 +1,7 @@
 ---
 # Title, summary, and other stuff.
 linktitle: FAIR-ify
-summary: Learn how to FAIR-ify your corpus.
+summary: 'Learn how to FAIR-ify your corpus: best practices when creating a new CMC corpus.'
 weight: 1
 #icon: book
 #icon_pack: fas

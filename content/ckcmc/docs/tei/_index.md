@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: CMC-TEI
-summary: Learn how to use CMC-TEI.
+summary: 'Learn how to use CMC-TEI: the TEI standard for the representation of the structural and linguistic peculiarities of CMC.'
 weight: 2
 #icon: book-reader
 #icon_pack: fas

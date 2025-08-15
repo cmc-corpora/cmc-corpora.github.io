@@ -35,11 +35,7 @@ section_pager: true
 slides: ""
 
 author: []
-image:
-  preview_only: true
 ---
-![Group Photo](featured.jpg "Group Photo")
-
 The 8th edition of the Conference on Computer-Mediated Communication (CMC) and
 Social Media Corpora took place in Nijmegen, the Netherlands on Thursday
 28 - Friday 29 October 2021.

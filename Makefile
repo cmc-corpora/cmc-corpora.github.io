@@ -16,7 +16,7 @@ LAST_TAG_IN_MAIN := $(shell git describe main --tags)
 
 .PHONY: server
 server:
-	hugo server --minify --disableFastRender --i18n-warnings --port 8081
+	hugo server --minify --disableFastRender --enableGitInfo --gc --noHTTPCache --i18n-warnings --port 8081 --verbose
 
 
 .PHONY: public
@@ -25,6 +25,7 @@ public:
 	#@echo
 	#@echo "\033[0;31mNOTE:\033[0m Putting redirection in place - check index.html"
 	#mv public/index-redirect.html public/index.html
+
 
 .PHONY: generate  # needed for CI
 generate:
