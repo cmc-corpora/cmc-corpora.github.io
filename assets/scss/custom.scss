@@ -18,3 +18,31 @@ p {
   max-height: 83%;
   max-width: 83%;
 }
+
+// Reduce space in footer
+p.powered-by {
+  margin-bottom: 3px;
+}
+footer.site-footer {
+  margin-top: 33px;
+}
+
+// Increase navbar font-size
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: #{$sta-font-size-small * 1.1}px;
+}
+
+// Reduce image size for publications on overview page and
+// set gray border
+div#container-publications div.media.stream-item img {
+  max-height: 93%;
+  max-width: 93%;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+// Add some space between entries
+div#container-publications > div {
+  margin-bottom: 25px;
+}
