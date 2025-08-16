@@ -2,3 +2,5 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 h1:QPek2B
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7/go.mod h1:xZiTEEurbEwj/NhZohozvlyLCGVCT2wARHDAJeqKG/c=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-core v0.3.1/go.mod h1:So8+V2U+TNxlXmcpZfdDX0muLh3PdJ7z92h30sv3bZg=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
+github.com/privatemaker/headless-cms v0.1.2 h1:uLCiN3k3Tr48WzOeWsIJ8S7TXOoMoOrz4KT2V7hisso=
+github.com/privatemaker/headless-cms v0.1.2/go.mod h1:ZcHkPZzL9yCsBdmn9FpoIW35snTyj1bDOfqT0ZFJoZE=

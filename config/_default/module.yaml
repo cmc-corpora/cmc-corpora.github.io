@@ -8,4 +8,4 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
     disable: false
   - path: github.com/privatemaker/headless-cms
-    disable: true
+    disable: false

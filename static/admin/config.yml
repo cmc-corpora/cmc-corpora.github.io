@@ -1,30 +1,3 @@
-engine: "sveltia"
-site_url: "https://cmc-corpora.org"
-backend:
-  name: "github"
-  repo: "cmc-corpora/cmc-corpora.github.io"
-  auth_type: pkce  # Required for pkce
-  app_id: 8dd436cfce75e580e58c729ecf9ed338fcf31f5e8ba422d3ec86b1c8713d4f56  # Application ID from your GitLab settings
-media_folder: 'assets/media'
-public_folder: '/media/uploads'
-
-# # Blocks
-# blocks:
-#   enable:
-#     - alert
-#     - cta
-#     - editorial
-#     - faq
-#     - figure
-#     - form
-#     - information
-#     - images
-#     - latest
-#     - paragraph
-#     - quote
-#     - selected
-#     - title
-
 # Collections
 collections:
   - name: authors
@@ -152,7 +125,7 @@ collections:
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
-          - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
+          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false}
   - name: projects
     label: Conferences
     label_singular: Conference
@@ -221,7 +194,7 @@ collections:
           - {label: Caption, name: caption, widget: string, required: false}
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
-          - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
+          - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false}
   - name: publications
     label: Publications
     label_singular: Publication

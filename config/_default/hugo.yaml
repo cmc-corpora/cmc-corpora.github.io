@@ -64,9 +64,9 @@ caches:
     dir: :cacheDir/images
 
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest]
+  # home: [HTML, RSS, JSON, WebAppManifest]
   # Sveltia
-  # home: [HTML, RSS, JSON, WebAppManifest, HeadlessCMSConfig]
+  home: [HTML, RSS, JSON, WebAppManifest, HeadlessCMSConfig]
   section: [HTML, RSS]
 
 imaging:

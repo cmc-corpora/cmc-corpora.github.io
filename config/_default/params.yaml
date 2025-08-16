@@ -140,3 +140,14 @@ publications:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# CMS
+headless_cms:
+  engine: "decap"
+  site_url: "https://cmc-corpora.org"
+  backend:
+    name: "github"
+    repo: "cmc-corpora/cmc-corpora.github.io"
+  # local_backend:
+  #   # when using a custom proxy server port
+  #   url: 'http://localhost:8082/api/v1'
