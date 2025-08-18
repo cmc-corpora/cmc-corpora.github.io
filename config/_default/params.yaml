@@ -145,23 +145,35 @@ security:
 # Headless CMS
 #
 headless_cms:
-  engine: "decap"
-  site_url: "https://cmc-corpora.org"
+  engine: 'decap'
+  site_url: 'https://cmc-corpora.org'
+
+  # Use DecapBridge auth (required)
   backend:
-    name: "github"
-    repo: "cmc-corpora/cmc-corpora.github.io"
-  # local_backend:
-  #   # when using a custom proxy server port
-  #   url: 'http://localhost:8082/api/v1'
+    name: github
+    repo: cmc-corpora/cmc-corpora.github.io
+    base_url: 'https://auth-dom.lt.eurac.edu'
+    auth_endpoint: '/cmc-corpora.org/auth'
+
+  publish_mode: simple
+
+  show_preview_links: false
+  slug:
+    encoding: 'ascii'
+    clean_accents: true
 
   # Collections
   collections:
     - name: authors
       label: People
       folder: 'content/authors'
+      create: true
+      delete: true
       path: '{{slug}}/_index'
+      slug: '{{slug}}'
+      extension: 'md'
       filter: {field: "cms_exclude"}
-      create: true  # Allow users to create new documents in this collection
+      index_file: true
       fields:  # The fields each document in this collection have
         - {label: "Display name (such as your full name)", name: "title", widget: "string"}
         - label: "Avatar (upload an image named `avatar.jpg/png`)"
