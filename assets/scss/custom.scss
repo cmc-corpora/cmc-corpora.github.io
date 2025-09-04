@@ -1,6 +1,6 @@
+//  Add browser-based hyphenation support for the site (until (hu)go catches up).
+//  see https://github.com/gohugoio/hugo/issues/307
 p {
-  //  Add browser-based hyphenation support for the site (until (hu)go catches up).
-  //  see https://github.com/gohugoio/hugo/issues/307
   //
   //  https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens
   hyphens: auto;
@@ -27,6 +27,21 @@ footer.site-footer {
   margin-top: 33px;
 }
 
+// navbar
+// Keep navbar on the top of the page while scrolling
+// ...from hugo-blox-builder/modules/blox-bootstrap/assets/scss/_vendor/bootstrap/utilities/_position.scss .fixed-top
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: $zindex-fixed;
+}
+// fix: navbar .fixed-top covers content
+.page-body {
+    padding-top: 50px;
+}
+//
 // Increase navbar font-size
 .dropdown-menu,
 nav#navbar-main li.nav-item {
