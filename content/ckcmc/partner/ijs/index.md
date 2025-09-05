@@ -10,8 +10,8 @@ share: false
 section_pager: true
 
 authors:
-- Tomaž Erjavec
-- Nikola Ljubešić
+- Tomaz Erjavec
+- Nikola Ljubesic
 
 type: ckcmc_partner
 ---
