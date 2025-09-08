@@ -18,7 +18,7 @@ organizations:
 
 user_groups:
   - steering committee
-committee_period: since 2021
+role: since 2021
 highlight_name: false
 ---
 Julien is Professor of Linguistics at CY Cergy Paris Université. He specializes

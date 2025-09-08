@@ -13,7 +13,7 @@ email: reinhild.vandekerckhove@uantwerpen.be
 superuser: false
 user_groups:
   - steering committee
-committee_period: since 2022
+role: since 2022
 highlight_name: false
 ---
 
