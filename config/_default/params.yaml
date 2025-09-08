@@ -166,6 +166,10 @@ headless_cms:
   collections:
     - name: authors
       label: People
+      description: >
+        People that can be referenced in other parts of the website for the
+        Steering Committee, CKCMC partners, authors of papers, pages and speakres for
+        workshops or presentations.
       folder: 'content/authors'
       create: true
       delete: true
@@ -175,7 +179,11 @@ headless_cms:
       filter: {field: "cms_exclude"}
       index_file: true
       fields:  # The fields each document in this collection have
-        - {label: "Display name (such as your full name)", name: "title", widget: "string"}
+        - label: "Display name"
+          hint: "LIKE: Firstname I. Lastname"
+          name: "title"
+          widget: "string"
+
         - label: "Avatar (upload an image named `avatar.jpg/png`)"
           hint: "Image will automatically be shown on the author's page"
           name: "avatar_filename"
@@ -185,35 +193,47 @@ headless_cms:
           media_library:
             config:
               multiple: false
-        - label: "Short summary"
-          hint: "Shown in author boxes"
+
+        - label: "Short Bio"
+          hint: >
+            LIKE: Researcher in Computational Corpus Linguistics
+            (Shown in author boxes that link to the details page of an author.)
           name: "bio"
           widget: "string"
           required: false
-        - label: "Homepage"
-          name: "social"
+
+        - label: Social Links
+          hint: >
+            LIKE: LINK:https://your.uni.versity/your_name; ICON PACK:fa; ICON:earth-europe
+          name: social
           required: false
-          widget: "list"
+          widget: list
           fields:
             - {label: Link, name: link, widget: string}
-            - label: "Icon pack"
-              name: "icon_pack"
-              widget: "hidden"
-              default: "fas"
-            - label: "Icon"
-              name: "icon"
-              widget: "hidden"
-              default: "globe-europe"
+            - label: Icon pack
+              name: icon_pack
+              widget: select
+              multiple: false
+              options:
+                - {label: "None", value: ""}
+                - {label: "FA solid (earth-europe, for homepage; envelope, for email; comments, for discussion forum)", value: "fas"}
+                - {label: "FA regular", value: "far"}
+                - {label: "FA brand (twitter, weixin, weibo, linkedin, github, facebook, pinterest, twitch, youtube, instagram, soundcloud)", value: "fab"}
+                - {label: "Academic (cv, google-scholar, arxiv, orcid, researchgate, mendeley)", value: "ai"}
+            - {label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons - Bootstrap), name: icon, widget: string}
+
         - label: "Full biography"
           hint: "Shown on author pages"
           name: "body"
           widget: "markdown"
           required: false
+
         - label: "Interests"
           hint: "Shown on author pages"
           name: "interests"
           required: false
           widget: "list"
+
         - label: "Organizations you belong to or are affiliated with"
           hint: "Shown on author pages"
           name: "organizations"
@@ -222,25 +242,30 @@ headless_cms:
           fields:
             - {label: Organization, name: name, widget: string, required: true}
             - {label: Link, name: url, widget: string, required: false}
+
         - label: "Email"
-          hint: "Currently, for internal use only"
+          hint: "Currently, only recorded but not displayed"
           name: "email"
           widget: "string"
           required: true
+
         - label: "Super user"
           name: "superuser"
           widget: "hidden"
           default: false
+
         - label: "User groups"
-          hint: "'steering committee', 'former steering committee', 'CKCMC', ..."
+          hint: "LIKE: steering committee, former steering committee, CKCMC, ..."
           name: "user_groups"
           required: false
           widget: "list"
-        - label: "Committee period (if applicable)"
-          hint: "'2014 - 2015' or 'since 2015'"
-          name: "committee_period"
+
+        - label: "Scientific Committee period (if applicable)"
+          hint: "LIKE: '2014 - 2015' or 'since 2015'"
+          name: "role"
           widget: "string"
           required: false
+
     - name: posts
       label: Posts
       label_singular: Post
