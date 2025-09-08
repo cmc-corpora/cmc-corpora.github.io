@@ -8,7 +8,7 @@ sections:
   - block: people
     id: committee_old
     content:
-      title: "Steering committee"
+      title: "Steering Committee"
       count: 2
       subtitle: "Former members"
       user_groups:
