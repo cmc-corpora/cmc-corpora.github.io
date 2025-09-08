@@ -1,5 +1,6 @@
 ---
 title: Alexander König
+avatar_filename: avatar.jpg
 bio: 
 social:
   - icon: twitter

@@ -1,7 +1,7 @@
 ---
 title: Julien Longhi
+avatar_filename: avatar.jpg
 bio: Professor of Linguistics
-avatar_filename: avatar
 social:
   - icon: twitter
     icon_pack: fab

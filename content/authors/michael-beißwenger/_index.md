@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Michael Beißwenger
+avatar_filename: avatar.png
 
 social:
   - icon: twitter

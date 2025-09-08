@@ -1,5 +1,6 @@
 ---
 title: Reinhild Vandekerckhove
+avatar_filename: avatar.jpg
 bio: Professor Dutch Linguistics & Sociolinguistics
 interests:
   - Sociolinguistics

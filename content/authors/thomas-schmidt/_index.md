@@ -1,7 +1,8 @@
 ---
 title: Thomas Schmidt
+avatar_filename: avatar.jpg
 social:
-  - icon: globe-europe
+  - icon: earth-europe
     icon_pack: fas
     link: https://linguisticbits.de/#resume
 superuser: false

@@ -1,6 +1,6 @@
 ---
 title: Lieke Verheijen
-avatar_filename: avatar
+avatar_filename: avatar.png
 social: []
 
 interests:
@@ -24,7 +24,7 @@ superuser: false
 user_groups:
 - steering committee
 
-committee_period: "since 2021"
+role: "since 2021"
 
 ---
 Lieke Verheijen is Assistant Professor at the department of Language and 

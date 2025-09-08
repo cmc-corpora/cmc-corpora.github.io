@@ -1,5 +1,6 @@
 ---
 title: Aivars Glaznieks
+avatar_filename: avatar.jpg
 bio: Senior Researcher
 social:
   - icon: twitter

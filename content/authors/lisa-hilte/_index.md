@@ -1,5 +1,6 @@
 ---
 title: Lisa Hilte
+avatar_filename: avatar.png
 bio: Post-doc researcher
 interests:
   - Sociolinguistics with a quantitative / computational focus

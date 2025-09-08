@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ciara Wigham
+avatar_filename: avatar.jpg
 
 social:
   - icon: twitter

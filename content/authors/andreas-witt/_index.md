@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Andreas Witt
+avatar_filename: avatar.jpg
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +16,7 @@ bio: Head of the Digital Linguistics Department
 
 social:
 - link: https://www.ids-mannheim.de/digspra/personal/witt/
-  icon: globe-europe
+  icon: earth-europe
   icon_pack: fas
 
 

@@ -1,5 +1,6 @@
 ---
 title: Steven Coats
+avatar_filename: avatar.png
 bio: ""
 interests:
   - language variation

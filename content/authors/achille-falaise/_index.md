@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Achille Falaise
+avatar_filename: avatar.jpg
 
 # Is this the primary user of the site?
 superuser: false

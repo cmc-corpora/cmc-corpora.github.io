@@ -1,5 +1,6 @@
 ---
 title: Lionel Nicolas
+avatar_filename: avatar.jpg
 bio: Senior Researcher
 social: []
 interests:

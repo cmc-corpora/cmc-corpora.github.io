@@ -1,9 +1,10 @@
 ---
 # Display name
 title: Darja Fišer 
+avatar_filename: avatar.png
 # Proxy for Home Page
 social:
-- icon: globe-europe
+- icon: earth-europe
   icon_pack: fas
   link: http://lojze.lugos.si/darja/
 - icon: twitter
