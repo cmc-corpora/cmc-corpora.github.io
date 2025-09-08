@@ -168,7 +168,7 @@ headless_cms:
       label: People
       description: >
         People that can be referenced in other parts of the website for the
-        Steering Committee, CKCMC partners, authors of papers, pages and speakres for
+        Steering Committee, CKCMC partners, authors of pages, papers, and speakers for
         workshops or presentations.
       folder: 'content/authors'
       create: true
