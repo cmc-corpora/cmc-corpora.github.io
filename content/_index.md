@@ -83,7 +83,6 @@ sections:
     design:
       columns: '2'
 
-
   - block: collection
     id: updates
     content:
