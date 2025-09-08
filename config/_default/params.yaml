@@ -325,6 +325,7 @@ headless_cms:
       label_singular: Conference
       folder: 'content/project'
       path: '{{slug}}/index'
+      slug: 'cmc-corpora{{year}}'
       filter: {field: "cms_exclude"}
       create: true  # Allow users to create new documents in this collection
       fields:  # The fields each document in this collection have
