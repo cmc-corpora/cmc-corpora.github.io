@@ -1,8 +1,9 @@
 ---
 title: Egon W. Stemle
+avatar_filename: avatar.jpg
 bio: Researcher in Applied Linguistics
 social:
-  - icon: globe-europe
+  - icon: earth-europe
     icon_pack: fas
     link: https://iiegn.eu
   - icon: twitter
