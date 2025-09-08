@@ -175,7 +175,6 @@ headless_cms:
       delete: true
       path: '{{slug}}/_index'
       slug: '{{slug}}'
-      extension: 'md'
       filter: {field: "cms_exclude"}
       index_file: true
       fields:  # The fields each document in this collection have
@@ -258,7 +257,9 @@ headless_cms:
           hint: "LIKE: steering committee, former steering committee, CKCMC, ..."
           name: "user_groups"
           required: false
-          widget: "list"
+          widget: "select"
+          multiple: true
+          options: ["steering committee", "former steering committee", "CKCMC", "Eurac Research", "LLF", "IDS", "IJS"]
 
         - label: "Scientific Committee period (if applicable)"
           hint: "LIKE: '2014 - 2015' or 'since 2015'"
