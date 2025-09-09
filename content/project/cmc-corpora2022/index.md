@@ -20,9 +20,6 @@ links:
   - icon: globe-europe
     icon_pack: fas
     url: https://www.usc.es/en/congresos/cmc2022
-  - icon: twitter
-    icon_pack: fab
-    url: https://twitter.com/cmc_corpora
 event: cmc2022
 publishDate: 2017-01-01T00:00:00Z
 url_code: ""

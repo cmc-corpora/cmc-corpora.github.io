@@ -17,10 +17,6 @@ url_slides: ""
 address:
   city: Mannheim
   country: Germany
-links:
-  - icon: twitter
-    icon_pack: fab
-    url: https://twitter.com/cmc_corpora
 event: cmc2023
 publishDate: 2022-11-21T00:00:00Z
 url_code: ""

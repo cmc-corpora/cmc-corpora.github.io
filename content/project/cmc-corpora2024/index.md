@@ -21,9 +21,6 @@ links:
   - icon: globe-europe
     icon_pack: fas
     url: https://cmc-corpora-nice.sciencesconf.org/
-  - icon: twitter
-    icon_pack: fab
-    url: https://twitter.com/cmc_corpora
 event: cmc2024
 publishDate: 2023-12-18T00:00:00Z
 url_code: ""
