@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Proceedings of the 10th International Conference on CMC and Social Media Corpora for the Humanities 2023 (CMC-2023)"
+title: Proceedings available
 subtitle: "New Publication"
 authors:
 - Egon W. Stemle

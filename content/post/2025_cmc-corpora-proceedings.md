@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Proceedings of the 12th International Conference on Computer Mediated Communication and Social Media Corpora for the Humanities"
+title: Proceedings available
 subtitle: "New Publication"
 authors:
 - Egon W. Stemle

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Book of Abstracts of the 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora (CMC2022)"
+title: Proceedings available
 subtitle: "New Publication"
 authors:
 - Egon W. Stemle
