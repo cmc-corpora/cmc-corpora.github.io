@@ -18,9 +18,6 @@ links:
   - icon: globe-europe
     icon_pack: fas
     url: https://www.cmc2025.uni-bayreuth.de/en/
-  - icon: twitter
-    icon_pack: fab
-    url: https://twitter.com/cmc_corpora
 event: cmc2025
 url_code: ""
 all_day: true
