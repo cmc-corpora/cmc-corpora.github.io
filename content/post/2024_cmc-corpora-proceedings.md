@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Proceedings of the 11th Conference on CMC and Social Media Corpora for the Humanities
+title: Proceedings available 
 subtitle: "New Publication"
 authors:
 - Egon W. Stemle
