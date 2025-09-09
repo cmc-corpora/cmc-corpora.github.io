@@ -26,4 +26,8 @@ url_code: ""
 all_day: true
 share: false
 ---
-The 12th International Conference on CMC and Social Media Corpora for the Humanities (CMC-Corpora) was held at the **University of Bayreuth**, Germany, on the **4th and 5th of September, 2025**, hosted by the Department of German (Applied) Linguistics. The submission deadline for short papers and abstracts was **28 May 2025**. For more information, please visit <https://www.cmc2025.uni-bayreuth.de/en/>.
+The 12th International Conference on CMC and Social Media Corpora for the
+Humanities (CMC-Corpora) was held at the **University of Bayreuth**, Germany,
+on the **4th and 5th of September, 2025**, hosted by the Department of German
+(Applied) Linguistics. The submission deadline for short papers and abstracts
+was **28 May 2025**. 
