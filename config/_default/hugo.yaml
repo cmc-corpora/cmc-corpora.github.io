@@ -40,7 +40,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-enableGitInfo: true  # Get last modified date for content from Git?
+enableGitInfo: false  # Get last modified date for content from Git?
 summaryLength: 30
 pagination:
   pagerSize: 7
