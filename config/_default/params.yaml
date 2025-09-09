@@ -219,7 +219,8 @@ headless_cms:
                 - {label: "FA regular", value: "far"}
                 - {label: "FA brand (twitter, weixin, weibo, linkedin, github, facebook, pinterest, twitch, youtube, instagram, soundcloud)", value: "fab"}
                 - {label: "Academic (cv, google-scholar, arxiv, orcid, researchgate, mendeley)", value: "ai"}
-            - {label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons - Bootstrap), name: icon, widget: string}
+              hint: "LIKE: FA solid"
+            - {label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons - Bootstrap), name: icon, widget: string, hint: "LIKE: earth-europe"}
 
         - label: "Full biography"
           hint: "Shown on author pages"
