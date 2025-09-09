@@ -1,51 +1,26 @@
 ---
-# Display name
-title: Andreas Witt
 avatar_filename: avatar.jpg
-
-# Is this the primary user of the site?
-superuser: false
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: IDS
-  url: https://www.ids-mannheim.de
-
-# Short bio (displayed in user profile at end of posts)
 bio: Head of the Digital Linguistics Department
-
 social:
-- link: https://www.ids-mannheim.de/digspra/personal/witt/
-  icon: earth-europe
-  icon_pack: fas
-
-
-# Interests to show in About widget
+  - link: https://www.ids-mannheim.de/digspra/personal/witt/
+    icon: earth-europe
+    icon_pack: fas
 interests:
-- Text technology
-- Digital Humanities
-- Information Modelling
-- Corpus Linguistics
-- Markup Languages
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Email for Contact widget or Gravatar
-email: "witt@ids-mannheim.de"
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Remove this if you are not using the People widget.
+  - Text technology
+  - Digital Humanities
+  - Information Modelling
+  - Corpus Linguistics
+  - Markup Languages
+organizations:
+  - name: Leibniz-Institut für Deutsche Sprache (IDS)
+    url: https://www.ids-mannheim.de
+superuser: false
 user_groups:
-- IDS
-- CKCMC 
+  - IDS
+  - CKCMC
+highlight_name: false
+title: Andreas Witt
+email: witt@ids-mannheim.de
 ---
 
 Andreas Witt is Professor of Computational Humanities and Text
