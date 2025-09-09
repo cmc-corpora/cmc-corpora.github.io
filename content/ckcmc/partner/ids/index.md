@@ -17,6 +17,7 @@ image:
   focal_point: Smart
 
 authors:
+- Laura Herzberg
 - Harald Lüngen
 - Andreas Witt
 
@@ -35,3 +36,4 @@ IDS is a member of [CLARIN-D](https://www.clarin-d.de/en/), the German branch of
 
 The IDS was founded in 1964. As a member of the Leibniz Association, the Institute is financed jointly by the Federal Government and the state of Baden-Württemberg. Various additional funding is provided by research-promotion organizations such as the Deutsche Forschungsgemeinschaft (German Community for the Promotion of Research) and the Volkswagen-Stiftung (Volkswagen Foundation). At present, the IDS has 227 employees including 105 researchers.
 
+<!-- {{ < ckcmc_partner_people "ids" > }} -->
