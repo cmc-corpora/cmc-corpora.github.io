@@ -232,6 +232,8 @@ headless_cms:
           name: "interests"
           required: false
           widget: "list"
+          collapsed: false
+          field: {label: interest, name: interest, hint: "LIKE: Language learning"}
 
         - label: "Organizations you belong to or are affiliated with"
           hint: "Shown on author pages"
