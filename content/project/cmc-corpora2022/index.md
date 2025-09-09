@@ -5,9 +5,6 @@ url_pdf: ""
 summary: ""
 section_pager: true
 date_end: 2022-09-29
-authors:
-- Steven Coats
-- Egon W. Stemle
 profile: false
 url_video: ""
 title: "CMC2022: 9th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora"
