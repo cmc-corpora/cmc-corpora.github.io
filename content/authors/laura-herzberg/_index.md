@@ -20,4 +20,7 @@ superuser: false
 user_groups:
   - CKCMC
   - IDS
+  - steering committee
+
+role: "since 2025"
 ---
