@@ -1,6 +1,9 @@
 ---
 # Display name
 title: Michael Beißwenger
+slug: michael-beisswenger
+aliases:
+  - /people/michael-beißwenger
 avatar_filename: avatar.png
 
 social:

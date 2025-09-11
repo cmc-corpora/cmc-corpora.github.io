@@ -18,6 +18,8 @@ user_groups:
 highlight_name: false
 title: Harald Lüngen
 email: luengen@ids-mannheim.de
+aliases:
+  - /people/harald-lüngen
 ---
 
 Harald is a computational linguist and a member of the corpus building project for written corpora at the IDS. He works on the acquisition of text data and their preparation and integration in the German Reference Corpus DeReKo. He is responsible for I5, the TEI customisation used for encoding DeReKo. In his research, he is concerned with text and corpus technology and with issues of building and managing very large corpora. In particular, he is interested in the modelling and encoding of CMC corpora. He is a member of the TEI SIG CMC. 
