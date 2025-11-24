@@ -6,7 +6,7 @@ date_end: 2025-09-05
 subtitle: 4-5 September 2025 in Bayreuth (Germany)
 date: 2024-12-17T16:59:56.225Z
 draft: false
-featured: true
+featured: false
 address:
   city: Bayreuth
   country: Germany
