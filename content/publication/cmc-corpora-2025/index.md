@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 	
-Impulses and Approaches to Computer-Mediated Communication: Proceedings of the 12th International Conference on Computer Mediated Communication and Social Media Corpora for the Humanities
+title: Impulses and Approaches to Computer-Mediated Communication: Proceedings of the 12th International Conference on Computer Mediated Communication and Social Media Corpora for the Humanities
 subtitle: ''
 summary: ''
 authors:
