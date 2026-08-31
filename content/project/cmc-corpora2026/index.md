@@ -10,11 +10,11 @@ url_video: ""
 title: "CMC2026: 13th Conference on Computer-Mediated Communication (CMC) and
   Social Media Corpora"
 subtitle: "27-28 August 2026 in Oulu (Finland)"
-date: 2025-11-24
+date: 2026-08-27
 featured: true
 tags: []
 image:
-  caption: "CMC-Corpora 2026 participants at the University of Oulu"
+  caption: "CMC-Corpora 2026 participants at the University of Oulu. Photo: Laura Kymäläinen."
   focal_point: Bottom
   preview_only: false
 url_slides: ""
