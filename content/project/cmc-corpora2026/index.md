@@ -1,7 +1,7 @@
 ---
-#draft: true
+draft: false
 slides: ""
-url_pdf: ""
+url_pdf: https://ids-pub.bsz-bw.de/files/13980/Proceedings_CMC_2026.pdf
 summary: ""
 section_pager: true
 date_end: 2026-08-28
@@ -28,7 +28,7 @@ all_day: true
 share: false
 ---
 
-The 13th International Conference on CMC and Social Media Corpora for the Humanities (CMC-Corpora) will be held in Oulu, Finland, on 27–28 August 2026.
+The 13th International Conference on CMC and Social Media Corpora for the Humanities (CMC-Corpora) was held in Oulu, Finland, on 27–28 August 2026.
 
 The CMC-Corpora Conference brings together language-centered research on computer-mediated communication (CMC) and social media across linguistics, philologies, communication and media studies, foreign language teaching and learning, and the social sciences. It also welcomes work at the intersection of these fields with corpus and computational linguistics, language and text technology, and machine learning. 
 
@@ -36,4 +36,6 @@ The focus lies both on studies using computational and empirical methods to anal
 
 We adopt a broad definition of CMC and social media, encompassing a wide range of digital communication platforms, including email, forums, chat and messenger applications (e.g. WhatsApp, Telegram), social networking and content-sharing platforms (e.g. Facebook, Instagram, TikTok, 𝕏/Twitter), video portals (e.g. YouTube), online gaming environments, and communication spaces within learning platforms and virtual worlds. 
 
-CMC-Corpora 2026 welcomes you to Oulu, a vibrant university city in Northern Finland, known for its creativity, technology, and cultural innovation. As a European Capital of Culture 2026, Oulu will host a year-long celebration of art, language, and digital culture, making it the perfect setting for this conference. Join us to explore language, communication, and technology in a uniquely northern atmosphere of collaboration and discovery. 
+CMC-Corpora 2026 took place in Oulu, a university city in Northern Finland and a European Capital of Culture in 2026. The conference provided a northern setting for exchange on language, communication, corpus research, and technology.
+
+The open-access [conference proceedings](https://doi.org/10.14618/0j79-7835) are published by the Leibniz Institute for the German Language (IDS) and are also available as a [direct PDF download](https://ids-pub.bsz-bw.de/files/13980/Proceedings_CMC_2026.pdf).
