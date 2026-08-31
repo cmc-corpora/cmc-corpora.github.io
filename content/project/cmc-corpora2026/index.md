@@ -13,6 +13,10 @@ subtitle: "27-28 August 2026 in Oulu (Finland)"
 date: 2025-11-24
 featured: true
 tags: []
+image:
+  caption: "CMC-Corpora 2026 participants at the University of Oulu"
+  focal_point: Bottom
+  preview_only: false
 url_slides: ""
 address:
   city: Oulu
